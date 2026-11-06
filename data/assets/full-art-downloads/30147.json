@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30147.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30147-jungle-pocket",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:36 GMT",
+  "etag": "\"31b3d5176c9f318d61d24c8a17eba988\"",
+  "file": {
+    "path": "game-assets/supports/art/30147.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 85856,
+    "mimeType": "image/png",
+    "sha256": "97c0820d78025df0b938e69eb4221b2ff43402bbc27c12fcc4ca25948e63b139",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30147.png",
+    "sourceAssetId": "umamusume/supports/full/small/30147.png",
+    "sourceId": "gametora-media"
+  }
+}

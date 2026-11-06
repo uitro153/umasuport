@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10091.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10091-katsuragi-ace",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:40 GMT",
+  "etag": "\"e92b1236bbf48c3fb7a175ac5e221135\"",
+  "file": {
+    "path": "game-assets/supports/art/10091.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 56446,
+    "mimeType": "image/png",
+    "sha256": "7c2fe8fb23b7984c451fe8b0f0fff43a3a0caf8efdf2623c344d6e4f44278edf",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10091.png",
+    "sourceAssetId": "umamusume/supports/full/small/10091.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10127.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10127-air-messiah",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:46 GMT",
+  "etag": "\"e7f96cca2da7e8539f2acf5c97490df2\"",
+  "file": {
+    "path": "game-assets/supports/art/10127.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 51401,
+    "mimeType": "image/png",
+    "sha256": "f78dd04d2e6bcb9dd0d530abfed09fd179e29fa7ae551c7568d98d50287f7d47",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10127.png",
+    "sourceAssetId": "umamusume/supports/full/small/10127.png",
+    "sourceId": "gametora-media"
+  }
+}

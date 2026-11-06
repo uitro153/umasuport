@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20067.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20067-taiki-shuttle",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:02 GMT",
+  "etag": "\"64c4f71fb4f2fc1239d0bed015c513fe\"",
+  "file": {
+    "path": "game-assets/supports/art/20067.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 70956,
+    "mimeType": "image/png",
+    "sha256": "5ca02ca842b494ddcd7ae2ff3f44a792f2ae588206d8f2672c3e66a3becedcc2",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20067.png",
+    "sourceAssetId": "umamusume/supports/full/small/20067.png",
+    "sourceId": "gametora-media"
+  }
+}

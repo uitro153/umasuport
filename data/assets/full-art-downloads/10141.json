@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10141.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10141-casino-drive",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:49 GMT",
+  "etag": "\"0e0d360920ffb99949276c5a46606dee\"",
+  "file": {
+    "path": "game-assets/supports/art/10141.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 62291,
+    "mimeType": "image/png",
+    "sha256": "b478816cf951ecd78726ee58ac002b266eda3c234921b6873d43962c8ee558ad",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10141.png",
+    "sourceAssetId": "umamusume/supports/full/small/10141.png",
+    "sourceId": "gametora-media"
+  }
+}

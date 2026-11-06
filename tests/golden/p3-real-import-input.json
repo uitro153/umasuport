@@ -1,0 +1,6125 @@
+{
+  "skills": [
+    {
+      "id": 100011,
+      "name_ja": "シューティングスター",
+      "name_ko": "슈팅 스타",
+      "name_en": "Shooting Star",
+      "rarity": 5,
+      "cost": null,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 0,
+        "char": [
+          100101
+        ],
+        "condition_groups": [
+          {
+            "base_time": 60000,
+            "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+            "effects": [
+              {
+                "type": 22,
+                "value": 3500
+              },
+              {
+                "type": 31,
+                "value": 1000
+              }
+            ]
+          }
+        ],
+        "desc_en": "Ride the momentum to surge ahead and very slightly increase acceleration after passing another runner toward the front late-race.",
+        "desc_ko": "레이스 종반에 전방에서 상대를 추월하면 기세를 몰아 앞으로 나가면서 추가로 가속력이 아주 조금 상승한다",
+        "desc_tw": "在競賽後期若於隊列前方追過對手會順勢向前邁進加速力會些微上升",
+        "endesc": "If you're not in the back of the pack and overtake someone during the Final Leg or beyond, you will get a speed boost and your acceleration will slightly increase",
+        "enname": "Shooting Star",
+        "gene_version": {
+          "activation": 1,
+          "condition_groups": [
+            {
+              "base_time": 36000,
+              "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+              "effects": [
+                {
+                  "type": 22,
+                  "value": 1500
+                },
+                {
+                  "type": 31,
+                  "value": 500
+                }
+              ]
+            }
+          ],
+          "cost": 200,
+          "desc_en": "After passing another runner toward the front late-race, slightly surge ahead, and very minimally increase acceleration.",
+          "desc_ko": "레이스 종반에 전방에서 상대를 추월하면 약간 앞으로 나가면서 가속력이 매우 조금 상승한다",
+          "desc_tw": "在競賽後期若於隊列前方追過對手會略微向前邁進加速力會微微上升",
+          "iconid": 20011,
+          "id": 900011,
+          "inherited": true,
+          "name_en": "Shooting Star",
+          "name_ko": "슈팅 스타",
+          "name_tw": "逐夢之星",
+          "parent_skills": [
+            100011
+          ],
+          "rarity": 1,
+          "tid": "B"
+        },
+        "iconid": 20013,
+        "id": 100011,
+        "jpdesc": "レース終盤以降に追い抜いて中団以前につけると前に出続けて加速力をちょっと上げ続ける",
+        "jpname": "シューティングスター",
+        "loc": {
+          "en": {
+            "char": [
+              100101
+            ],
+            "condition_groups": [
+              {
+                "base_time": 50000,
+                "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                "effects": [
+                  {
+                    "type": 22,
+                    "value": 3500
+                  },
+                  {
+                    "type": 31,
+                    "value": 1000
+                  }
+                ]
+              }
+            ],
+            "gene_version": {
+              "condition_groups": [
+                {
+                  "base_time": 30000,
+                  "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                  "effects": [
+                    {
+                      "type": 22,
+                      "value": 1500
+                    },
+                    {
+                      "type": 31,
+                      "value": 500
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "ko": {
+            "char": [
+              100101
+            ],
+            "condition_groups": [
+              {
+                "base_time": 50000,
+                "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                "effects": [
+                  {
+                    "type": 22,
+                    "value": 3500
+                  },
+                  {
+                    "type": 31,
+                    "value": 1000
+                  }
+                ]
+              }
+            ],
+            "gene_version": {
+              "condition_groups": [
+                {
+                  "base_time": 30000,
+                  "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                  "effects": [
+                    {
+                      "type": 22,
+                      "value": 1500
+                    },
+                    {
+                      "type": 31,
+                      "value": 500
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "zh_tw": {
+            "char": [
+              100101
+            ],
+            "condition_groups": [
+              {
+                "base_time": 50000,
+                "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                "effects": [
+                  {
+                    "type": 22,
+                    "value": 3500
+                  },
+                  {
+                    "type": 31,
+                    "value": 1000
+                  }
+                ]
+              }
+            ],
+            "gene_version": {
+              "condition_groups": [
+                {
+                  "base_time": 30000,
+                  "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                  "effects": [
+                    {
+                      "type": 22,
+                      "value": 1500
+                    },
+                    {
+                      "type": 31,
+                      "value": 500
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "name_en": "Shooting Star",
+        "name_ko": "슈팅 스타",
+        "name_tw": "逐夢之星",
+        "rarity": 5,
+        "tid": "A",
+        "type": [
+          "l_2",
+          "l_3",
+          "nac"
+        ]
+      }
+    },
+    {
+      "id": 200011,
+      "name_ja": "右回り◎",
+      "name_ko": "시계(우) 방향◎",
+      "name_en": "Right-Handed ◎",
+      "rarity": 1,
+      "cost": 110,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 0,
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 600000
+              }
+            ]
+          }
+        ],
+        "cost": 110,
+        "desc_en": "Increase performance on right-handed tracks.",
+        "desc_ko": "시계(우회전) 방향 코스에 강해진다",
+        "desc_tw": "變得擅長順時針賽道",
+        "endesc": "Your Speed stat is increased by 60 on clockwise tracks",
+        "enname": "Right Turns ◎",
+        "iconid": 10011,
+        "id": 200011,
+        "jpdesc": "右回りコースならスピードが上がる",
+        "jpname": "右回り◎",
+        "name_en": "Right-Handed ◎",
+        "name_ko": "시계(우) 방향◎",
+        "name_tw": "順時針◎",
+        "rarity": 1,
+        "tid": "1e",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200012,
+          200013,
+          200014
+        ]
+      }
+    },
+    {
+      "id": 200012,
+      "name_ja": "右回り○",
+      "name_ko": "시계(우) 방향○",
+      "name_en": "Right-Handed ○",
+      "rarity": 1,
+      "cost": 90,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 0,
+        "char": [
+          105602,
+          102201,
+          106701,
+          105802,
+          106703,
+          106803,
+          111901,
+          102303,
+          111101,
+          112701,
+          110902,
+          111301,
+          110602,
+          100503,
+          107403,
+          114901
+        ],
+        "char_e": [
+          100502,
+          102002,
+          104701,
+          104702,
+          110702,
+          101703
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        ],
+        "cost": 90,
+        "desc_en": "Moderately increase performance on right-handed tracks.",
+        "desc_ko": "시계(우회전) 방향 코스에 다소 강해진다",
+        "desc_tw": "變得稍微擅長順時針賽道",
+        "endesc": "Your Speed stat is increased by 40 on clockwise tracks",
+        "enname": "Right Turns ○",
+        "iconid": 10011,
+        "id": 200012,
+        "jpdesc": "右回りコースならスピードが少し上がる",
+        "jpname": "右回り○",
+        "loc": {
+          "en": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701
+            ],
+            "sup_e": [
+              [
+                30065,
+                20016
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                20037,
+                20053
+              ],
+              [
+                10028,
+                10072,
+                10076
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802,
+              106703,
+              106803,
+              111901,
+              102303,
+              111101,
+              112701
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701,
+              104702,
+              110702
+            ],
+            "sup_e": [
+              [
+                30065,
+                30163,
+                20016,
+                20058
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30037,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                30167,
+                30168,
+                30175,
+                30204,
+                30230,
+                30246,
+                20037,
+                20053,
+                20057,
+                20059,
+                20079
+              ],
+              [
+                10028,
+                10072,
+                10076,
+                10119
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802,
+              106703,
+              106803,
+              111901,
+              102303,
+              111101,
+              112701
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701,
+              104702,
+              110702
+            ],
+            "sup_e": [
+              [
+                30065,
+                30163,
+                20016,
+                20058
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30037,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                30167,
+                30168,
+                30175,
+                30204,
+                30230,
+                30246,
+                20037,
+                20053,
+                20057,
+                20059,
+                20079
+              ],
+              [
+                10028,
+                10072,
+                10076,
+                10119
+              ]
+            ]
+          }
+        },
+        "name_en": "Right-Handed ○",
+        "name_ko": "시계(우) 방향○",
+        "name_tw": "順時針○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30065,
+            30163,
+            20016,
+            20058
+          ],
+          []
+        ],
+        "sup_hint": [
+          [
+            30010,
+            30037,
+            30044,
+            30069,
+            30087,
+            30105,
+            30123,
+            30167,
+            30168,
+            30175,
+            30204,
+            30230,
+            30246,
+            30261,
+            30281,
+            30286,
+            30311,
+            20037,
+            20053,
+            20057,
+            20059,
+            20079
+          ],
+          [
+            10028,
+            10072,
+            10076,
+            10119,
+            10131,
+            10146
+          ]
+        ],
+        "tid": "1f",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200011,
+          200013,
+          200014
+        ]
+      }
+    },
+    {
+      "id": 200013,
+      "name_ja": "右回り×",
+      "name_ko": "시계(우) 방향×",
+      "name_en": "Right-Handed ×",
+      "rarity": 1,
+      "cost": 50,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 0,
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": -400000
+              }
+            ]
+          }
+        ],
+        "cost": 50,
+        "desc_en": "Moderately decrease performance on right-handed tracks.",
+        "desc_ko": "시계(우회전) 방향 코스에 다소 약해진다",
+        "desc_tw": "變得稍微不擅長順時針賽道",
+        "endesc": "Your Speed stat is decreased by 40 on clockwise tracks",
+        "enname": "Right Turns ×",
+        "iconid": 10014,
+        "id": 200013,
+        "jpdesc": "右回りコースならスピードが少し下がる",
+        "jpname": "右回り×",
+        "name_en": "Right-Handed ×",
+        "name_ko": "시계(우) 방향×",
+        "name_tw": "順時針×",
+        "rarity": 1,
+        "tid": "1g",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200011,
+          200012,
+          200014
+        ]
+      }
+    },
+    {
+      "id": 200014,
+      "name_ja": "右回りの鬼",
+      "name_ko": "시계 방향의 귀신",
+      "name_en": "Right-Handed Demon",
+      "rarity": 2,
+      "cost": 130,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 0,
+        "char": [
+          106701,
+          111901
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 600000
+              },
+              {
+                "type": 3,
+                "value": 600000
+              }
+            ]
+          }
+        ],
+        "cost": 130,
+        "desc_en": "Increase proficiency in right-handed tracks, increasing Speed and Power.",
+        "desc_ko": "시계(우회전) 방향 코스에 강해져서 스피드와 파워가 상승한다",
+        "desc_tw": "變得擅長順時針賽道速度和力量上升",
+        "endesc": "Your Speed and Power stats are increased by 60 on clockwise tracks",
+        "enname": "Clockwise Demon",
+        "evo": [
+          {
+            "card_id": 106701,
+            "evos": [
+              106701211
+            ]
+          },
+          {
+            "card_id": 111901,
+            "evos": [
+              111901111
+            ]
+          }
+        ],
+        "iconid": 10012,
+        "id": 200014,
+        "jpdesc": "右回りコースならスピードとパワーが上がる",
+        "jpname": "右回りの鬼",
+        "loc": {
+          "en": {
+            "char": [
+              106701
+            ]
+          },
+          "ko": {
+            "char": [
+              106701,
+              111901
+            ],
+            "sup_e": [
+              [
+                30163
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              106701,
+              111901
+            ],
+            "sup_e": [
+              [
+                30163
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Right-Handed Demon",
+        "name_ko": "시계 방향의 귀신",
+        "name_tw": "順時針之鬼",
+        "rarity": 2,
+        "sup_e": [
+          [
+            30163
+          ],
+          []
+        ],
+        "tid": "8C",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200011,
+          200012,
+          200013
+        ]
+      }
+    },
+    {
+      "id": 200331,
+      "name_ja": "弧線のプロフェッサー",
+      "name_ko": "호선의 프로페서",
+      "name_en": "Professor of Curvature",
+      "rarity": 2,
+      "cost": 180,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 1,
+        "char": [
+          101701,
+          104502
+        ],
+        "condition_groups": [
+          {
+            "base_time": 24000,
+            "cd": 300000,
+            "condition": "all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 3500
+              }
+            ]
+          }
+        ],
+        "cost": 180,
+        "desc_en": "Increase velocity on a corner with skilled turning.",
+        "desc_ko": "코너에 능숙해져 속도가 상승한다",
+        "desc_tw": "變得擅長彎道速度上升",
+        "endesc": "At a random point on a random corner, your speed will increase",
+        "enname": "Archline Professor",
+        "evo": [
+          {
+            "card_id": 101701,
+            "evos": [
+              101701211
+            ]
+          },
+          {
+            "card_id": 104502,
+            "evos": [
+              104502111
+            ]
+          },
+          {
+            "evos": [
+              409061
+            ],
+            "scenario_id": 9
+          }
+        ],
+        "iconid": 20012,
+        "id": 200331,
+        "jpdesc": "いずれかのコーナーのどこかで速度が上がる",
+        "jpname": "弧線のプロフェッサー",
+        "loc": {
+          "en": {
+            "char": [
+              101701,
+              104502
+            ],
+            "sup_e": [
+              [
+                30028,
+                30111
+              ],
+              []
+            ]
+          },
+          "ko": {
+            "char": [
+              101701,
+              104502
+            ],
+            "sup_e": [
+              [
+                30028,
+                30111,
+                30161,
+                30242
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              101701,
+              104502
+            ],
+            "sup_e": [
+              [
+                30028,
+                30111,
+                30161,
+                30242
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Professor of Curvature",
+        "name_ko": "호선의 프로페서",
+        "name_tw": "弧線的教授",
+        "rarity": 2,
+        "sce_e": [
+          9
+        ],
+        "sup_e": [
+          [
+            30028,
+            30111,
+            30161,
+            30242,
+            30304
+          ],
+          []
+        ],
+        "tid": "2C",
+        "type": [
+          "cor",
+          "nac"
+        ],
+        "versions": [
+          200332,
+          200333
+        ]
+      }
+    },
+    {
+      "id": 200332,
+      "name_ja": "コーナー巧者○",
+      "name_ko": "코너 달인○",
+      "name_en": "Corner Adept ○",
+      "rarity": 1,
+      "cost": 180,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 1,
+        "char": [
+          101701,
+          102402,
+          104502,
+          100103,
+          112901
+        ],
+        "char_e": [
+          100101,
+          100102,
+          106801,
+          105101,
+          103601,
+          100103,
+          106802,
+          108301,
+          105102,
+          103202,
+          103602,
+          108302,
+          106803,
+          103203,
+          103201
+        ],
+        "condition_groups": [
+          {
+            "base_time": 24000,
+            "cd": 300000,
+            "condition": "all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        ],
+        "cost": 180,
+        "desc_en": "Slightly increase velocity on a corner with skilled turning.",
+        "desc_ko": "코너에 능숙해져 속도가 약간 상승한다",
+        "desc_tw": "變得擅長彎道速度略微上升",
+        "endesc": "At a random point on a random corner, your speed will slightly increase",
+        "enname": "Clever Cornerer ○",
+        "iconid": 20011,
+        "id": 200332,
+        "jpdesc": "いずれかのコーナーのどこかで速度がわずかに上がる",
+        "jpname": "コーナー巧者○",
+        "loc": {
+          "en": {
+            "char": [
+              101701,
+              102402,
+              104502,
+              100103
+            ],
+            "char_e": [
+              100101,
+              100102,
+              106801,
+              105101,
+              103601,
+              100103,
+              106802,
+              103201
+            ],
+            "sup_e": [
+              [
+                30010,
+                20037
+              ],
+              [
+                10028
+              ]
+            ],
+            "sup_hint": [
+              [
+                30022,
+                30024,
+                30028,
+                30072,
+                30111,
+                30146,
+                20007
+              ],
+              [
+                10005,
+                10030,
+                10055
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              101701,
+              102402,
+              104502,
+              100103
+            ],
+            "char_e": [
+              100101,
+              100102,
+              106801,
+              105101,
+              103601,
+              100103,
+              106802,
+              108301,
+              105102,
+              103202,
+              103602,
+              108302,
+              106803,
+              103203,
+              103201
+            ],
+            "sup_e": [
+              [
+                30010,
+                30037,
+                30137,
+                30152,
+                30167,
+                30214,
+                30241,
+                20037
+              ],
+              [
+                10028
+              ]
+            ],
+            "sup_hint": [
+              [
+                30022,
+                30024,
+                30028,
+                30072,
+                30111,
+                30138,
+                30146,
+                30147,
+                30154,
+                30161,
+                30164,
+                30187,
+                30202,
+                30213,
+                30215,
+                30226,
+                30232,
+                30242,
+                20007,
+                20036,
+                20066
+              ],
+              [
+                10005,
+                10030,
+                10055,
+                10096,
+                10103,
+                10116,
+                10122
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              101701,
+              102402,
+              104502,
+              100103
+            ],
+            "char_e": [
+              100101,
+              100102,
+              106801,
+              105101,
+              103601,
+              100103,
+              106802,
+              108301,
+              105102,
+              103202,
+              103602,
+              108302,
+              106803,
+              103203,
+              103201
+            ],
+            "sup_e": [
+              [
+                30010,
+                30037,
+                30137,
+                30152,
+                30167,
+                30214,
+                30241,
+                20037
+              ],
+              [
+                10028
+              ]
+            ],
+            "sup_hint": [
+              [
+                30022,
+                30024,
+                30028,
+                30072,
+                30111,
+                30138,
+                30146,
+                30147,
+                30154,
+                30161,
+                30164,
+                30187,
+                30202,
+                30213,
+                30215,
+                30226,
+                30232,
+                30242,
+                20007,
+                20036,
+                20066
+              ],
+              [
+                10005,
+                10030,
+                10055,
+                10096,
+                10103,
+                10116,
+                10122
+              ]
+            ]
+          }
+        },
+        "name_en": "Corner Adept ○",
+        "name_ko": "코너 달인○",
+        "name_tw": "彎道靈巧○",
+        "rarity": 1,
+        "sce_e": [
+          9
+        ],
+        "sup_e": [
+          [
+            30010,
+            30037,
+            30137,
+            30152,
+            30167,
+            30214,
+            30241,
+            30283,
+            20037
+          ],
+          [
+            10028
+          ]
+        ],
+        "sup_hint": [
+          [
+            30022,
+            30024,
+            30028,
+            30072,
+            30111,
+            30138,
+            30146,
+            30147,
+            30154,
+            30161,
+            30164,
+            30187,
+            30202,
+            30213,
+            30215,
+            30226,
+            30232,
+            30242,
+            30264,
+            30303,
+            30304,
+            30311,
+            20007,
+            20036,
+            20066
+          ],
+          [
+            10005,
+            10030,
+            10055,
+            10096,
+            10103,
+            10116,
+            10122,
+            10132,
+            10146
+          ]
+        ],
+        "tid": "2D",
+        "type": [
+          "cor",
+          "nac"
+        ],
+        "versions": [
+          200331,
+          200333
+        ]
+      }
+    },
+    {
+      "id": 200333,
+      "name_ja": "コーナー巧者×",
+      "name_ko": "코너 달인×",
+      "name_en": "Corner Adept ×",
+      "rarity": 1,
+      "cost": 100,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 1,
+        "condition_groups": [
+          {
+            "base_time": 24000,
+            "cd": 300000,
+            "condition": "all_corner_random==1",
+            "effects": [
+              {
+                "type": 21,
+                "value": -2000
+              }
+            ]
+          }
+        ],
+        "cost": 100,
+        "desc_en": "Moderately decrease velocity on a corner with clumsy turning.",
+        "desc_ko": "코너에 서툴러져 속도가 다소 하락한다",
+        "desc_tw": "變得不擅長彎道速度稍微下降",
+        "endesc": "At a random point on a random corner, your speed will slightly decrease",
+        "enname": "Clever Cornerer ×",
+        "iconid": 20014,
+        "id": 200333,
+        "jpdesc": "いずれかのコーナーのどこかで速度が少し下がる",
+        "jpname": "コーナー巧者×",
+        "name_en": "Corner Adept ×",
+        "name_ko": "코너 달인×",
+        "name_tw": "彎道靈巧×",
+        "rarity": 1,
+        "tid": "2E",
+        "type": [
+          "cor",
+          "nac"
+        ],
+        "versions": [
+          200331,
+          200332
+        ]
+      }
+    },
+    {
+      "id": 201601,
+      "name_ja": "地固め",
+      "name_ko": "터다지기",
+      "name_en": "Groundwork",
+      "rarity": 1,
+      "cost": 100,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 1,
+        "char": [
+          102602,
+          108701,
+          106802,
+          103102,
+          106402,
+          108001,
+          106502,
+          102403,
+          109001,
+          110902,
+          108002,
+          112402
+        ],
+        "char_e": [
+          104102,
+          110401,
+          100202,
+          112001,
+          110402,
+          109802
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        ],
+        "cost": 100,
+        "desc_en": "Slightly increase acceleration after activating many skills early-race.",
+        "desc_ko": "레이스 초반에 스킬을 많이 발동하면 가속력이 약간 상승한다",
+        "desc_tw": "在競賽初期若發動多個技能加速力會略微上升",
+        "endesc": "Slightly increase acceleration when many skills are activated during the Opening Leg",
+        "enname": "Groundwork",
+        "iconid": 20041,
+        "id": 201601,
+        "jpdesc": "レース序盤にスキルを3回発動すると加速力がわずかに上がる",
+        "jpname": "地固め",
+        "loc": {
+          "en": {
+            "char": [
+              102602,
+              108701,
+              106802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                20004,
+                20048,
+                20050
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              102602,
+              108701,
+              106802,
+              103102,
+              106402,
+              108001,
+              106502,
+              102403,
+              109001
+            ],
+            "char_e": [
+              104102,
+              110401,
+              100202,
+              112001,
+              110402,
+              109802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083,
+                30135,
+                30241
+              ],
+              [
+                10091
+              ]
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                30141,
+                30154,
+                30184,
+                30208,
+                30210,
+                30211,
+                30218,
+                30237,
+                30238,
+                30249,
+                30252,
+                30253,
+                20004,
+                20048,
+                20050,
+                20055
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025,
+                10087,
+                10125
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              102602,
+              108701,
+              106802,
+              103102,
+              106402,
+              108001,
+              106502,
+              102403,
+              109001
+            ],
+            "char_e": [
+              104102,
+              110401,
+              100202,
+              112001,
+              110402,
+              109802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083,
+                30135,
+                30241
+              ],
+              [
+                10091
+              ]
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                30141,
+                30154,
+                30184,
+                30208,
+                30210,
+                30211,
+                30218,
+                30237,
+                30238,
+                30249,
+                30252,
+                30253,
+                20004,
+                20048,
+                20050,
+                20055
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025,
+                10087,
+                10125
+              ]
+            ]
+          }
+        },
+        "name_en": "Groundwork",
+        "name_ko": "터다지기",
+        "name_tw": "打好基礎",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30017,
+            30083,
+            30135,
+            30241
+          ],
+          [
+            10091
+          ]
+        ],
+        "sup_hint": [
+          [
+            30004,
+            30024,
+            30057,
+            30107,
+            30115,
+            30141,
+            30154,
+            30184,
+            30208,
+            30210,
+            30211,
+            30218,
+            30237,
+            30238,
+            30249,
+            30252,
+            30253,
+            30264,
+            30277,
+            30284,
+            30288,
+            30289,
+            30307,
+            30322,
+            20004,
+            20048,
+            20050,
+            20055
+          ],
+          [
+            10005,
+            10006,
+            10013,
+            10025,
+            10087,
+            10125,
+            10132,
+            10140,
+            10145
+          ]
+        ],
+        "tid": "6h",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          201602
+        ]
+      }
+    },
+    {
+      "id": 201602,
+      "name_ja": "盤石の構え",
+      "name_ko": "만반의 준비",
+      "name_en": "Solid Preparation",
+      "rarity": 2,
+      "cost": 180,
+      "origin": "gametora_root",
+      "source_id": "ut",
+      "raw": {
+        "activation": 1,
+        "char": [
+          108001,
+          109001,
+          108002
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 4000
+              }
+            ]
+          }
+        ],
+        "cost": 180,
+        "desc_en": "Increase acceleration when many skills activate early-race.",
+        "desc_ko": "레이스 초반에 스킬을 많이 발동하면 가속력이 상승한다",
+        "desc_tw": "在競賽初期若發動多個技能加速力會上升",
+        "endesc": "If you've activated at least 3 skills during the Opening Leg, your acceleration will increase",
+        "enname": "Unshakable Stance",
+        "evo": [
+          {
+            "card_id": 108001,
+            "evos": [
+              108001111
+            ]
+          },
+          {
+            "card_id": 109001,
+            "evos": [
+              109001211
+            ]
+          },
+          {
+            "card_id": 108002,
+            "evos": [
+              108002111
+            ]
+          }
+        ],
+        "iconid": 20042,
+        "id": 201602,
+        "jpdesc": "レース序盤にスキルを3回発動すると加速力が上がる",
+        "jpname": "盤石の構え",
+        "loc": {
+          "ko": {
+            "char": [
+              108001,
+              109001
+            ],
+            "sup_e": [
+              [
+                30141
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              108001,
+              109001
+            ],
+            "sup_e": [
+              [
+                30141
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Solid Preparation",
+        "name_ko": "만반의 준비",
+        "name_tw": "磐石的架式",
+        "rarity": 2,
+        "sup_e": [
+          [
+            30141
+          ],
+          []
+        ],
+        "tid": "gS",
+        "type": [
+          "nac"
+        ],
+        "unreleased": [
+          "en"
+        ],
+        "versions": [
+          201601
+        ]
+      }
+    },
+    {
+      "id": 900011,
+      "name_ja": "シューティングスター",
+      "name_ko": "슈팅 스타",
+      "name_en": "Shooting Star",
+      "rarity": 1,
+      "cost": 200,
+      "origin": "explicit_inherited",
+      "source_id": "ut",
+      "raw": {
+        "activation": 1,
+        "condition_groups": [
+          {
+            "base_time": 36000,
+            "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+            "effects": [
+              {
+                "type": 22,
+                "value": 1500
+              },
+              {
+                "type": 31,
+                "value": 500
+              }
+            ]
+          }
+        ],
+        "cost": 200,
+        "desc_en": "After passing another runner toward the front late-race, slightly surge ahead, and very minimally increase acceleration.",
+        "desc_ko": "레이스 종반에 전방에서 상대를 추월하면 약간 앞으로 나가면서 가속력이 매우 조금 상승한다",
+        "desc_tw": "在競賽後期若於隊列前方追過對手會略微向前邁進加速力會微微上升",
+        "iconid": 20011,
+        "id": 900011,
+        "inherited": true,
+        "name_en": "Shooting Star",
+        "name_ko": "슈팅 스타",
+        "name_tw": "逐夢之星",
+        "parent_skills": [
+          100011
+        ],
+        "rarity": 1,
+        "tid": "B"
+      }
+    }
+  ],
+  "skillRevisions": [
+    {
+      "skill_id": 100011,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 60000,
+          "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+          "effects": [
+            {
+              "type": 22,
+              "value": 3500
+            },
+            {
+              "type": 31,
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 100011,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 50000,
+          "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+          "effects": [
+            {
+              "type": 22,
+              "value": 3500
+            },
+            {
+              "type": 31,
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200011,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": 600000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200011,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": 600000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200012,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200012,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200013,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": -400000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200013,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": -400000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200331,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 24000,
+          "cd": 300000,
+          "condition": "all_corner_random==1",
+          "effects": [
+            {
+              "type": 27,
+              "value": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200331,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 24000,
+          "cd": 300000,
+          "condition": "all_corner_random==1",
+          "effects": [
+            {
+              "type": 27,
+              "value": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200332,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 24000,
+          "cd": 300000,
+          "condition": "all_corner_random==1",
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200332,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 24000,
+          "cd": 300000,
+          "condition": "all_corner_random==1",
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200333,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 24000,
+          "cd": 300000,
+          "condition": "all_corner_random==1",
+          "effects": [
+            {
+              "type": 21,
+              "value": -2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200333,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 24000,
+          "cd": 300000,
+          "condition": "all_corner_random==1",
+          "effects": [
+            {
+              "type": 21,
+              "value": -2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 201601,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 30000,
+          "condition": "activate_count_start>=3",
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 201601,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 30000,
+          "condition": "activate_count_start>=3",
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200014,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": 600000
+            },
+            {
+              "type": 3,
+              "value": 600000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 200014,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": -1,
+          "condition": "rotation==1",
+          "effects": [
+            {
+              "type": 1,
+              "value": 600000
+            },
+            {
+              "type": 3,
+              "value": 600000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 201602,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 30000,
+          "condition": "activate_count_start>=3",
+          "effects": [
+            {
+              "type": 31,
+              "value": 4000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 201602,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 30000,
+          "condition": "activate_count_start>=3",
+          "effects": [
+            {
+              "type": 31,
+              "value": 4000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 900011,
+      "server": "JP",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "source_snapshot_not_full_patch_verified",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 36000,
+          "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+          "effects": [
+            {
+              "type": 22,
+              "value": 1500
+            },
+            {
+              "type": 31,
+              "value": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill_id": 900011,
+      "server": "KR",
+      "snapshot": "ut_d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "status": "locale_overlay_unverified_against_kr_master",
+      "source_id": "ut",
+      "effects": [
+        {
+          "base_time": 36000,
+          "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+          "effects": [
+            {
+              "type": 22,
+              "value": 1500
+            },
+            {
+              "type": 31,
+              "value": 500
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skillRelations": [
+    {
+      "skill_id": 100011,
+      "related_skill_id": 900011,
+      "relation": "inherited_version",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200011,
+      "related_skill_id": 200012,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200011,
+      "related_skill_id": 200013,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200011,
+      "related_skill_id": 200014,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200012,
+      "related_skill_id": 200011,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200012,
+      "related_skill_id": 200013,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200012,
+      "related_skill_id": 200014,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200013,
+      "related_skill_id": 200011,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200013,
+      "related_skill_id": 200012,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200013,
+      "related_skill_id": 200014,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200331,
+      "related_skill_id": 200332,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200331,
+      "related_skill_id": 200333,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200332,
+      "related_skill_id": 200331,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200332,
+      "related_skill_id": 200333,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200333,
+      "related_skill_id": 200331,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200333,
+      "related_skill_id": 200332,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 201601,
+      "related_skill_id": 201602,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200014,
+      "related_skill_id": 200011,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200014,
+      "related_skill_id": 200012,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 200014,
+      "related_skill_id": 200013,
+      "relation": "variant",
+      "source_id": "ut"
+    },
+    {
+      "skill_id": 201602,
+      "related_skill_id": 201601,
+      "relation": "variant",
+      "source_id": "ut"
+    }
+  ],
+  "rawMasterSkills": [
+    {
+      "id": 100011,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 100011,
+        "rarity": 5,
+        "group_id": 10001,
+        "group_rate": 1,
+        "filter_switch": 0,
+        "grade_value": 340,
+        "skill_category": 5,
+        "tag_id": "403",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 1,
+        "potential_per_default": 0,
+        "activate_lot": 0,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+        "float_ability_time_1": 60000,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 5000000,
+        "ability_type_1_1": 22,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 3500,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 31,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 1000,
+        "target_type_1_2": 1,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 3,
+        "popularity_add_value_1": 60,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 10,
+        "icon_id": 20013,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 0,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "シューティングスター",
+        "description": "レース終盤以降に追い抜いて\\n中団以前につけると前に出続けて\\n加速力をちょっと上げ続ける",
+        "need_skill_point": null
+      }
+    },
+    {
+      "id": 200011,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 200011,
+        "rarity": 1,
+        "group_id": 20001,
+        "group_rate": 2,
+        "filter_switch": 0,
+        "grade_value": 174,
+        "skill_category": 0,
+        "tag_id": "401/608",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 0,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "rotation==1",
+        "float_ability_time_1": -1,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 0,
+        "ability_type_1_1": 1,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 600000,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 1,
+        "popularity_add_value_1": 45,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 1005,
+        "icon_id": 10011,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "右回り◎",
+        "description": "右回りコースなら\\nスピードが上がる",
+        "need_skill_point": 110
+      }
+    },
+    {
+      "id": 200012,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 200012,
+        "rarity": 1,
+        "group_id": 20001,
+        "group_rate": 1,
+        "filter_switch": 0,
+        "grade_value": 129,
+        "skill_category": 0,
+        "tag_id": "401/608",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 0,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "rotation==1",
+        "float_ability_time_1": -1,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 0,
+        "ability_type_1_1": 1,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 400000,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 1,
+        "popularity_add_value_1": 30,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 1010,
+        "icon_id": 10011,
+        "plate_type": 0,
+        "disable_singlemode": 0,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "右回り○",
+        "description": "右回りコースなら\\nスピードが少し上がる",
+        "need_skill_point": 90
+      }
+    },
+    {
+      "id": 200013,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 200013,
+        "rarity": 1,
+        "group_id": 20001,
+        "group_rate": -1,
+        "filter_switch": 0,
+        "grade_value": -129,
+        "skill_category": 0,
+        "tag_id": "401",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 0,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "rotation==1",
+        "float_ability_time_1": -1,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 0,
+        "ability_type_1_1": 1,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": -400000,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 1,
+        "popularity_add_value_1": -30,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 1020,
+        "icon_id": 10014,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "右回り×",
+        "description": "右回りコースなら\\nスピードが少し下がる",
+        "need_skill_point": 50
+      }
+    },
+    {
+      "id": 200014,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 200014,
+        "rarity": 2,
+        "group_id": 20001,
+        "group_rate": 3,
+        "filter_switch": 0,
+        "grade_value": 461,
+        "skill_category": 0,
+        "tag_id": "401/403/608",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 0,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "rotation==1",
+        "float_ability_time_1": -1,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 0,
+        "ability_type_1_1": 1,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 600000,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 3,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 600000,
+        "target_type_1_2": 1,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 1,
+        "popularity_add_value_1": 30,
+        "popularity_add_param_2": 3,
+        "popularity_add_value_2": 30,
+        "disp_order": 1000,
+        "icon_id": 10012,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "右回りの鬼",
+        "description": "右回りコースなら\\nスピードとパワーが上がる",
+        "need_skill_point": 130
+      }
+    },
+    {
+      "id": 200331,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 200331,
+        "rarity": 2,
+        "group_id": 20033,
+        "group_rate": 2,
+        "filter_switch": 0,
+        "grade_value": 508,
+        "skill_category": 4,
+        "tag_id": "401",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 1,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "all_corner_random==1",
+        "float_ability_time_1": 24000,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 300000,
+        "ability_type_1_1": 27,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 3500,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 1,
+        "popularity_add_value_1": 60,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 1890,
+        "icon_id": 20012,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "弧線のプロフェッサー",
+        "description": "いずれかのコーナーのどこかで\\n速度が上がる",
+        "need_skill_point": 180
+      }
+    },
+    {
+      "id": 200332,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 200332,
+        "rarity": 1,
+        "group_id": 20033,
+        "group_rate": 1,
+        "filter_switch": 0,
+        "grade_value": 217,
+        "skill_category": 4,
+        "tag_id": "401",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 1,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "all_corner_random==1",
+        "float_ability_time_1": 24000,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 300000,
+        "ability_type_1_1": 27,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 1500,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 1,
+        "popularity_add_value_1": 20,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 1900,
+        "icon_id": 20011,
+        "plate_type": 0,
+        "disable_singlemode": 0,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "コーナー巧者○",
+        "description": "いずれかのコーナーのどこかで\\n速度がわずかに上がる",
+        "need_skill_point": 180
+      }
+    },
+    {
+      "id": 200333,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 200333,
+        "rarity": 1,
+        "group_id": 20033,
+        "group_rate": -1,
+        "filter_switch": 0,
+        "grade_value": -262,
+        "skill_category": 4,
+        "tag_id": "401",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 1,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "all_corner_random==1",
+        "float_ability_time_1": 24000,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 300000,
+        "ability_type_1_1": 21,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": -2000,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 1,
+        "popularity_add_value_1": -30,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 1910,
+        "icon_id": 20014,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "コーナー巧者×",
+        "description": "いずれかのコーナーのどこかで\\n速度が少し下がる",
+        "need_skill_point": 100
+      }
+    },
+    {
+      "id": 201601,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 201601,
+        "rarity": 1,
+        "group_id": 20160,
+        "group_rate": 1,
+        "filter_switch": 0,
+        "grade_value": 217,
+        "skill_category": 1,
+        "tag_id": "301/403",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 1,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "activate_count_start>=3",
+        "float_ability_time_1": 30000,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 5000000,
+        "ability_type_1_1": 31,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 2000,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 3,
+        "popularity_add_value_1": 20,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 21280,
+        "icon_id": 20041,
+        "plate_type": 0,
+        "disable_singlemode": 0,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "地固め",
+        "description": "レース序盤にスキルを3回発動すると\\n加速力がわずかに上がる",
+        "need_skill_point": 100
+      }
+    },
+    {
+      "id": 201602,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 201602,
+        "rarity": 2,
+        "group_id": 20160,
+        "group_rate": 2,
+        "filter_switch": 0,
+        "grade_value": 508,
+        "skill_category": 1,
+        "tag_id": "301/403",
+        "unique_skill_id_1": 0,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 10,
+        "activate_lot": 1,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "activate_count_start>=3",
+        "float_ability_time_1": 30000,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 5000000,
+        "ability_type_1_1": 31,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 4000,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 0,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 0,
+        "target_type_1_2": 0,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 3,
+        "popularity_add_value_1": 60,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 21275,
+        "icon_id": 20042,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "盤石の構え",
+        "description": "レース序盤にスキルを3回発動すると\\n加速力が上がる",
+        "need_skill_point": 180
+      }
+    },
+    {
+      "id": 900011,
+      "server": "JP",
+      "snapshot": "2026-10-11",
+      "payload": {
+        "id": 900011,
+        "rarity": 1,
+        "group_id": 90001,
+        "group_rate": 2,
+        "filter_switch": 0,
+        "grade_value": 180,
+        "skill_category": 5,
+        "tag_id": "403",
+        "unique_skill_id_1": 100011,
+        "unique_skill_id_2": 0,
+        "exp_type": 0,
+        "potential_per_default": 0,
+        "activate_lot": 1,
+        "priority": 0,
+        "precondition_1": "",
+        "condition_1": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+        "float_ability_time_1": 36000,
+        "ability_time_usage_1": 1,
+        "float_cooldown_time_1": 5000000,
+        "ability_type_1_1": 22,
+        "ability_value_usage_1_1": 1,
+        "additional_activate_type_1_1": 0,
+        "ability_value_level_usage_1_1": 1,
+        "float_ability_value_1_1": 1500,
+        "target_type_1_1": 1,
+        "target_value_1_1": 0,
+        "ability_type_1_2": 31,
+        "ability_value_usage_1_2": 1,
+        "additional_activate_type_1_2": 0,
+        "ability_value_level_usage_1_2": 1,
+        "float_ability_value_1_2": 500,
+        "target_type_1_2": 1,
+        "target_value_1_2": 0,
+        "ability_type_1_3": 0,
+        "ability_value_usage_1_3": 1,
+        "additional_activate_type_1_3": 0,
+        "ability_value_level_usage_1_3": 1,
+        "float_ability_value_1_3": 0,
+        "target_type_1_3": 0,
+        "target_value_1_3": 0,
+        "precondition_2": "",
+        "condition_2": "",
+        "float_ability_time_2": 0,
+        "ability_time_usage_2": 1,
+        "float_cooldown_time_2": 0,
+        "ability_type_2_1": 0,
+        "ability_value_usage_2_1": 1,
+        "additional_activate_type_2_1": 0,
+        "ability_value_level_usage_2_1": 1,
+        "float_ability_value_2_1": 0,
+        "target_type_2_1": 0,
+        "target_value_2_1": 0,
+        "ability_type_2_2": 0,
+        "ability_value_usage_2_2": 1,
+        "additional_activate_type_2_2": 0,
+        "ability_value_level_usage_2_2": 1,
+        "float_ability_value_2_2": 0,
+        "target_type_2_2": 0,
+        "target_value_2_2": 0,
+        "ability_type_2_3": 0,
+        "ability_value_usage_2_3": 1,
+        "additional_activate_type_2_3": 0,
+        "ability_value_level_usage_2_3": 1,
+        "float_ability_value_2_3": 0,
+        "target_type_2_3": 0,
+        "target_value_2_3": 0,
+        "popularity_add_param_1": 3,
+        "popularity_add_value_1": 15,
+        "popularity_add_param_2": 0,
+        "popularity_add_value_2": 0,
+        "disp_order": 30,
+        "icon_id": 20011,
+        "plate_type": 0,
+        "disable_singlemode": 1,
+        "disable_count_condition": 0,
+        "is_general_skill": 1,
+        "greater_value_skill_detail": 0,
+        "start_date": 1483196400,
+        "end_date": 2524575600,
+        "name": "シューティングスター",
+        "description": "レース終盤以降に追い抜いて中団以前に\\nつけるとわずかに前に出続けて\\n加速力をほんのちょっと上げ続ける",
+        "need_skill_point": 200
+      }
+    }
+  ],
+  "supports": [
+    {
+      "id": 20089,
+      "name_ja": "カワカミプリンセス (SR)",
+      "name_en": "Kawakami Princess (SR)",
+      "name_ko": "카와카미 프린세스",
+      "rarity": "SR",
+      "type": "Guts",
+      "source_id": "ut",
+      "unique_effect": {
+        "level": 25,
+        "effects": [
+          {
+            "id": 5,
+            "name": "Power Bonus",
+            "symbol": "none",
+            "value": 1
+          },
+          {
+            "id": 11,
+            "name": "Initial Power",
+            "symbol": "none",
+            "value": 20
+          }
+        ]
+      },
+      "raw": {
+        "SupportSlug": "20089-kawakami-princess",
+        "SupportId": "20089",
+        "SupportName": "Kawakami Princess (SR)",
+        "SupportNameJP": "カワカミプリンセス (SR)",
+        "SupportRarity": "SR",
+        "SupportServer": "jp",
+        "SupportType": "Guts",
+        "SupportEffects": [
+          {
+            "id": 1,
+            "name": "Friendship Bonus",
+            "symbol": "percent",
+            "values": [
+              10,
+              11,
+              12,
+              13,
+              15,
+              15,
+              16,
+              18,
+              20,
+              20,
+              20
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Mood Effect",
+            "symbol": "percent",
+            "values": [
+              0,
+              10,
+              15,
+              20,
+              25,
+              30,
+              32,
+              35,
+              37,
+              40,
+              40
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Power Bonus",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Training Effectiveness",
+            "symbol": "percent",
+            "values": [
+              1,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              10,
+              10
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Initial Power",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              15,
+              20,
+              20,
+              20
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Initial Friendship Gauge",
+            "symbol": "none",
+            "values": [
+              10,
+              12,
+              15,
+              18,
+              21,
+              25,
+              26,
+              27,
+              28,
+              30,
+              30
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Hint Levels",
+            "symbol": "level",
+            "values": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Hint Frequency",
+            "symbol": "percent",
+            "values": [
+              5,
+              9,
+              14,
+              19,
+              24,
+              30,
+              32,
+              35,
+              37,
+              40,
+              40
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Specialty Priority",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              5,
+              12,
+              20,
+              20,
+              25,
+              30,
+              35,
+              35,
+              35
+            ]
+          }
+        ],
+        "SupportUnique": {
+          "level": 25,
+          "effects": [
+            {
+              "id": 5,
+              "name": "Power Bonus",
+              "symbol": "none",
+              "value": 1
+            },
+            {
+              "id": 11,
+              "name": "Initial Power",
+              "symbol": "none",
+              "value": 20
+            }
+          ]
+        },
+        "SupportImage": "/assets/support_thumbs/20089-kawakami-princess.png",
+        "SupportHints": [
+          {
+            "SkillId": "200342",
+            "Name": "Corner Acceleration ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201132",
+            "Name": "Thunderbolt Step",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201631",
+            "Name": "Sympathy",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "202102",
+            "Name": "Eager",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "202472",
+            "Name": "Latch On",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "202722",
+            "Name": "Unbreakable Mind",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "203592",
+            "Name": "Pushing Through!",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Speed bonus",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Power bonus",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Guts bonus",
+            "HintLevel": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 30010,
+      "name_ja": "ファインモーション (SSR)",
+      "name_en": "Fine Motion (SSR)",
+      "name_ko": "파인 모션",
+      "rarity": "SSR",
+      "type": "Wit",
+      "source_id": "ut",
+      "unique_effect": {
+        "level": 30,
+        "effects": [
+          {
+            "id": 1,
+            "name": "Friendship Bonus",
+            "symbol": "percent",
+            "value": 10
+          },
+          {
+            "id": 14,
+            "name": "Initial Friendship Gauge",
+            "symbol": "none",
+            "value": 15
+          }
+        ]
+      },
+      "raw": {
+        "SupportSlug": "30010-fine-motion",
+        "SupportId": "30010",
+        "SupportName": "Fine Motion (SSR)",
+        "SupportNameJP": "ファインモーション (SSR)",
+        "SupportRarity": "SSR",
+        "SupportServer": "global",
+        "SupportType": "Wit",
+        "SupportEffects": [
+          {
+            "id": 1,
+            "name": "Friendship Bonus",
+            "symbol": "percent",
+            "values": [
+              10,
+              11,
+              13,
+              15,
+              17,
+              20,
+              20,
+              21,
+              23,
+              25,
+              25
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Mood Effect",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              15,
+              30
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Wit Bonus",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Training Effectiveness",
+            "symbol": "percent",
+            "values": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              8,
+              10,
+              11,
+              12,
+              13,
+              15
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Initial Wit",
+            "symbol": "none",
+            "values": [
+              10,
+              12,
+              14,
+              17,
+              19,
+              22,
+              25,
+              27,
+              30,
+              32,
+              35
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Race Bonus",
+            "symbol": "percent",
+            "values": [
+              1,
+              1,
+              2,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              10
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Fan Bonus",
+            "symbol": "percent",
+            "values": [
+              1,
+              2,
+              5,
+              7,
+              10,
+              12,
+              15,
+              16,
+              17,
+              18,
+              20
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Specialty Priority",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              0,
+              5,
+              12,
+              20,
+              20,
+              25,
+              30,
+              35,
+              35
+            ]
+          },
+          {
+            "id": 31,
+            "name": "Wit Friendship Recovery",
+            "symbol": "none",
+            "values": [
+              1,
+              1,
+              1,
+              1,
+              2,
+              2,
+              3,
+              3,
+              4,
+              4,
+              5
+            ]
+          }
+        ],
+        "SupportUnique": {
+          "level": 30,
+          "effects": [
+            {
+              "id": 1,
+              "name": "Friendship Bonus",
+              "symbol": "percent",
+              "value": 10
+            },
+            {
+              "id": 14,
+              "name": "Initial Friendship Gauge",
+              "symbol": "none",
+              "value": 15
+            }
+          ]
+        },
+        "SupportImage": "/assets/support_thumbs/30010-fine-motion.png",
+        "SupportHints": [
+          {
+            "SkillId": "200012",
+            "Name": "Right-Handed ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200192",
+            "Name": "Fall Runner ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200262",
+            "Name": "Outer Post Proficiency ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200372",
+            "Name": "Straightaway Acceleration",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200492",
+            "Name": "Nimble Navigator",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Wit bonus",
+            "HintLevel": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 30028,
+      "name_ja": "キタサンブラック (SSR)",
+      "name_en": "Kitasan Black (SSR)",
+      "name_ko": "키타산 블랙",
+      "rarity": "SSR",
+      "type": "Speed",
+      "source_id": "ut",
+      "unique_effect": {
+        "level": 30,
+        "effects": [
+          {
+            "id": 8,
+            "name": "Training Effectiveness",
+            "symbol": "percent",
+            "value": 5
+          },
+          {
+            "id": 19,
+            "name": "Specialty Priority",
+            "symbol": "none",
+            "value": 20
+          }
+        ]
+      },
+      "raw": {
+        "SupportSlug": "30028-kitasan-black",
+        "SupportId": "30028",
+        "SupportName": "Kitasan Black (SSR)",
+        "SupportNameJP": "キタサンブラック (SSR)",
+        "SupportRarity": "SSR",
+        "SupportServer": "global",
+        "SupportType": "Speed",
+        "SupportEffects": [
+          {
+            "id": 1,
+            "name": "Friendship Bonus",
+            "symbol": "percent",
+            "values": [
+              10,
+              11,
+              13,
+              15,
+              17,
+              20,
+              20,
+              21,
+              23,
+              25,
+              25
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Mood Effect",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              0,
+              10,
+              15,
+              20,
+              20,
+              23,
+              26,
+              30,
+              30
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Power Bonus",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Training Effectiveness",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              1,
+              2,
+              3,
+              5,
+              5,
+              6,
+              8,
+              10,
+              10
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Initial Friendship Gauge",
+            "symbol": "none",
+            "values": [
+              10,
+              12,
+              14,
+              17,
+              19,
+              22,
+              25,
+              27,
+              30,
+              32,
+              35
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Race Bonus",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              1,
+              2,
+              3,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Fan Bonus",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              1,
+              4,
+              7,
+              10,
+              10,
+              11,
+              13,
+              15,
+              15
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Hint Levels",
+            "symbol": "level",
+            "values": [
+              0,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              2,
+              2
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Hint Frequency",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              0,
+              5,
+              12,
+              20,
+              20,
+              23,
+              26,
+              30,
+              30
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Specialty Priority",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              40,
+              80
+            ]
+          }
+        ],
+        "SupportUnique": {
+          "level": 30,
+          "effects": [
+            {
+              "id": 8,
+              "name": "Training Effectiveness",
+              "symbol": "percent",
+              "value": 5
+            },
+            {
+              "id": 19,
+              "name": "Specialty Priority",
+              "symbol": "none",
+              "value": 20
+            }
+          ]
+        },
+        "SupportImage": "/assets/support_thumbs/30028-kitasan-black.png",
+        "SupportHints": [
+          {
+            "SkillId": "200332",
+            "Name": "Corner Adept ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200352",
+            "Name": "Corner Recovery ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200382",
+            "Name": "Straightaway Recovery",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200432",
+            "Name": "Focus",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200762",
+            "Name": "Extra Tank",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201182",
+            "Name": "Long Corners ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201242",
+            "Name": "Front Runner Straightaways ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201262",
+            "Name": "Dodging Danger",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Speed bonus",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Power bonus",
+            "HintLevel": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 30065,
+      "name_ja": "ゼンノロブロイ (SSR)",
+      "name_en": "Zenno Rob Roy (SSR)",
+      "name_ko": "젠노 롭 로이",
+      "rarity": "SSR",
+      "type": "Speed",
+      "source_id": "ut",
+      "unique_effect": {
+        "level": 30,
+        "effects": [
+          {
+            "id": 1,
+            "name": "Friendship Bonus",
+            "symbol": "percent",
+            "value": 10
+          },
+          {
+            "id": 8,
+            "name": "Training Effectiveness",
+            "symbol": "percent",
+            "value": 5
+          }
+        ]
+      },
+      "raw": {
+        "SupportSlug": "30065-zenno-rob-roy",
+        "SupportId": "30065",
+        "SupportName": "Zenno Rob Roy (SSR)",
+        "SupportNameJP": "ゼンノロブロイ (SSR)",
+        "SupportRarity": "SSR",
+        "SupportServer": "global",
+        "SupportType": "Speed",
+        "SupportEffects": [
+          {
+            "id": 1,
+            "name": "Friendship Bonus",
+            "symbol": "percent",
+            "values": [
+              10,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              15,
+              15,
+              15,
+              20
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Mood Effect",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              1,
+              10,
+              20,
+              22,
+              25,
+              27,
+              30
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Speed Bonus",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Training Effectiveness",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              0,
+              1,
+              3,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Initial Friendship Gauge",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              10,
+              13,
+              16,
+              20,
+              20,
+              21,
+              23,
+              25,
+              25
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Hint Levels",
+            "symbol": "level",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              3
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Hint Frequency",
+            "symbol": "percent",
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              30,
+              40
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Specialty Priority",
+            "symbol": "none",
+            "values": [
+              0,
+              0,
+              5,
+              15,
+              25,
+              35,
+              35,
+              40,
+              45,
+              50,
+              50
+            ]
+          }
+        ],
+        "SupportUnique": {
+          "level": 30,
+          "effects": [
+            {
+              "id": 1,
+              "name": "Friendship Bonus",
+              "symbol": "percent",
+              "value": 10
+            },
+            {
+              "id": 8,
+              "name": "Training Effectiveness",
+              "symbol": "percent",
+              "value": 5
+            }
+          ]
+        },
+        "SupportImage": "/assets/support_thumbs/30065-zenno-rob-roy.png",
+        "SupportHints": [
+          {
+            "SkillId": "200362",
+            "Name": "Straightaway Adept",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200452",
+            "Name": "Prudent Positioning",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200492",
+            "Name": "Nimble Navigator",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "200502",
+            "Name": "Go with the Flow",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201332",
+            "Name": "Shrewd Step",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201432",
+            "Name": "Studious",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201532",
+            "Name": "Pace Chaser Savvy ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "201542",
+            "Name": "Late Surger Savvy ○",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Speed bonus",
+            "HintLevel": null
+          },
+          {
+            "SkillId": "",
+            "Name": "Initial Power bonus",
+            "HintLevel": null
+          }
+        ]
+      }
+    }
+  ],
+  "supportSkills": [
+    {
+      "support_id": 30010,
+      "skill_id": 200012,
+      "server": "JP",
+      "acquisition": "hint",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "skill_id": 200012,
+      "server": "JP",
+      "acquisition": "event",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "skill_id": 200012,
+      "server": "KR",
+      "acquisition": "hint",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "skill_id": 200012,
+      "server": "KR",
+      "acquisition": "event",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "skill_id": 200331,
+      "server": "JP",
+      "acquisition": "event",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "skill_id": 200331,
+      "server": "KR",
+      "acquisition": "event",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "skill_id": 200332,
+      "server": "JP",
+      "acquisition": "hint",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "skill_id": 200332,
+      "server": "JP",
+      "acquisition": "event",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "skill_id": 200332,
+      "server": "KR",
+      "acquisition": "hint",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "skill_id": 200332,
+      "server": "KR",
+      "acquisition": "event",
+      "source_group": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "skill_id": 200012,
+      "server": "source_unspecified",
+      "acquisition": "hint",
+      "source_group": -1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "skill_id": 200332,
+      "server": "source_unspecified",
+      "acquisition": "hint",
+      "source_group": -1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "skill_id": 200012,
+      "server": "JP",
+      "acquisition": "hint",
+      "source_group": -2,
+      "source_id": "udb"
+    },
+    {
+      "support_id": 30010,
+      "skill_id": 200332,
+      "server": "JP",
+      "acquisition": "event",
+      "source_group": -2,
+      "source_id": "udb"
+    },
+    {
+      "support_id": 30028,
+      "skill_id": 200332,
+      "server": "JP",
+      "acquisition": "hint",
+      "source_group": -2,
+      "source_id": "udb"
+    },
+    {
+      "support_id": 30028,
+      "skill_id": 200331,
+      "server": "JP",
+      "acquisition": "event",
+      "source_group": -2,
+      "source_id": "udb"
+    },
+    {
+      "support_id": 30065,
+      "skill_id": 200012,
+      "server": "JP",
+      "acquisition": "event",
+      "source_group": -2,
+      "source_id": "udb"
+    }
+  ],
+  "supportLimitBreakEffects": [
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 1,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 1,
+      "value": 16,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 1,
+      "value": 18,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 1,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 1,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 2,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 2,
+      "value": 32,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 2,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 2,
+      "value": 37,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 2,
+      "value": 40,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 5,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 5,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 5,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 5,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 5,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 8,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 8,
+      "value": 6,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 8,
+      "value": 7,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 8,
+      "value": 8,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 8,
+      "value": 10,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 11,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 11,
+      "value": 10,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 11,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 11,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 11,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 14,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 14,
+      "value": 26,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 14,
+      "value": 27,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 14,
+      "value": 28,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 14,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 18,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 18,
+      "value": 32,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 18,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 18,
+      "value": 37,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 18,
+      "value": 40,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 0,
+      "level": 25,
+      "effect_id": 19,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 1,
+      "level": 30,
+      "effect_id": 19,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 2,
+      "level": 35,
+      "effect_id": 19,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 3,
+      "level": 40,
+      "effect_id": 19,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 20089,
+      "limit_break": 4,
+      "level": 45,
+      "effect_id": 19,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 1,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 1,
+      "value": 21,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 1,
+      "value": 23,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 1,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 1,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 2,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 2,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 2,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 2,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 2,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 7,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 7,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 7,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 7,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 7,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 8,
+      "value": 10,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 8,
+      "value": 11,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 8,
+      "value": 12,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 8,
+      "value": 13,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 8,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 13,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 13,
+      "value": 27,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 13,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 13,
+      "value": 32,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 13,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 15,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 15,
+      "value": 6,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 15,
+      "value": 7,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 15,
+      "value": 8,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 15,
+      "value": 10,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 16,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 16,
+      "value": 16,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 16,
+      "value": 17,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 16,
+      "value": 18,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 16,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 19,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 19,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 19,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 19,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 19,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 31,
+      "value": 3,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 31,
+      "value": 3,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 31,
+      "value": 4,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 31,
+      "value": 4,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30010,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 31,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 1,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 1,
+      "value": 21,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 1,
+      "value": 23,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 1,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 1,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 2,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 2,
+      "value": 23,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 2,
+      "value": 26,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 2,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 2,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 5,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 5,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 5,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 5,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 5,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 8,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 8,
+      "value": 6,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 8,
+      "value": 8,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 8,
+      "value": 10,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 8,
+      "value": 10,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 14,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 14,
+      "value": 27,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 14,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 14,
+      "value": 32,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 14,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 15,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 15,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 15,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 15,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 15,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 16,
+      "value": 10,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 16,
+      "value": 11,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 16,
+      "value": 13,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 16,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 16,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 17,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 17,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 17,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 18,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 18,
+      "value": 23,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 18,
+      "value": 26,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 18,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 18,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 19,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 19,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 19,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 19,
+      "value": 40,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30028,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 19,
+      "value": 80,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 1,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 1,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 1,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 1,
+      "value": 15,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 1,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 2,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 2,
+      "value": 22,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 2,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 2,
+      "value": 27,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 2,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 3,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 3,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 3,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 3,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 3,
+      "value": 1,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 8,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 8,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 8,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 8,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 8,
+      "value": 5,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 14,
+      "value": 20,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 14,
+      "value": 21,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 14,
+      "value": 23,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 14,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 14,
+      "value": 25,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 17,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 17,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 17,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 17,
+      "value": 2,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 17,
+      "value": 3,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 18,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 18,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 18,
+      "value": 0,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 18,
+      "value": 30,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 18,
+      "value": 40,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 0,
+      "level": 30,
+      "effect_id": 19,
+      "value": 35,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 1,
+      "level": 35,
+      "effect_id": 19,
+      "value": 40,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 2,
+      "level": 40,
+      "effect_id": 19,
+      "value": 45,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 3,
+      "level": 45,
+      "effect_id": 19,
+      "value": 50,
+      "source_id": "ut"
+    },
+    {
+      "support_id": 30065,
+      "limit_break": 4,
+      "level": 50,
+      "effect_id": 19,
+      "value": 50,
+      "source_id": "ut"
+    }
+  ],
+  "courses": [
+    {
+      "id": 10606,
+      "track_id": 10006,
+      "venue": "東京",
+      "distance": 2400,
+      "surface": 1,
+      "last_spurt_start": 1600,
+      "final_corner_start": 1350,
+      "final_straight_start": 1875,
+      "source_id": "ut",
+      "uphill": [
+        [
+          0,
+          40
+        ],
+        [
+          1125,
+          1200
+        ],
+        [
+          1950,
+          2100
+        ]
+      ],
+      "downhill": [
+        [
+          1250,
+          1500
+        ]
+      ]
+    }
+  ],
+  "races": [
+    {
+      "id": 100901,
+      "course_id": 10606,
+      "name": "Japanese Oaks",
+      "grade": 100,
+      "source_id": "ut",
+      "instances": [
+        {
+          "year": 2,
+          "month": 5,
+          "half": 2
+        }
+      ],
+      "raw": {
+        "id": 100901,
+        "race_id": 1009,
+        "name": "Japanese Oaks",
+        "name_en": "Japanese Oaks",
+        "venue": "東京",
+        "track_id": 10006,
+        "course_id": 10606,
+        "distance": 2400,
+        "gt": 1,
+        "ls": 1600,
+        "fc": 1350,
+        "fs": 1875,
+        "us": [
+          [
+            0,
+            40
+          ],
+          [
+            1125,
+            1200
+          ],
+          [
+            1950,
+            2100
+          ]
+        ],
+        "ds": [
+          [
+            1250,
+            1500
+          ]
+        ],
+        "terrain": 1,
+        "grade": 100,
+        "group": 1,
+        "season": 1,
+        "entries": 18,
+        "instances": [
+          {
+            "year": 2,
+            "month": 5,
+            "half": 2
+          }
+        ]
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "1",
+      "game_id": 1,
+      "name_ja": "新設！URAファイナルズ",
+      "name_en": "Ura Finale",
+      "name_ko": "신설! URA 파이널스!!",
+      "jp_release_date": "2021-02-24",
+      "source_id": "udb",
+      "status": "identity_and_links_only"
+    },
+    {
+      "id": "2",
+      "game_id": 2,
+      "name_ja": "アオハル杯～輝け、チームの絆～",
+      "name_en": "Unity Cup",
+      "name_ko": "아오하루배 ~빛나라 팀의 인연~",
+      "jp_release_date": "2021-08-30",
+      "source_id": "udb",
+      "status": "identity_and_links_only"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ut",
+      "url": "https://github.com/daftuyda/UmaTools",
+      "repository_commit": "d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "repository_updated_at": "2026-11-04T02:55:44Z",
+      "data_updated_at": null,
+      "verified_on": "2026-11-04",
+      "coverage": "272 trainees;566 supports;1948 skill roots;331 races",
+      "missing": "Full JP/KR master and release tables",
+      "status": "partial"
+    },
+    {
+      "id": "ut_master",
+      "url": "https://github.com/daftuyda/UmaTools/blob/main/public/assets/master/jp.json",
+      "repository_commit": "d0a2a652605ca319e4176445c1e1bf52a8cd8fdb",
+      "repository_updated_at": "2026-11-04T02:55:44Z",
+      "data_updated_at": "2026-10-11T11:11:17.807751+00:00",
+      "verified_on": "2026-11-04",
+      "coverage": "2194 JP master skill records, imported 2026-10-13",
+      "missing": "October 26 and November 2 content",
+      "status": "historical_only"
+    },
+    {
+      "id": "ui",
+      "url": "https://github.com/mee1080/umaishow",
+      "repository_commit": "ccf574182cc2e2e73115c3ce7df6329e61354acf",
+      "repository_updated_at": "2026-09-18T02:54:47Z",
+      "data_updated_at": "2026-09-18T02:54:47Z",
+      "verified_on": "2026-11-04",
+      "coverage": "Affinity membership and weights; content date only bounded by file commit",
+      "missing": "KR master parity and subsequent JP changes",
+      "status": "unverified_current"
+    },
+    {
+      "id": "gt_web",
+      "url": "https://gametora.com/ko/umamusume",
+      "repository_commit": null,
+      "repository_updated_at": null,
+      "data_updated_at": "2026-10-30",
+      "verified_on": "2026-11-04",
+      "coverage": "Recent Korean cards individually checked",
+      "missing": "Complete KR release timeline and official confirmation",
+      "status": "partial"
+    },
+    {
+      "id": "jp_official",
+      "url": "https://umamusume.jp/contents/game/scenario/goshikisyuntaisai/",
+      "repository_commit": null,
+      "repository_updated_at": null,
+      "data_updated_at": "2026-10-26",
+      "verified_on": "2026-11-04",
+      "coverage": "Current JP scenario identity and featured characters",
+      "missing": "Full quantitative scenario tables",
+      "status": "partial"
+    },
+    {
+      "id": "gt_scenario",
+      "url": "https://gametora.com/umamusume/shuntaisai",
+      "repository_commit": null,
+      "repository_updated_at": null,
+      "data_updated_at": "2026-11-04",
+      "verified_on": "2026-11-04",
+      "coverage": "Current scenario link and select effects",
+      "missing": "All scenario data tables",
+      "status": "partial"
+    },
+    {
+      "id": "udb",
+      "url": "https://github.com/shiyuzi-ship-it/umamusumedb",
+      "repository_commit": "9cf4ef90772a44f17de995913422824587e145d8",
+      "repository_updated_at": null,
+      "data_updated_at": "2026-11-02T02:00:30.549Z",
+      "verified_on": "2026-11-04",
+      "coverage": "272 trainees;566 supports;15 scenarios;JP release dates;Korean labels",
+      "missing": "KR release dates;full scenario mechanics;commit timestamp API denied",
+      "status": "partial_shared_upstream"
+    }
+  ],
+  "applications": [
+    {
+      "entityType": "support",
+      "entityId": "20089",
+      "jpDate": "2025-07-11",
+      "kr": {
+        "confirmedDate": null,
+        "observedDate": "2026-10-30",
+        "forecastDate": null,
+        "releasedBy": null,
+        "evidence": "secondary_page",
+        "sourceUrl": "https://gametora.com/ko/umamusume/supports/20089-kawakami-princess",
+        "checkedOn": "2026-11-04"
+      },
+      "patchOverrides": []
+    },
+    {
+      "entityType": "support",
+      "entityId": "30010",
+      "jpDate": "2021-02-24",
+      "kr": {
+        "confirmedDate": null,
+        "observedDate": null,
+        "forecastDate": null,
+        "releasedBy": null,
+        "evidence": "none",
+        "sourceUrl": null,
+        "checkedOn": "2026-11-04"
+      },
+      "patchOverrides": []
+    },
+    {
+      "entityType": "support",
+      "entityId": "30028",
+      "jpDate": "2021-03-30",
+      "kr": {
+        "confirmedDate": null,
+        "observedDate": null,
+        "forecastDate": null,
+        "releasedBy": null,
+        "evidence": "none",
+        "sourceUrl": null,
+        "checkedOn": "2026-11-04"
+      },
+      "patchOverrides": []
+    },
+    {
+      "entityType": "support",
+      "entityId": "30065",
+      "jpDate": "2021-09-29",
+      "kr": {
+        "confirmedDate": null,
+        "observedDate": null,
+        "forecastDate": null,
+        "releasedBy": null,
+        "evidence": "none",
+        "sourceUrl": null,
+        "checkedOn": "2026-11-04"
+      },
+      "patchOverrides": []
+    }
+  ],
+  "labels": [
+    {
+      "entityType": "support",
+      "entityId": "20089",
+      "name": "카와카미 프린세스",
+      "title": "우리의 프린세스 스타일",
+      "aliases": [],
+      "status": "source_translation_not_officially_verified",
+      "sourceIds": [
+        "udb"
+      ]
+    },
+    {
+      "entityType": "support",
+      "entityId": "30010",
+      "name": "파인 모션",
+      "title": "감사는 손끝까지 담아서",
+      "aliases": [],
+      "status": "source_translation_not_officially_verified",
+      "sourceIds": [
+        "udb"
+      ]
+    },
+    {
+      "entityType": "support",
+      "entityId": "30028",
+      "name": "키타산 블랙",
+      "title": "다가오는 열기에 떠밀려",
+      "aliases": [],
+      "status": "source_translation_not_officially_verified",
+      "sourceIds": [
+        "udb"
+      ]
+    },
+    {
+      "entityType": "support",
+      "entityId": "30065",
+      "name": "젠노 롭 로이",
+      "title": "마력을 받은 영웅",
+      "aliases": [],
+      "status": "source_translation_not_officially_verified",
+      "sourceIds": [
+        "udb"
+      ]
+    }
+  ]
+}

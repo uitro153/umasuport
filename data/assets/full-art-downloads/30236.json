@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30236.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30236-seeking-the-pearl",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:53 GMT",
+  "etag": "\"528966d1ac3bee4e9b9325ac3b0ba633\"",
+  "file": {
+    "path": "game-assets/supports/art/30236.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 76108,
+    "mimeType": "image/png",
+    "sha256": "74d3bfc22bf3f2f81b3afa5b75dee06011be587041e06158ce1b87db927e9373",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30236.png",
+    "sourceAssetId": "umamusume/supports/full/small/30236.png",
+    "sourceId": "gametora-media"
+  }
+}

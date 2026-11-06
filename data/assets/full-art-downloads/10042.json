@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10042.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10042-biko-pegasus",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:31 GMT",
+  "etag": "\"cbe4d6275d0a40ff08356779f593aae0\"",
+  "file": {
+    "path": "game-assets/supports/art/10042.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 63675,
+    "mimeType": "image/png",
+    "sha256": "dd3b3758fa7c77b57a1ce65fc60325e9914f77363f9bd2ae0e48d4c148ba7a9a",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10042.png",
+    "sourceAssetId": "umamusume/supports/full/small/10042.png",
+    "sourceId": "gametora-media"
+  }
+}

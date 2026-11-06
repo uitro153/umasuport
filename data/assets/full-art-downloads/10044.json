@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10044.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10044-matikanefukukitaru",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:31 GMT",
+  "etag": "\"4f006773b74c86eb3146949988c01671\"",
+  "file": {
+    "path": "game-assets/supports/art/10044.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 59735,
+    "mimeType": "image/png",
+    "sha256": "0c17e58b802dfa2f4d31bdc8481773645da57f16018e265b3e6c9222e71aa9d8",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10044.png",
+    "sourceAssetId": "umamusume/supports/full/small/10044.png",
+    "sourceId": "gametora-media"
+  }
+}

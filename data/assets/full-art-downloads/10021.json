@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10021.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10021-tazuna-hayakawa",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:27 GMT",
+  "etag": "\"c821da28ade8494af686b6a9de8826c0\"",
+  "file": {
+    "path": "game-assets/supports/art/10021.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 58250,
+    "mimeType": "image/png",
+    "sha256": "121920a835a02947492eca29758a6f5b7ca38aeff0b754e3a975e00211109f47",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10021.png",
+    "sourceAssetId": "umamusume/supports/full/small/10021.png",
+    "sourceId": "gametora-media"
+  }
+}

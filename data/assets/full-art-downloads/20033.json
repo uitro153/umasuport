@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20033.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20033-el-condor-pasa",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:55 GMT",
+  "etag": "\"61edb40cae79c58b1ee77d798166d72b\"",
+  "file": {
+    "path": "game-assets/supports/art/20033.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83849,
+    "mimeType": "image/png",
+    "sha256": "d81355aa8b8cae5f90c3655ea83d854dc1ffd8ea62eaaa3cff067ab0b2d74b29",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20033.png",
+    "sourceAssetId": "umamusume/supports/full/small/20033.png",
+    "sourceId": "gametora-media"
+  }
+}

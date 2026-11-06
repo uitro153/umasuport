@@ -1,0 +1,42 @@
+/* Semantic dark surfaces/text. Existing light colors and image pixels are untouched. */
+:root[data-theme="dark"] {
+  --page:#121b17; --surface:#202e26; --text:#edf4ef; --muted:#c0cfc5;
+  --disabled-text:#b4c4b9; --card:#24362b; --card-hover:#304939;
+  --ui-border:#7f9989; --accent-text:#a8ebc8; --green:#91d8b5; --on-accent:#12271b;
+  color:var(--text);
+}
+:root[data-theme="dark"] :is(input,select,textarea) { color:var(--text); background-color:var(--surface); border-color:var(--ui-border); }
+:root[data-theme="dark"] :is(button,select,input):disabled { opacity:1!important; color:var(--disabled-text); cursor:not-allowed; }
+:root[data-theme="dark"] :is(.panel,.site-header,.character-picker,.p86-node-editor,.p86-costume-detail,.p86-support-detail) { background-color:var(--surface); color:var(--text); }
+:root[data-theme="dark"] :is(.candidate-text>strong,.p86-tree-select>strong) { color:var(--text); }
+:root[data-theme="dark"] :is(.candidate-text>small,.p86-node-role,.p86-tree-select>small,.picker-note,.p86-tree-help) { color:var(--muted); }
+:root[data-theme="dark"] .p86-costume-grid .p86-costume-choice { color:var(--text); background:var(--card); border-color:#617e6c; }
+:root[data-theme="dark"] .p86-costume-grid .p86-costume-choice:hover { background:var(--card-hover); border-color:var(--accent-text); }
+:root[data-theme="dark"] .p86-costume-grid .candidate-score { color:var(--accent-text); font-weight:750; }
+:root[data-theme="dark"] .p86-costume-grid .candidate-text>strong { font-size:14px; }
+:root[data-theme="dark"] .p86-costume-grid :is(.candidate-text>small,.candidate-score) { font-size:12px; }
+:root[data-theme="dark"] .p86-node-role { font-size:11px; }
+:root[data-theme="dark"] .p86-tree-select>small { font-size:11px; }
+:root[data-theme="dark"] .p86-depth-4 .p86-node-role { font-size:10px; }
+:root[data-theme="dark"] .p86-depth-4 .p86-tree-select>strong { font-size:12px; }
+:root[data-theme="dark"] .p86-costume-info { color:var(--text); background:#304c3b; border:1px solid var(--ui-border); opacity:1; border-radius:10px; }
+:root[data-theme="dark"] .p86-costume-info:hover { background:#3a5945; }
+:root[data-theme="dark"] .p86-support-status { background:#49391d; color:#ffe2ad; }
+:root[data-theme="dark"] .p86-support-info { color:var(--text); background:var(--card); }
+:root[data-theme="dark"] .p85-support-copy :is(strong,h4) { color:var(--text); }
+:root[data-theme="dark"] .p85-support-copy small { color:var(--muted); }
+:root[data-theme="dark"] .p86-costume-choice:disabled { opacity:1; border-style:dashed; background:#1d2921; }
+:root[data-theme="dark"] .p86-costume-choice:disabled :is(strong,small,.candidate-score) { color:var(--disabled-text); }
+:root[data-theme="dark"] .p86-costume-grid [aria-pressed="true"] { outline:2px solid var(--green); outline-offset:-3px; }
+:root[data-theme="dark"] .p86-costume-grid .candidate-score { margin-top:auto; padding-top:7px; width:100%; border-top:1px solid var(--line); }
+.p872-inline-factor { position:absolute; bottom:5px; left:6px; right:6px; display:grid; grid-template-columns:minmax(0,1fr) 28px; gap:3px; align-items:center; }
+.p872-inline-factor select { min-height:30px; height:30px; margin:0; width:100%; padding:2px 18px 2px 5px; border:1px solid var(--line); border-radius:6px; font:inherit; font-size:11px; cursor:pointer; }
+.p872-inline-lock { min-height:30px; padding:0; border:1px solid var(--line); border-radius:6px; background:var(--surface); color:var(--green); font-size:16px; cursor:pointer; }
+.p872-inline-lock[aria-pressed="true"] { background:var(--green); color:var(--on-accent); }
+.p86-depth-3 .p872-inline-factor,.p86-depth-4 .p872-inline-factor { left:3px; right:3px; bottom:3px; grid-template-columns:minmax(0,1fr) 25px; }
+.p86-depth-3 .p872-inline-factor select,.p86-depth-4 .p872-inline-factor select { height:26px; min-height:26px; font-size:10px; padding-right:12px; }
+.p86-depth-3 .p872-inline-lock,.p86-depth-4 .p872-inline-lock { min-height:26px; font-size:14px; }
+.p86-depth-4 .p86-tree-select { height:calc(100% - 30px); padding:3px; }
+.p872-record-editor { display:block; width:min(760px,calc(100% - 32px)); max-height:none; margin:20px auto; box-shadow:none; }
+.p872-record-editor h2 { font-size:16px; }
+.p871-notice-info { background:var(--surface); color:var(--green); border-left:3px solid var(--green); }

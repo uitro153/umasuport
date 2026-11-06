@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10138.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10138-kiyoko-hoshina",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:48 GMT",
+  "etag": "\"aa0132b4c2c4c4cdae4209bf02b535ee\"",
+  "file": {
+    "path": "game-assets/supports/art/10138.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 71400,
+    "mimeType": "image/png",
+    "sha256": "928b8ae7194d93f2ed531aac41b65adb2e430ee7d1b98837aeb4e32063acfac5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10138.png",
+    "sourceAssetId": "umamusume/supports/full/small/10138.png",
+    "sourceId": "gametora-media"
+  }
+}

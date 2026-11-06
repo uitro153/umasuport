@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30289.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30289-forever-young",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:04 GMT",
+  "etag": "\"de5b30a3c7fa41e4f542b98616292a05\"",
+  "file": {
+    "path": "game-assets/supports/art/30289.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83626,
+    "mimeType": "image/png",
+    "sha256": "3631ad34d0de4e5c52708e049dffd1f3b5860c617d9ad12769145ae504e2f5d9",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30289.png",
+    "sourceAssetId": "umamusume/supports/full/small/30289.png",
+    "sourceId": "gametora-media"
+  }
+}

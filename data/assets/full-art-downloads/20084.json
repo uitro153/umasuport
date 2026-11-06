@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20084.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20084-lucky-lilac",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:05 GMT",
+  "etag": "\"2a3e0d04cb81b6bfa65d42f223e44542\"",
+  "file": {
+    "path": "game-assets/supports/art/20084.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 65852,
+    "mimeType": "image/png",
+    "sha256": "edc67840b3c2ef8551132cc08cc1ccfa666999ed4df74071de5922876e4f47ab",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20084.png",
+    "sourceAssetId": "umamusume/supports/full/small/20084.png",
+    "sourceId": "gametora-media"
+  }
+}

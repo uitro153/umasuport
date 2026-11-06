@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30266.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30266-chrono-genesis",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:59 GMT",
+  "etag": "\"77f74fce352e7dbc582147e97262b13b\"",
+  "file": {
+    "path": "game-assets/supports/art/30266.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 85910,
+    "mimeType": "image/png",
+    "sha256": "64cd125c81eb15423d5cbf85bc30f42aca422c271a8eef3bad70a684804827de",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30266.png",
+    "sourceAssetId": "umamusume/supports/full/small/30266.png",
+    "sourceId": "gametora-media"
+  }
+}

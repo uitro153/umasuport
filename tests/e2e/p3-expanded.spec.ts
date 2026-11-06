@@ -1,0 +1,22 @@
+import { skillName, supportName } from './name-search-data';
+import { test, expect } from '@playwright/test';
+test('전체 확장 DB가 기존 P3 화면과 선택지에 연결된다',async({page})=>{
+  test.setTimeout(60000);
+  await page.clock.setFixedTime(new Date('2026-11-05T12:00:00+09:00'));
+  await page.goto('/?view=skills');
+  await expect(page.getByText('2223',{exact:true})).toBeVisible({timeout:30000});
+  await expect(page.locator('#skills-event')).toHaveValue('kr-cm-39');
+  await expect(page.getByTestId('p5-tournament-info')).toBeVisible({timeout:30000});
+  await expect(page.locator('#skills-event option:checked')).toHaveText('[무인도] [챔미] [중거리 2200m] 한신');
+  await page.locator('#skills-mode').selectOption('current');
+  await page.getByRole('button',{name:'서포트 1 선택',exact:true}).click();
+  await page.getByLabel('서포트 카드명 검색',{exact:true}).fill(supportName('30028'));
+  await page.getByTestId('support-candidate-30028').click();
+  const events=page.getByText('선택 카드의 이벤트 선택지 · 출처별 참고',{exact:true});
+  await expect(events).toBeVisible();await events.click();
+  await expect(page.getByText('원본 보상에서 직접 연결한 선택지입니다.',{exact:false})).toBeVisible();
+  await page.locator('#skills-search').fill(skillName('200332'));
+  await expect(page.getByTestId('skill-result-200332')).toContainText('레어 → 하위');
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
+  await page.screenshot({path:test.info().outputPath('p3-expanded.png'),fullPage:true});
+});

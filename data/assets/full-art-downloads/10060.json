@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10060.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10060-riko-kashimoto",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:34 GMT",
+  "etag": "\"362ce3a6174309e6c63403413bd3ed94\"",
+  "file": {
+    "path": "game-assets/supports/art/10060.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 50833,
+    "mimeType": "image/png",
+    "sha256": "954160ecac9e90c34b63dd35ea940bacdf5f096b62c88e272b2a9d8cff13eae9",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10060.png",
+    "sourceAssetId": "umamusume/supports/full/small/10060.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10107.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10107-hishi-miracle",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:43 GMT",
+  "etag": "\"a9280d7c2aef618354d1e6f7e7c5fb25\"",
+  "file": {
+    "path": "game-assets/supports/art/10107.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 57950,
+    "mimeType": "image/png",
+    "sha256": "e16c33df95e5e564a230d741d639ed29f774efeb06bb6ae3dcbfdc14f36fd68c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10107.png",
+    "sourceAssetId": "umamusume/supports/full/small/10107.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30094.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30094-bamboo-memory",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:26 GMT",
+  "etag": "\"8fc36305ddfa82719816768d271d13c9\"",
+  "file": {
+    "path": "game-assets/supports/art/30094.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 75564,
+    "mimeType": "image/png",
+    "sha256": "ef76e305784b93d29b2c1968a5cba0fdb8e33275c3c56749cd1ac313bc6d0864",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30094.png",
+    "sourceAssetId": "umamusume/supports/full/small/30094.png",
+    "sourceId": "gametora-media"
+  }
+}

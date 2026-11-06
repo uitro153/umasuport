@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20031.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20031-shinko-windy",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:55 GMT",
+  "etag": "\"e7c63f9d34ba6900dd0fe291f3b9f601\"",
+  "file": {
+    "path": "game-assets/supports/art/20031.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 85107,
+    "mimeType": "image/png",
+    "sha256": "5e4889097bdd664c90dff9b1b4efaf1d8c54e4a86c50b56fab40fb067e3ad458",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20031.png",
+    "sourceAssetId": "umamusume/supports/full/small/20031.png",
+    "sourceId": "gametora-media"
+  }
+}

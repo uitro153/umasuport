@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30215.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30215-still-in-love",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:49 GMT",
+  "etag": "\"2a7d2c85ad4260909bb11465e7a4bd23\"",
+  "file": {
+    "path": "game-assets/supports/art/30215.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 89162,
+    "mimeType": "image/png",
+    "sha256": "aa4012bc3aceafc144eb6a62c23ba85267ec1bd9db84b4aa5153546b744bca93",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30215.png",
+    "sourceAssetId": "umamusume/supports/full/small/30215.png",
+    "sourceId": "gametora-media"
+  }
+}

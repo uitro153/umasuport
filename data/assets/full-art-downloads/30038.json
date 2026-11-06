@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30038.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30038-sakura-chiyono-o",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:15 GMT",
+  "etag": "\"f9b9688e833aa10e84f9fa5aae976e5f\"",
+  "file": {
+    "path": "game-assets/supports/art/30038.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 79113,
+    "mimeType": "image/png",
+    "sha256": "2eea843631663ec0618182571388a3a7b77bcaca60da492097f198e1fdb35bb5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30038.png",
+    "sourceAssetId": "umamusume/supports/full/small/30038.png",
+    "sourceId": "gametora-media"
+  }
+}

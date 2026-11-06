@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30097.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30097-mr-cb",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:27 GMT",
+  "etag": "\"064400da66458f57747a88fd30b72eca\"",
+  "file": {
+    "path": "game-assets/supports/art/30097.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 85639,
+    "mimeType": "image/png",
+    "sha256": "bbb8faa67f23715f1e2da8bcd84fde53cafac49ebbbd2f71d48bcc564678968c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30097.png",
+    "sourceAssetId": "umamusume/supports/full/small/30097.png",
+    "sourceId": "gametora-media"
+  }
+}

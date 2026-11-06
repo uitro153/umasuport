@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30054.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30054-nice-nature",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:18 GMT",
+  "etag": "\"296cf4302f2b0cf91e025d7327937372\"",
+  "file": {
+    "path": "game-assets/supports/art/30054.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 80085,
+    "mimeType": "image/png",
+    "sha256": "d438cf5bd8a575818e28d3e2cae9bce011a4cbb7bb706bf3f89bb8609e4d14ab",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30054.png",
+    "sourceAssetId": "umamusume/supports/full/small/30054.png",
+    "sourceId": "gametora-media"
+  }
+}

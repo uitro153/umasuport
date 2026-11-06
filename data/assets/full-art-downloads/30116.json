@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30116.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30116-daitaku-helios",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:30 GMT",
+  "etag": "\"d76dacfc71b0cc645a4bce3da993ffd9\"",
+  "file": {
+    "path": "game-assets/supports/art/30116.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84415,
+    "mimeType": "image/png",
+    "sha256": "077c783ea8b6050fb776345aeaa466e3a11cdff23a3e8e106e582caf527abfa5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30116.png",
+    "sourceAssetId": "umamusume/supports/full/small/30116.png",
+    "sourceId": "gametora-media"
+  }
+}

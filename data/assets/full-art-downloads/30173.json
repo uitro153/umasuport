@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30173.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30173-sounds-of-earth",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:41 GMT",
+  "etag": "\"10860a1e368dc6f83b153a173499c48a\"",
+  "file": {
+    "path": "game-assets/supports/art/30173.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 88617,
+    "mimeType": "image/png",
+    "sha256": "ea842d9b0f1779cca6f98ee22b6ac41eed0d271fb53ea3680de11cc11815a6b2",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30173.png",
+    "sourceAssetId": "umamusume/supports/full/small/30173.png",
+    "sourceId": "gametora-media"
+  }
+}

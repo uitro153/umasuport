@@ -1,0 +1,6848 @@
+[
+  {
+    "eventId": "trainers-30001-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30001-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30002-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30003-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30004-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30005-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30006-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30007-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30008-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30009-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30010-once-d369302dc1ac627d",
+    "choice": 2,
+    "branch": 0,
+    "token": "練習上手◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30011-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30012-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30014-once-65eed40ac48f4d9f",
+    "choice": 0,
+    "branch": 0,
+    "token": "彗眼",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30015-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30016-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30017-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30018-once-5177ffb37e3ffdbd",
+    "choice": 0,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30020-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30021-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-09abccb54c0539cb",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-09abccb54c0539cb",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-09abccb54c0539cb",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30025-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-09abccb54c0539cb",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-09abccb54c0539cb",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-09abccb54c0539cb",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30027-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30028-once-e409a12252df0194",
+    "choice": 1,
+    "branch": 0,
+    "token": "練習上手◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-09abccb54c0539cb",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-09abccb54c0539cb",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-09abccb54c0539cb",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20007-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-09abccb54c0539cb",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-09abccb54c0539cb",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-09abccb54c0539cb",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20008-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-09abccb54c0539cb",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-09abccb54c0539cb",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-09abccb54c0539cb",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20026-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20023-once-a10deb84b9dd38ba",
+    "choice": 1,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20024-once-a0786a38a5d0107d",
+    "choice": 1,
+    "branch": 0,
+    "token": "注目株 주목 받는 신예",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-09abccb54c0539cb",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-09abccb54c0539cb",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-09abccb54c0539cb",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20025-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20027-once-6e0156039703a9d1",
+    "choice": 0,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30033-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30032-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20028-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30038-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30058-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30039-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30040-once-b9916433b7dbd23e",
+    "choice": 0,
+    "branch": 0,
+    "token": "太り気味 살찜 주의",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30041-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20031-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30042-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30055-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30056-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30057-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30048-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20034-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30060-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30044-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30059-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-once-df65e109e4de998d",
+    "choice": 0,
+    "branch": 0,
+    "token": "天命士",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30045-once-790d80f0322a2625",
+    "choice": 1,
+    "branch": 0,
+    "token": "愛嬌◯ 애교◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30046-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-45882abb38468bd6",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-45882abb38468bd6",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-45882abb38468bd6",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30047-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30054-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30034-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30036-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30062-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30061-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20037-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30065-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30064-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30066-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20038-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30068-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30069-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30070-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30071-once-ff774edc84866966",
+    "choice": 1,
+    "branch": 0,
+    "token": "注目株 주목 받는 신예",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20039-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30072-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30073-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30074-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30075-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20032-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30076-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30077-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30079-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-once-c0915e1a736d42ec",
+    "choice": 0,
+    "branch": 0,
+    "token": "切れ者 수완가",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-once-e1e9492057806cc8",
+    "choice": 0,
+    "branch": 0,
+    "token": "練習上手◎ 훈련능속◎",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30080-once-e1e9492057806cc8",
+    "choice": 0,
+    "branch": 1,
+    "token": "練習上手◯ 훈련능속◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20022-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30082-once-19307ddd37d51b3d",
+    "choice": 0,
+    "branch": 0,
+    "token": "愛嬌◯ 애교◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30083-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20030-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30088-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30087-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20043-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30086-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20040-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20041-once-0d0221f7919bf9a9",
+    "choice": 1,
+    "branch": 0,
+    "token": "練習上手◯\\",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20042-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30089-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20044-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30090-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30091-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30092-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30093-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20046-once-2a50c5aa0489aa05",
+    "choice": 1,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30094-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30096-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30098-once-a6634418fd1a2d37",
+    "choice": 0,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30099-once-c8bb4abe2b0fb5bc",
+    "choice": 1,
+    "branch": 0,
+    "token": "練習上手◯ 훈련능속◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30081-once-bc00224b57321d85",
+    "choice": 0,
+    "branch": 0,
+    "token": "情熱ゾーン：チーム＜シリウス＞",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30081-once-3fafb8f950cba6d0",
+    "choice": 0,
+    "branch": 0,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30081-once-fa80c060ba70a056",
+    "choice": 0,
+    "branch": 0,
+    "token": "情熱ゾーン：チーム＜シリウス＞",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-7eaf5753f06f8340",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-7eaf5753f06f8340",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ 훈련 미숙",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-7eaf5753f06f8340",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30106-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30067-once-34e6fdb9d9a6c7c1",
+    "choice": 0,
+    "branch": 0,
+    "token": "情熱ゾーン：玉座に集いし者たち",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30067-once-cdb00b5757980e60",
+    "choice": 0,
+    "branch": 0,
+    "token": "情熱ゾーン：玉座に集いし者たち",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30108-once-02b9be45151cfc95",
+    "choice": 0,
+    "branch": 0,
+    "token": "博打打ち",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30108-once-02b9be45151cfc95",
+    "choice": 1,
+    "branch": 0,
+    "token": "博打打ち",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30112-once-ff5a8cbad2cab0d2",
+    "choice": 0,
+    "branch": 0,
+    "token": "出力1000%",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30116-once-ff774edc84866966",
+    "choice": 1,
+    "branch": 0,
+    "token": "注目株 주목 받는 신예",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-3f847603d7c0fc56",
+    "choice": 0,
+    "branch": 1,
+    "token": "夜ふかし気味",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-3f847603d7c0fc56",
+    "choice": 2,
+    "branch": 1,
+    "token": "練習ベタ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-3f847603d7c0fc56",
+    "choice": 3,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 1,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-32333be0e7f03134",
+    "choice": 1,
+    "branch": 2,
+    "token": "アオハル点火・体",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 1,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-32333be0e7f03134",
+    "choice": 4,
+    "branch": 2,
+    "token": "アオハル点火・賢",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-a445f760039fa708",
+    "choice": 3,
+    "branch": 0,
+    "token": "レースの真髄・根",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-a445f760039fa708",
+    "choice": 5,
+    "branch": 0,
+    "token": "レースの真髄・心",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-10060-common-59798859888702a8",
+    "choice": 0,
+    "branch": 1,
+    "token": "限界の先へ",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30128-once-af7655ef929fcb1d",
+    "choice": 1,
+    "branch": 0,
+    "token": "愛嬌◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30131-once-80f8c776498b448c",
+    "choice": 2,
+    "branch": 0,
+    "token": "練習上手◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20057-once-6bf6d4bf270d2b8a",
+    "choice": 1,
+    "branch": 0,
+    "token": "練習上手◯ 훈련능속◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30137-once-e5229863d59c2470",
+    "choice": 0,
+    "branch": 0,
+    "token": "情熱ゾーン：祖にして導く者",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30137-once-309f352b7ddaddab",
+    "choice": 0,
+    "branch": 0,
+    "token": "情熱ゾーン：祖にして導く者",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30137-once-eb638ccb743d1407",
+    "choice": 0,
+    "branch": 0,
+    "token": "情熱ゾーン：祖にして導く者",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30137-once-eb638ccb743d1407",
+    "choice": 1,
+    "branch": 0,
+    "token": "情熱ゾーン：祖にして導く者",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30137-once-eb638ccb743d1407",
+    "choice": 2,
+    "branch": 0,
+    "token": "情熱ゾーン：祖にして導く者",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30142-once-c829fb7afa00dea6",
+    "choice": 0,
+    "branch": 0,
+    "token": "練習上手◯ 훈련능속◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30142-once-c829fb7afa00dea6",
+    "choice": 1,
+    "branch": 0,
+    "token": "注目株 주목 받는 신예",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30154-once-51eef38d9a429efa",
+    "choice": 1,
+    "branch": 0,
+    "token": "プチ☆アゲ↑バイブス",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30154-once-bc13e4179756194f",
+    "choice": 0,
+    "branch": 0,
+    "token": "プチ☆アゲ↑バイブス",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30154-once-bc13e4179756194f",
+    "choice": 0,
+    "branch": 1,
+    "token": "プチ☆アゲ↑バイブス",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30155-once-ff774edc84866966",
+    "choice": 1,
+    "branch": 0,
+    "token": "注目株 주목 받는 신예",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30160-once-6fa758a0105fd2ba",
+    "choice": 0,
+    "branch": 0,
+    "token": "幸運体質 행운체질",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30160-once-6fa758a0105fd2ba",
+    "choice": 1,
+    "branch": 0,
+    "token": "幸運体質 행운체질",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30160-once-bc41d7b31fa5784d",
+    "choice": 0,
+    "branch": 0,
+    "token": "ポジティブ思考 긍정적 사고",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30160-once-bc41d7b31fa5784d",
+    "choice": 1,
+    "branch": 0,
+    "token": "ポジティブ思考 긍정적 사고",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20066-once-e409a12252df0194",
+    "choice": 1,
+    "branch": 0,
+    "token": "練習上手◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30171-once-37445f9b051b28c0",
+    "choice": 0,
+    "branch": 0,
+    "token": "鋼の意思",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30173-once-2a312f200a093d98",
+    "choice": 0,
+    "branch": 0,
+    "token": "ポジティブ思考",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-20073-once-05728f9cdf15e7ae",
+    "choice": 1,
+    "branch": 0,
+    "token": "幸運体質 행운체질",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30206-once-2beabec54e0a175d",
+    "choice": 0,
+    "branch": 0,
+    "token": "幸運体質 행운체질",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30207-once-e43bfd9af98f7f07",
+    "choice": 0,
+    "branch": 0,
+    "token": "リフレッシュの心得",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30207-once-e43bfd9af98f7f07",
+    "choice": 1,
+    "branch": 0,
+    "token": "リフレッシュの心得",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30207-once-717b6f155c850b8a",
+    "choice": 0,
+    "branch": 0,
+    "token": "リフレッシュの心得",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30207-once-9f019744d14ed311",
+    "choice": 0,
+    "branch": 0,
+    "token": "リフレッシュの心得",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30207-once-9f019744d14ed311",
+    "choice": 0,
+    "branch": 1,
+    "token": "リフレッシュの心得",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30208-once-9ae43e1a87c182ab",
+    "choice": 0,
+    "branch": 0,
+    "token": "愛嬌◯ 애교◯",
+    "candidates": []
+  },
+  {
+    "eventId": "trainers-30215-once-086b0b975a86d6c7",
+    "choice": 1,
+    "branch": 0,
+    "token": "伶俐清澄",
+    "candidates": []
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30146.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30146-oguri-cap",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:36 GMT",
+  "etag": "\"9299bee0e42f0a3d37f526f57bdf2ca6\"",
+  "file": {
+    "path": "game-assets/supports/art/30146.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 89950,
+    "mimeType": "image/png",
+    "sha256": "478219b67e784bd4ff76387c31c6a08f8c24155de9f19b5cde423a378fce63e5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30146.png",
+    "sourceAssetId": "umamusume/supports/full/small/30146.png",
+    "sourceId": "gametora-media"
+  }
+}

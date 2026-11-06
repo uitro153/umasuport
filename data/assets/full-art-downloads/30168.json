@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30168.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30168-gold-ship",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:40 GMT",
+  "etag": "\"7b47c2f21ae247740d2627ba79d287a7\"",
+  "file": {
+    "path": "game-assets/supports/art/30168.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 88954,
+    "mimeType": "image/png",
+    "sha256": "d1ec7f5da6441d6b0d13fd79c1085840fa27a566cbaf86c84f873e7cdae4ed25",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30168.png",
+    "sourceAssetId": "umamusume/supports/full/small/30168.png",
+    "sourceId": "gametora-media"
+  }
+}

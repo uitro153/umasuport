@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "snapshotId": "fixture-p0-2026-11-04",
+  "datasetVersion": "fixture.1",
+  "generatedAt": "2026-11-04T14:00:00Z",
+  "kind": "fixture",
+  "sources": [
+    {
+      "sourceId": "source_fixture",
+      "title": "P0 구조 및 날짜 판정 검증용 가상 자료 — 실제 게임 데이터 아님",
+      "url": "https://example.invalid/uma/p0-fixture",
+      "accessedAt": "2026-11-04",
+      "evidence": "fixture"
+    }
+  ],
+  "characters": [
+    { "baseId": "character_demo_a", "nameKo": "[가상] 캐릭터 가", "nameJa": "[架空] キャラクターA", "aliases": ["가상가"], "sourceIds": ["source_fixture"] },
+    { "baseId": "character_demo_b", "nameKo": "[가상] 캐릭터 나", "nameJa": "[架空] キャラクターB", "aliases": ["가상나"], "sourceIds": ["source_fixture"] }
+  ],
+  "costumes": [
+    {
+      "costumeId": "costume_demo_a_default",
+      "baseId": "character_demo_a",
+      "nameKo": "[가상] 캐릭터 가 · 기본 의상",
+      "aptitudes": { "turf": "A", "dirt": "G", "sprint": "E", "mile": "B", "medium": "A", "long": "C", "front": "D", "pace": "A", "late": "B", "end": "G" },
+      "releaseRef": "release_costume_a_default",
+      "sourceIds": ["source_fixture"]
+    },
+    {
+      "costumeId": "costume_demo_a_alternate",
+      "baseId": "character_demo_a",
+      "nameKo": "[가상] 캐릭터 가 · 대체 의상",
+      "aptitudes": { "turf": "A", "dirt": "F", "sprint": "D", "mile": "A", "medium": "B", "long": "D", "front": "A", "pace": "B", "late": "C", "end": "F" },
+      "releaseRef": "release_costume_a_alternate",
+      "sourceIds": ["source_fixture"]
+    },
+    {
+      "costumeId": "costume_demo_b_default",
+      "baseId": "character_demo_b",
+      "nameKo": "[가상] 캐릭터 나 · 기본 의상",
+      "aptitudes": { "turf": "B", "dirt": "A", "sprint": "A", "mile": "A", "medium": "D", "long": "G", "front": "C", "pace": "A", "late": "D", "end": "E" },
+      "releaseRef": "release_costume_b_default",
+      "sourceIds": ["source_fixture"]
+    }
+  ],
+  "supports": [
+    {
+      "supportId": "support_demo_current",
+      "ownerBaseId": "character_demo_a",
+      "nameKo": "[가상] 현재 출시 카드",
+      "rarity": "SR",
+      "type": "speed",
+      "skills": [
+        { "skillId": "skill_demo_white_a", "path": "hint", "sourceIds": ["source_fixture"] },
+        { "skillId": "skill_demo_white_b", "path": "event", "sourceIds": ["source_fixture"] },
+        { "skillId": "skill_demo_gold_a", "path": "gold", "lowerSkillId": "skill_demo_white_a", "sourceIds": ["source_fixture"] }
+      ],
+      "releaseRef": "release_support_current",
+      "sourceIds": ["source_fixture"]
+    },
+    {
+      "supportId": "support_demo_confirmed_future",
+      "ownerBaseId": "character_demo_b",
+      "nameKo": "[가상] 미래 확정 카드",
+      "rarity": "SSR",
+      "type": "stamina",
+      "skills": [{ "skillId": "skill_demo_white_a", "path": "hint", "sourceIds": ["source_fixture"] }],
+      "releaseRef": "release_support_confirmed_future",
+      "sourceIds": ["source_fixture"]
+    },
+    {
+      "supportId": "support_demo_forecast_included",
+      "ownerBaseId": "character_demo_a",
+      "nameKo": "[가상] 대회 전 미래시 카드",
+      "rarity": "SSR",
+      "type": "wisdom",
+      "skills": [{ "skillId": "skill_demo_white_b", "path": "event", "sourceIds": ["source_fixture"] }],
+      "releaseRef": "release_support_forecast_included",
+      "sourceIds": ["source_fixture"]
+    },
+    {
+      "supportId": "support_demo_forecast_excluded",
+      "ownerBaseId": "character_demo_b",
+      "nameKo": "[가상] 대회 후 미래시 카드",
+      "rarity": "SR",
+      "type": "power",
+      "skills": [{ "skillId": "skill_demo_white_a", "path": "hint", "sourceIds": ["source_fixture"] }],
+      "releaseRef": "release_support_forecast_excluded",
+      "sourceIds": ["source_fixture"]
+    },
+    {
+      "supportId": "support_demo_kr_unknown",
+      "ownerBaseId": "character_demo_a",
+      "nameKo": "[가상] 한국 일정 미확인 카드",
+      "rarity": "R",
+      "type": "guts",
+      "skills": [],
+      "releaseRef": "release_support_kr_unknown",
+      "sourceIds": ["source_fixture"]
+    }
+  ],
+  "skills": [
+    { "skillId": "skill_demo_white_a", "nameKo": "[가상] 힌트 경로 스킬", "nameJa": "[架空] ヒントスキル", "costPt": null, "sourceIds": ["source_fixture"] },
+    { "skillId": "skill_demo_white_b", "nameKo": "[가상] 이벤트 경로 스킬", "nameJa": "[架空] イベントスキル", "costPt": null, "sourceIds": ["source_fixture"] },
+    { "skillId": "skill_demo_gold_a", "nameKo": "[가상] 하위 연결 금색 스킬", "nameJa": "[架空] 上位スキル", "costPt": null, "lowerSkillId": "skill_demo_white_a", "sourceIds": ["source_fixture"] }
+  ],
+  "courses": [
+    { "courseId": "course_demo_2200", "nameKo": "[가상] 우회전 2200m 코스", "distanceM": 2200, "surface": "turf", "direction": "right", "sourceIds": ["source_fixture"] }
+  ],
+  "scenarios": [
+    { "scenarioId": "scenario_demo", "nameKo": "[가상] 테스트 시나리오", "releaseRef": "release_scenario_demo", "linkedSupportIds": ["support_demo_current"], "sourceIds": ["source_fixture"] }
+  ],
+  "tournaments": [
+    {
+      "eventId": "event_demo_future",
+      "nameKo": "[가상] 2027년 2월 예상 대회",
+      "type": "champions-meeting",
+      "courseId": "course_demo_2200",
+      "startAt": "2027-02-10T12:00:00+09:00",
+      "dateStatus": "forecast",
+      "conditions": { "season": "winter", "weather": "unknown", "trackCondition": "unknown" },
+      "sourceIds": ["source_fixture"]
+    },
+    {
+      "eventId": "event_demo_past",
+      "nameKo": "[가상] 2026년 10월 확정 대회",
+      "type": "league-of-heroes",
+      "courseId": "course_demo_2200",
+      "startAt": "2026-10-20T12:00:00+09:00",
+      "dateStatus": "confirmed",
+      "conditions": { "season": "autumn", "weather": "sunny", "trackCondition": "firm" },
+      "sourceIds": ["source_fixture"]
+    }
+  ],
+  "releases": [
+    { "releaseId": "release_costume_a_default", "entityType": "costume", "entityId": "costume_demo_a_default", "jpDate": "2025-01-01", "krConfirmedDate": "2026-01-01", "krForecastDate": null, "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_costume_a_alternate", "entityType": "costume", "entityId": "costume_demo_a_alternate", "jpDate": "2025-02-01", "krConfirmedDate": "2026-02-01", "krForecastDate": null, "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_costume_b_default", "entityType": "costume", "entityId": "costume_demo_b_default", "jpDate": "2025-01-01", "krConfirmedDate": "2026-01-01", "krForecastDate": null, "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_support_current", "entityType": "support", "entityId": "support_demo_current", "jpDate": "2025-01-01", "krConfirmedDate": "2026-10-01", "krForecastDate": null, "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_support_confirmed_future", "entityType": "support", "entityId": "support_demo_confirmed_future", "jpDate": "2025-02-01", "krConfirmedDate": "2027-01-15", "krForecastDate": "2027-01-05", "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_support_forecast_included", "entityType": "support", "entityId": "support_demo_forecast_included", "jpDate": "2025-03-01", "krConfirmedDate": null, "krForecastDate": "2027-01-20", "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_support_forecast_excluded", "entityType": "support", "entityId": "support_demo_forecast_excluded", "jpDate": "2025-04-01", "krConfirmedDate": null, "krForecastDate": "2027-03-01", "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_support_kr_unknown", "entityType": "support", "entityId": "support_demo_kr_unknown", "jpDate": "2025-01-01", "krConfirmedDate": null, "krForecastDate": null, "sourceIds": ["source_fixture"] },
+    { "releaseId": "release_scenario_demo", "entityType": "scenario", "entityId": "scenario_demo", "jpDate": "2025-01-01", "krConfirmedDate": "2026-01-01", "krForecastDate": null, "sourceIds": ["source_fixture"] }
+  ],
+  "affinities": [
+    { "aBaseId": "character_demo_a", "bBaseId": "character_demo_b", "baseValue": 12, "sourceIds": ["source_fixture"] }
+  ],
+  "assets": []
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30142.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30142-sakura-laurel",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:35 GMT",
+  "etag": "\"608771cd6b64ce217faa08554e6c8d98\"",
+  "file": {
+    "path": "game-assets/supports/art/30142.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 79854,
+    "mimeType": "image/png",
+    "sha256": "d9c13f2e6393a18607763acfce15835b17b2cf936b94cd3376d4e3e541e477c0",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30142.png",
+    "sourceAssetId": "umamusume/supports/full/small/30142.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "asOf": "2026-11-05",
+  "inputSha256": "99d9e98c6704149ace186655dda2b5c30abf979b64e4788b9254afd61b2b2781",
+  "inputCounts": {
+    "people": 172,
+    "costumes": 272,
+    "supports": 405,
+    "skills": 1852,
+    "conditions": 0,
+    "events": 10359,
+    "commonEvents": 2331,
+    "distinctEventPayloads": 4904
+  },
+  "mappings": {
+    "person": {
+      "one-to-one": 153,
+      "trainers-only": 18,
+      "needs-review": 1
+    },
+    "costume": {
+      "needs-review": 19,
+      "one-to-one": 253
+    },
+    "support": {
+      "one-to-one": 394,
+      "needs-review": 7,
+      "ambiguous": 2,
+      "content-conflict": 2
+    },
+    "skill": {
+      "one-to-one": 1786,
+      "trainers-only": 29,
+      "content-conflict": 8,
+      "needs-review": 22,
+      "ambiguous": 7
+    }
+  },
+  "labelAdditions": 164,
+  "translationConflicts": 405,
+  "descriptionDifferences": 1403,
+  "routeCorroborations": 4136,
+  "hintCandidates": 7,
+  "eventListCandidates": 4,
+  "bonusConflicts": 35,
+  "quantContexts": 4,
+  "quantReportedRows": 1998,
+  "quantMappedRows": 1993,
+  "quantRankEligibleRows": 0,
+  "simulatorVersionDate": "2025-07-08",
+  "merge": {
+    "sourceId": "trainers-2026-10-30",
+    "labelChanges": 168,
+    "skillLabels": 164,
+    "supportLabels": 2,
+    "personLabels": 1,
+    "preservedKrApplicationsSha256": "0f9d5dc6a9b58f4733ebe661b07a9fac097289fdd6a89a53c08d09e6dba27c6f",
+    "preservedEffectAndCostSha256": "45d16e6b89109844cec6b7de4446d653fe69e559f8ea87e6bfff88d02f1b9997",
+    "preservedLineageApplications": true,
+    "newEventNarratives": 3027,
+    "commonEventNarratives": 1469,
+    "newSourceUnspecifiedEventRoutes": 1060,
+    "newUniqueSourceUnspecifiedEventPairs": 4,
+    "newKrConfirmedHintRoutes": 0,
+    "newKrConfirmedEventRoutes": 0,
+    "newGoldLowerRelations": 0,
+    "unresolvedQuotedRewards": 978
+  },
+  "skillKoreanMissingBefore": 228,
+  "skillKoreanMissingAfter": 64,
+  "matchedContentAvailability": {
+    "costume": {
+      "KR-released-by-dated-source": 199,
+      "forecast-not-confirmed-KR-release": 54
+    },
+    "support": {
+      "KR-released-by-dated-source": 333,
+      "forecast-not-confirmed-KR-release": 61
+    }
+  },
+  "sqlite": {
+    "integrity": "ok",
+    "foreignKeyViolations": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20021.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20021-aoi-kiryuin",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:53 GMT",
+  "etag": "\"27c62431ed57a8815c798b9a3516e3c2\"",
+  "file": {
+    "path": "game-assets/supports/art/20021.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 73947,
+    "mimeType": "image/png",
+    "sha256": "b7be6cb3be32a4ee4a0171c58fcab627d3ddbbefc726b30230ec8e16f33ccca2",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20021.png",
+    "sourceAssetId": "umamusume/supports/full/small/20021.png",
+    "sourceId": "gametora-media"
+  }
+}

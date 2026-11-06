@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10077.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10077-narita-top-road",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:38 GMT",
+  "etag": "\"30d08e0d8113110f2ba11d6319124d8a\"",
+  "file": {
+    "path": "game-assets/supports/art/10077.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 65704,
+    "mimeType": "image/png",
+    "sha256": "8835effb39824e1acaf1fb94d1e79975229d14648050ecac7c3c58c439547f05",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10077.png",
+    "sourceAssetId": "umamusume/supports/full/small/10077.png",
+    "sourceId": "gametora-media"
+  }
+}

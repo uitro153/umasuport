@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10083.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10083-light-hello",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:39 GMT",
+  "etag": "\"ce65c5b7d25dc5f95669e431664cf945\"",
+  "file": {
+    "path": "game-assets/supports/art/10083.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 55234,
+    "mimeType": "image/png",
+    "sha256": "0b34fa33068e0a9ba129f3cab931990330e30d8277fead03f2ed57ed46d004e0",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10083.png",
+    "sourceAssetId": "umamusume/supports/full/small/10083.png",
+    "sourceId": "gametora-media"
+  }
+}

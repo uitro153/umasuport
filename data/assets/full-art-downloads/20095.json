@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20095.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20095-red-desire",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:07 GMT",
+  "etag": "\"caa37ddf160c7c4978914cb930c01c3d\"",
+  "file": {
+    "path": "game-assets/supports/art/20095.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 77597,
+    "mimeType": "image/png",
+    "sha256": "8a479d5780c2fa7eccde9412403f7d626bbc47d08659a0f4e6cfa784a04f9eeb",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20095.png",
+    "sourceAssetId": "umamusume/supports/full/small/20095.png",
+    "sourceId": "gametora-media"
+  }
+}

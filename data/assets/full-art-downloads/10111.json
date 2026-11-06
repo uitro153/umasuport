@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10111.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10111-bubble-gum-fellow",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:44 GMT",
+  "etag": "\"8b20a88194868e771c56553ccdb62bbb\"",
+  "file": {
+    "path": "game-assets/supports/art/10111.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 72520,
+    "mimeType": "image/png",
+    "sha256": "598b2855cdbf746b2ba2ac2750e893ba17757cfe72cd1af7354cbf5ba921c1c5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10111.png",
+    "sourceAssetId": "umamusume/supports/full/small/10111.png",
+    "sourceId": "gametora-media"
+  }
+}

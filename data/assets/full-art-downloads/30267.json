@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30267.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30267-calstone-light-o",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:59 GMT",
+  "etag": "\"921126d0543b610e31ff0bb5d8334b59\"",
+  "file": {
+    "path": "game-assets/supports/art/30267.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 77406,
+    "mimeType": "image/png",
+    "sha256": "7bfcc8cef62f2644c3cf0031af13100f4c64c54866383d6eecfdbccd5f906fec",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30267.png",
+    "sourceAssetId": "umamusume/supports/full/small/30267.png",
+    "sourceId": "gametora-media"
+  }
+}

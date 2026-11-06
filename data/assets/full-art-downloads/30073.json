@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30073.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30073-narita-taishin",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:22 GMT",
+  "etag": "\"da96aef5f01a8c8ca77067b01b991e8c\"",
+  "file": {
+    "path": "game-assets/supports/art/30073.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 78190,
+    "mimeType": "image/png",
+    "sha256": "edf5aa1a41dfe06fdae04b8d2b67aa6077f607f25d54200b9029f6d0d6e7733d",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30073.png",
+    "sourceAssetId": "umamusume/supports/full/small/30073.png",
+    "sourceId": "gametora-media"
+  }
+}

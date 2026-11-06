@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30251.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30251-espoir-city",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:56 GMT",
+  "etag": "\"530f64748df9b016c1c9890ff3330d20\"",
+  "file": {
+    "path": "game-assets/supports/art/30251.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84954,
+    "mimeType": "image/png",
+    "sha256": "21c555c2c1202476f718505f755f12efa736249fd823feb2ec6e8550ecd0e1cf",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30251.png",
+    "sourceAssetId": "umamusume/supports/full/small/30251.png",
+    "sourceId": "gametora-media"
+  }
+}

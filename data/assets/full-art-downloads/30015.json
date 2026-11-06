@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30015.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30015-sakura-bakushin-o",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:11 GMT",
+  "etag": "\"1423e3014ba1a382b8ff0ec4b5786d71\"",
+  "file": {
+    "path": "game-assets/supports/art/30015.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 75772,
+    "mimeType": "image/png",
+    "sha256": "58972c67d001d1126333cd339936d76d5b0a66a4e9aa2c626cb1465df6cbec68",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30015.png",
+    "sourceAssetId": "umamusume/supports/full/small/30015.png",
+    "sourceId": "gametora-media"
+  }
+}

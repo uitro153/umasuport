@@ -1,0 +1,287 @@
+{
+  "contract": "uma-tournament-display-periods",
+  "schemaVersion": 1,
+  "checkedOn": "2026-11-05",
+  "purpose": "Display-only historical filtering. Original P3/P5 contracts and availability policies unchanged.",
+  "sources": [
+    {
+      "id": "gt-ko-cm-periods",
+      "url": "https://gametora.com/data/umamusume/ko/events/champions-meeting.a1003213.json",
+      "file": "data/raw/p3-2026-11-05/gt-ko-events-champions-meeting.json",
+      "sha256": "a1003213c3981a2a3c9cc9b2253de86e406ebbcff71e5e3d41caddd0e8992a42",
+      "classification": "secondary-schedule"
+    },
+    {
+      "id": "kr-loh-2026-09-help",
+      "url": "https://kakaogames.oqupie.com/portals/1576/articles/65213",
+      "classification": "official-month-day-with-existing-2026-event-context",
+      "note": "Official help states September12-21; year context retained from existing KR event evidence, not newly certified."
+    }
+  ],
+  "periods": [
+    {
+      "eventId": "kr-cm-1",
+      "endOn": "2022-09-14",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2022-09-08"
+    },
+    {
+      "eventId": "kr-cm-2",
+      "endOn": "2022-10-09",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2022-10-03"
+    },
+    {
+      "eventId": "kr-cm-3",
+      "endOn": "2022-11-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2022-11-11"
+    },
+    {
+      "eventId": "kr-cm-4",
+      "endOn": "2022-12-19",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2022-12-13"
+    },
+    {
+      "eventId": "kr-cm-5",
+      "endOn": "2023-01-16",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-01-10"
+    },
+    {
+      "eventId": "kr-cm-6",
+      "endOn": "2023-02-16",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-02-10"
+    },
+    {
+      "eventId": "kr-cm-7",
+      "endOn": "2023-03-20",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-03-14"
+    },
+    {
+      "eventId": "kr-cm-8",
+      "endOn": "2023-04-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-04-11"
+    },
+    {
+      "eventId": "kr-cm-9",
+      "endOn": "2023-05-19",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-05-13"
+    },
+    {
+      "eventId": "kr-cm-10",
+      "endOn": "2023-06-15",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-06-09"
+    },
+    {
+      "eventId": "kr-cm-11",
+      "endOn": "2023-07-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-07-11"
+    },
+    {
+      "eventId": "kr-cm-12",
+      "endOn": "2023-08-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-08-11"
+    },
+    {
+      "eventId": "kr-cm-13",
+      "endOn": "2023-09-18",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-09-12"
+    },
+    {
+      "eventId": "kr-cm-14",
+      "endOn": "2023-10-09",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-10-03"
+    },
+    {
+      "eventId": "kr-cm-15",
+      "endOn": "2023-11-08",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-11-02"
+    },
+    {
+      "eventId": "kr-cm-16",
+      "endOn": "2023-12-08",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2023-12-02"
+    },
+    {
+      "eventId": "kr-cm-17",
+      "endOn": "2024-01-10",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-01-04"
+    },
+    {
+      "eventId": "kr-cm-18",
+      "endOn": "2024-02-08",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-02-02"
+    },
+    {
+      "eventId": "kr-cm-19",
+      "endOn": "2024-03-09",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-03-03"
+    },
+    {
+      "eventId": "kr-cm-20",
+      "endOn": "2024-04-10",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-04-04"
+    },
+    {
+      "eventId": "kr-cm-21",
+      "endOn": "2024-05-10",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-05-04"
+    },
+    {
+      "eventId": "kr-cm-22",
+      "endOn": "2024-06-13",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-06-07"
+    },
+    {
+      "eventId": "kr-cm-23",
+      "endOn": "2024-07-08",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-07-02"
+    },
+    {
+      "eventId": "kr-cm-24",
+      "endOn": "2024-08-07",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-08-01"
+    },
+    {
+      "eventId": "kr-cm-25",
+      "endOn": "2024-10-07",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-10-01"
+    },
+    {
+      "eventId": "kr-cm-26",
+      "endOn": "2024-12-12",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2024-12-06"
+    },
+    {
+      "eventId": "kr-cm-27",
+      "endOn": "2025-02-06",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2025-01-31"
+    },
+    {
+      "eventId": "kr-cm-28",
+      "endOn": "2025-04-09",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2025-04-03"
+    },
+    {
+      "eventId": "kr-cm-29",
+      "endOn": "2025-06-14",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2025-06-08"
+    },
+    {
+      "eventId": "kr-cm-30",
+      "endOn": "2025-08-08",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2025-08-02"
+    },
+    {
+      "eventId": "kr-cm-31",
+      "endOn": "2025-10-15",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2025-10-09"
+    },
+    {
+      "eventId": "kr-cm-32",
+      "endOn": "2025-12-20",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2025-12-14"
+    },
+    {
+      "eventId": "kr-cm-33",
+      "endOn": "2026-02-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2026-02-11"
+    },
+    {
+      "eventId": "kr-cm-34",
+      "endOn": "2026-04-18",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2026-04-12"
+    },
+    {
+      "eventId": "kr-cm-35",
+      "endOn": "2026-05-21",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2026-05-15"
+    },
+    {
+      "eventId": "kr-cm-36",
+      "endOn": "2026-07-20",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2026-07-14"
+    },
+    {
+      "eventId": "kr-cm-37",
+      "endOn": "2026-08-18",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2026-08-12"
+    },
+    {
+      "eventId": "kr-cm-38",
+      "endOn": "2026-10-16",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2026-10-10"
+    },
+    {
+      "eventId": "kr-cm-39",
+      "endOn": "2026-11-19",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2026-11-13"
+    },
+    {
+      "eventId": "kr-cm-40",
+      "endOn": "2027-01-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2027-01-11"
+    },
+    {
+      "eventId": "kr-cm-41",
+      "endOn": "2027-02-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2027-02-11"
+    },
+    {
+      "eventId": "kr-cm-42",
+      "endOn": "2027-04-17",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2027-04-11"
+    },
+    {
+      "eventId": "kr-cm-43",
+      "endOn": "2027-05-19",
+      "sourceId": "gt-ko-cm-periods",
+      "startOn": "2027-05-13"
+    },
+    {
+      "eventId": "kr-loh-2026-09",
+      "endOn": "2026-09-21",
+      "sourceId": "kr-loh-2026-09-help",
+      "startOn": "2026-09-12"
+    }
+  ]
+}

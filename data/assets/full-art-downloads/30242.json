@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30242.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30242-almond-eye",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:54 GMT",
+  "etag": "\"89dba53d14beb42546a636ca58f8d7b1\"",
+  "file": {
+    "path": "game-assets/supports/art/30242.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 82537,
+    "mimeType": "image/png",
+    "sha256": "9b19fd721ed60406f794b47d6be46f17a9ec3d8ceb511cb09a28a2995e62ba37",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30242.png",
+    "sourceAssetId": "umamusume/supports/full/small/30242.png",
+    "sourceId": "gametora-media"
+  }
+}

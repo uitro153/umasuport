@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30223.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30223-hishi-amazon",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:51 GMT",
+  "etag": "\"318fa7ceec5b332c2e97c2d1585c5526\"",
+  "file": {
+    "path": "game-assets/supports/art/30223.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 80848,
+    "mimeType": "image/png",
+    "sha256": "5540badd20e6888c2ac25d293ca37af49b7bbb06a1871e9a6f558e28a7e44c19",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30223.png",
+    "sourceAssetId": "umamusume/supports/full/small/30223.png",
+    "sourceId": "gametora-media"
+  }
+}

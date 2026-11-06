@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30090.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30090-symboli-rudolf",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:25 GMT",
+  "etag": "\"fe3bf9edde73713bebab5e32d3d6a6cf\"",
+  "file": {
+    "path": "game-assets/supports/art/30090.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 78410,
+    "mimeType": "image/png",
+    "sha256": "3172e1f5ed82ccb029b984c410140767256eba132ce7122c6c255289734ce5cd",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30090.png",
+    "sourceAssetId": "umamusume/supports/full/small/30090.png",
+    "sourceId": "gametora-media"
+  }
+}

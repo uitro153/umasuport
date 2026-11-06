@@ -1,0 +1,69 @@
+{
+  "sourceSnapshotId": "p3-2026-11-05-fb68e3e10518d286-trainers-a3cff1e14c86",
+  "description": "Unmodified actual scenario availability and acquisition rows for P7 time-boundary unit tests; not a production source pack.",
+  "applications": [
+    {
+      "entityType": "scenario",
+      "entityId": "1",
+      "jpDate": "2021-02-24",
+      "kr": {
+        "confirmedDate": null,
+        "observedDate": "2022-06-20",
+        "forecastDate": null,
+        "releasedBy": null,
+        "evidence": "secondary_page",
+        "sourceUrl": "https://gametora.com/data/umamusume/scenarios.bbd1d764.json",
+        "checkedOn": "2026-11-05"
+      },
+      "patchOverrides": []
+    },
+    {
+      "entityType": "scenario",
+      "entityId": "11",
+      "jpDate": "2025-06-27",
+      "kr": {
+        "confirmedDate": null,
+        "observedDate": "2026-10-16",
+        "forecastDate": null,
+        "releasedBy": null,
+        "evidence": "secondary_page",
+        "sourceUrl": "https://gametora.com/data/umamusume/scenarios.bbd1d764.json",
+        "checkedOn": "2026-11-05"
+      },
+      "patchOverrides": []
+    },
+    {
+      "entityType": "scenario",
+      "entityId": "13",
+      "jpDate": "2026-02-24",
+      "kr": {
+        "confirmedDate": null,
+        "observedDate": "2027-06-15",
+        "forecastDate": null,
+        "releasedBy": null,
+        "evidence": "secondary_page",
+        "sourceUrl": "https://gametora.com/data/umamusume/scenarios.bbd1d764.json",
+        "checkedOn": "2026-11-05"
+      },
+      "patchOverrides": []
+    }
+  ],
+  "scenarioSkillRoutes": [
+    {
+      "scenarioId": "6",
+      "skillId": "200132",
+      "label": "시나리오 획득 가능·세부 조건 미확인",
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "scenarioId": "5",
+      "skillId": "200154",
+      "label": "시나리오 획득 가능·세부 조건 미확인",
+      "sourceIds": [
+        "gt_current"
+      ]
+    }
+  ]
+}

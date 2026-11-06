@@ -1,0 +1,317 @@
+[
+  {
+    "supportId": "20018",
+    "trainersId": "48",
+    "field": "힌트 Lv",
+    "limitBreak": 1,
+    "p3": 2,
+    "trainers": 32,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30032",
+    "trainersId": "90",
+    "field": "힌트 Lv",
+    "limitBreak": 2,
+    "p3": 3,
+    "trainers": 2,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30056",
+    "trainersId": "111",
+    "field": "힌트 Lv",
+    "limitBreak": 4,
+    "p3": 3,
+    "trainers": 2,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30082",
+    "trainersId": "176",
+    "field": "힌트 발생률",
+    "limitBreak": 0,
+    "p3": 20,
+    "trainers": 5,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30082",
+    "trainersId": "176",
+    "field": "힌트 발생률",
+    "limitBreak": 1,
+    "p3": 20,
+    "trainers": 5,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30082",
+    "trainersId": "176",
+    "field": "힌트 발생률",
+    "limitBreak": 2,
+    "p3": 20,
+    "trainers": 5,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30082",
+    "trainersId": "176",
+    "field": "힌트 발생률",
+    "limitBreak": 3,
+    "p3": 20,
+    "trainers": 5,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30082",
+    "trainersId": "176",
+    "field": "힌트 발생률",
+    "limitBreak": 4,
+    "p3": 20,
+    "trainers": 5,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30131",
+    "trainersId": "300",
+    "field": "힌트 Lv",
+    "limitBreak": 0,
+    "p3": 2,
+    "trainers": 1,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30133",
+    "trainersId": "302",
+    "field": "힌트 발생률",
+    "limitBreak": 0,
+    "p3": 20,
+    "trainers": 25,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30133",
+    "trainersId": "302",
+    "field": "힌트 발생률",
+    "limitBreak": 1,
+    "p3": 23,
+    "trainers": 26,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30133",
+    "trainersId": "302",
+    "field": "힌트 발생률",
+    "limitBreak": 2,
+    "p3": 26,
+    "trainers": 27,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30133",
+    "trainersId": "302",
+    "field": "힌트 발생률",
+    "limitBreak": 3,
+    "p3": 30,
+    "trainers": 28,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30158",
+    "trainersId": "357",
+    "field": "힌트 Lv",
+    "limitBreak": 3,
+    "p3": 2,
+    "trainers": 1,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30158",
+    "trainersId": "357",
+    "field": "힌트 Lv",
+    "limitBreak": 4,
+    "p3": 2,
+    "trainers": 1,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30168",
+    "trainersId": "376",
+    "field": "힌트 Lv",
+    "limitBreak": 4,
+    "p3": 3,
+    "trainers": 2,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30177",
+    "trainersId": "395",
+    "field": "힌트 Lv",
+    "limitBreak": 0,
+    "p3": 2,
+    "trainers": 1,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30177",
+    "trainersId": "395",
+    "field": "힌트 Lv",
+    "limitBreak": 2,
+    "p3": 2,
+    "trainers": 3,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30177",
+    "trainersId": "395",
+    "field": "힌트 Lv",
+    "limitBreak": 3,
+    "p3": 2,
+    "trainers": 5,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30177",
+    "trainersId": "395",
+    "field": "힌트 Lv",
+    "limitBreak": 4,
+    "p3": 3,
+    "trainers": 5,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30179",
+    "trainersId": "399",
+    "field": "힌트 Lv",
+    "limitBreak": 0,
+    "p3": 2,
+    "trainers": 1,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30183",
+    "trainersId": "410",
+    "field": "힌트 발생률",
+    "limitBreak": 4,
+    "p3": 40,
+    "trainers": 45,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30198",
+    "trainersId": "430",
+    "field": "힌트 Lv",
+    "limitBreak": 4,
+    "p3": 3,
+    "trainers": 2,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30206",
+    "trainersId": "444",
+    "field": "힌트 발생률",
+    "limitBreak": 2,
+    "p3": 45,
+    "trainers": 46,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30229",
+    "trainersId": "493",
+    "field": "힌트 Lv",
+    "limitBreak": 0,
+    "p3": 2,
+    "trainers": 1,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30274",
+    "trainersId": "580",
+    "field": "힌트 발생률",
+    "limitBreak": 0,
+    "p3": 40,
+    "trainers": 10,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30274",
+    "trainersId": "580",
+    "field": "힌트 발생률",
+    "limitBreak": 1,
+    "p3": 42,
+    "trainers": 11,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30274",
+    "trainersId": "580",
+    "field": "힌트 발생률",
+    "limitBreak": 2,
+    "p3": 45,
+    "trainers": 12,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30274",
+    "trainersId": "580",
+    "field": "힌트 발생률",
+    "limitBreak": 3,
+    "p3": 47,
+    "trainers": 13,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30274",
+    "trainersId": "580",
+    "field": "힌트 발생률",
+    "limitBreak": 4,
+    "p3": 50,
+    "trainers": 15,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30287",
+    "trainersId": "606",
+    "field": "힌트 Lv",
+    "limitBreak": 2,
+    "p3": 3,
+    "trainers": 2,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30286",
+    "trainersId": "607",
+    "field": "힌트 발생률",
+    "limitBreak": 1,
+    "p3": 60,
+    "trainers": 50,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30296",
+    "trainersId": "626",
+    "field": "힌트 발생률",
+    "limitBreak": 3,
+    "p3": 90,
+    "trainers": 30,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30296",
+    "trainersId": "626",
+    "field": "힌트 발생률",
+    "limitBreak": 4,
+    "p3": 100,
+    "trainers": 40,
+    "status": "not-overwritten"
+  },
+  {
+    "supportId": "30309",
+    "trainersId": "654",
+    "field": "힌트 Lv",
+    "limitBreak": 4,
+    "p3": 2,
+    "trainers": 3,
+    "status": "not-overwritten"
+  }
+]

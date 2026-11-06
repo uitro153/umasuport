@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30288.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30288-silence-suzuka",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:04 GMT",
+  "etag": "\"f6a2ab6debc0b4d380cc1b721247ffee\"",
+  "file": {
+    "path": "game-assets/supports/art/30288.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 76353,
+    "mimeType": "image/png",
+    "sha256": "1f1dca3ec06b56fbd6b0d86e44c45429869ce8a1eece91aa7edaeec74a83aabc",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30288.png",
+    "sourceAssetId": "umamusume/supports/full/small/30288.png",
+    "sourceId": "gametora-media"
+  }
+}

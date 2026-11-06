@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10057.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10057-matikanetannhauser",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:34 GMT",
+  "etag": "\"8bc71b6c27d762dd71ab6be829c26401\"",
+  "file": {
+    "path": "game-assets/supports/art/10057.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 62330,
+    "mimeType": "image/png",
+    "sha256": "9063195712c17e79b244944c6ff84f761cb85d4d99366544d65e5c84f8e635d6",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10057.png",
+    "sourceAssetId": "umamusume/supports/full/small/10057.png",
+    "sourceId": "gametora-media"
+  }
+}

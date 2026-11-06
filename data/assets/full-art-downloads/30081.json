@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30081.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30081-team-sirius",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:23 GMT",
+  "etag": "\"f9e73bceadefdfe049580a8045c06858\"",
+  "file": {
+    "path": "game-assets/supports/art/30081.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83817,
+    "mimeType": "image/png",
+    "sha256": "6f22265d71670b26cc3bc71ddc4aaeabe103f7b69280da51604f833c999ac34a",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30081.png",
+    "sourceAssetId": "umamusume/supports/full/small/30081.png",
+    "sourceId": "gametora-media"
+  }
+}

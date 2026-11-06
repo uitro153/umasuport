@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30034.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30034-rice-shower",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:15 GMT",
+  "etag": "\"be5eef0c6039ddc3fabf408698e41dda\"",
+  "file": {
+    "path": "game-assets/supports/art/30034.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83701,
+    "mimeType": "image/png",
+    "sha256": "4c66dbbf0a8166b6118855e239a12baacdcfe527d496c6cfebacb9cd943439a0",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30034.png",
+    "sourceAssetId": "umamusume/supports/full/small/30034.png",
+    "sourceId": "gametora-media"
+  }
+}

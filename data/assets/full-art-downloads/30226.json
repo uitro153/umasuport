@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30226.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30226-air-shakur",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:51 GMT",
+  "etag": "\"3e795527029fd11938cd4dcf55183034\"",
+  "file": {
+    "path": "game-assets/supports/art/30226.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83592,
+    "mimeType": "image/png",
+    "sha256": "353b6f3a6dad46f213434101230129ac7a5e5d3cb679e62c7c60f3198c9ee5a0",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30226.png",
+    "sourceAssetId": "umamusume/supports/full/small/30226.png",
+    "sourceId": "gametora-media"
+  }
+}

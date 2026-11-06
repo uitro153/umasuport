@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10131.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10131-win-variation",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:47 GMT",
+  "etag": "\"5c1aa2854bf8e5fc2d55eb703fce9082\"",
+  "file": {
+    "path": "game-assets/supports/art/10131.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 54093,
+    "mimeType": "image/png",
+    "sha256": "8493e9ee9b94682fed84f4a6813c117868ef3d024480513a75ff43a5982771ea",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10131.png",
+    "sourceAssetId": "umamusume/supports/full/small/10131.png",
+    "sourceId": "gametora-media"
+  }
+}

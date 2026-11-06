@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10129.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10129-fusaichi-pandora",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:47 GMT",
+  "etag": "\"dcabcc41d035e7376f00781d224f5b42\"",
+  "file": {
+    "path": "game-assets/supports/art/10129.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 63161,
+    "mimeType": "image/png",
+    "sha256": "460bab84f3da8379d3ca99e0ba7418feb532efa25eeeb878b1065642d207c994",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10129.png",
+    "sourceAssetId": "umamusume/supports/full/small/10129.png",
+    "sourceId": "gametora-media"
+  }
+}

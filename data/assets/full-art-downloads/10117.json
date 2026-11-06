@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10117.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10117-no-reason",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:45 GMT",
+  "etag": "\"e5de279638e6c6fe2bd2b1d6e9b49032\"",
+  "file": {
+    "path": "game-assets/supports/art/10117.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 72964,
+    "mimeType": "image/png",
+    "sha256": "08c90026e5b33cae461299350135a60c997df4396f93e2a9b48555c7c93a25d6",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10117.png",
+    "sourceAssetId": "umamusume/supports/full/small/10117.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20097.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20097-super-creek",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:08 GMT",
+  "etag": "\"2b5b7a9d53db2f5f75ec97441995b4ff\"",
+  "file": {
+    "path": "game-assets/supports/art/20097.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81607,
+    "mimeType": "image/png",
+    "sha256": "e619a1ad890f315a0d891ae8b8ba97be270b00f3dd1536444d0d5dba6b7069b5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20097.png",
+    "sourceAssetId": "umamusume/supports/full/small/20097.png",
+    "sourceId": "gametora-media"
+  }
+}

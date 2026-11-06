@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30205.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30205-verxina",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:47 GMT",
+  "etag": "\"f324a1b888afcbf8050d3b5a1a100d11\"",
+  "file": {
+    "path": "game-assets/supports/art/30205.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 80129,
+    "mimeType": "image/png",
+    "sha256": "b3e65474513403ffdc303c9f0813f2c488f37e86b6e676d5a40e2c40e87942b3",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30205.png",
+    "sourceAssetId": "umamusume/supports/full/small/30205.png",
+    "sourceId": "gametora-media"
+  }
+}

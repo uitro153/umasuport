@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30211.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30211-copano-rickey",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:49 GMT",
+  "etag": "\"7e6c75d5a4b7533adca54df19f7ba6da\"",
+  "file": {
+    "path": "game-assets/supports/art/30211.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 91941,
+    "mimeType": "image/png",
+    "sha256": "3304b977daa61eccc84519768ed2a406141e76cbec53fa165c6072b9956bce02",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30211.png",
+    "sourceAssetId": "umamusume/supports/full/small/30211.png",
+    "sourceId": "gametora-media"
+  }
+}

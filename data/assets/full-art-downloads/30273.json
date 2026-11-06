@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30273.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30273-tosen-jordan",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:01 GMT",
+  "etag": "\"abea41d6a7e8d7823416ecfd1f200581\"",
+  "file": {
+    "path": "game-assets/supports/art/30273.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81288,
+    "mimeType": "image/png",
+    "sha256": "984a0897db5add67423249bd54f0b06e3018cef649ec3044a1639ac0418deeab",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30273.png",
+    "sourceAssetId": "umamusume/supports/full/small/30273.png",
+    "sourceId": "gametora-media"
+  }
+}

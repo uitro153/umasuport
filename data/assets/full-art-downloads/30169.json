@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30169.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30169-tsurumaru-tsuyoshi",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:40 GMT",
+  "etag": "\"397d3ae23717f509a3598f57895a5f0e\"",
+  "file": {
+    "path": "game-assets/supports/art/30169.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84382,
+    "mimeType": "image/png",
+    "sha256": "1faf3e0d3c7cbb5f61d931c11a9755d2804f38a6d473d4e9c308b6011c59b404",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30169.png",
+    "sourceAssetId": "umamusume/supports/full/small/30169.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30177.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30177-vivlos",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:42 GMT",
+  "etag": "\"ba1157136ae0a2272acbebdd40df6be6\"",
+  "file": {
+    "path": "game-assets/supports/art/30177.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 82207,
+    "mimeType": "image/png",
+    "sha256": "88a9d0f6b7989be85d978ea0f06b0747318a9aeea7cfc1ebe559a54304713e3c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30177.png",
+    "sourceAssetId": "umamusume/supports/full/small/30177.png",
+    "sourceId": "gametora-media"
+  }
+}

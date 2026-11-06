@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10100.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10100-royce-and-royce",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:42 GMT",
+  "etag": "\"af377cfa08b8660c6a0249b3d5627b16\"",
+  "file": {
+    "path": "game-assets/supports/art/10100.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 60089,
+    "mimeType": "image/png",
+    "sha256": "68938fc6ea6f4fd713f9e67be6e418d8fef4e18e24268c4eaf6c4ddef9867247",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10100.png",
+    "sourceAssetId": "umamusume/supports/full/small/10100.png",
+    "sourceId": "gametora-media"
+  }
+}

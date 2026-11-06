@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20030.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20030-ines-fujin",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:55 GMT",
+  "etag": "\"4519a76bb3fb9ae962b6278a013f8e68\"",
+  "file": {
+    "path": "game-assets/supports/art/20030.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 65169,
+    "mimeType": "image/png",
+    "sha256": "fb37a16874c3a1e1ab894db2bc51f77bbee487db0937c513a5a2c93309bef6ae",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20030.png",
+    "sourceAssetId": "umamusume/supports/full/small/20030.png",
+    "sourceId": "gametora-media"
+  }
+}

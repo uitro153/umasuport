@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10084.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10084-tanino-gimlet",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:39 GMT",
+  "etag": "\"fc7f50fa32ab183f367948348255968c\"",
+  "file": {
+    "path": "game-assets/supports/art/10084.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 55984,
+    "mimeType": "image/png",
+    "sha256": "75206c4255317661dab904bcf9d70991c29ec3a39556f05bc0cb2cfa7947aae2",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10084.png",
+    "sourceAssetId": "umamusume/supports/full/small/10084.png",
+    "sourceId": "gametora-media"
+  }
+}

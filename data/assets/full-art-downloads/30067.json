@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30067.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30067-the-thrones-assemblage",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:20 GMT",
+  "etag": "\"2b212ffd703d87eea4310f6c3f829133\"",
+  "file": {
+    "path": "game-assets/supports/art/30067.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 87020,
+    "mimeType": "image/png",
+    "sha256": "8a2750c0042f98a958349073c985267c3c325275a39d82b6b887030e19602e96",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30067.png",
+    "sourceAssetId": "umamusume/supports/full/small/30067.png",
+    "sourceId": "gametora-media"
+  }
+}

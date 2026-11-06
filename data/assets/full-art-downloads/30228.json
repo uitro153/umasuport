@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30228.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30228-symboli-kris-s",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:52 GMT",
+  "etag": "\"06412808d4632897e368123b28586050\"",
+  "file": {
+    "path": "game-assets/supports/art/30228.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84990,
+    "mimeType": "image/png",
+    "sha256": "e102f7e30eedf8bb332567f70adb5f6bd70bd44391e82c31fd9ed89865e2e367",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30228.png",
+    "sourceAssetId": "umamusume/supports/full/small/30228.png",
+    "sourceId": "gametora-media"
+  }
+}

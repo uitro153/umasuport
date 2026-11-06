@@ -1,0 +1,1177 @@
+[
+  {
+    "entity": "skill",
+    "id": "114301211",
+    "localId": "1675",
+    "before": null,
+    "after": "어두운 밤의 등불"
+  },
+  {
+    "entity": "skill",
+    "id": "120411",
+    "localId": "1676",
+    "before": null,
+    "after": "벚꽃 눈보라치는 스프린트 버스트"
+  },
+  {
+    "entity": "skill",
+    "id": "204312",
+    "localId": "1677",
+    "before": null,
+    "after": "압도하는 기세"
+  },
+  {
+    "entity": "skill",
+    "id": "104103111",
+    "localId": "1678",
+    "before": null,
+    "after": "초속×신뢰=초돌진!!"
+  },
+  {
+    "entity": "skill",
+    "id": "104103211",
+    "localId": "1679",
+    "before": null,
+    "after": "맹진, 벚꽃 눈보라와 같이"
+  },
+  {
+    "entity": "skill",
+    "id": "110821",
+    "localId": "1680",
+    "before": null,
+    "after": "반짝이고 화려한 애로 라인"
+  },
+  {
+    "entity": "skill",
+    "id": "108202111",
+    "localId": "1681",
+    "before": null,
+    "after": "유려한 급추격"
+  },
+  {
+    "entity": "skill",
+    "id": "108202211",
+    "localId": "1682",
+    "before": null,
+    "after": "봄바람, 창공을 달리다"
+  },
+  {
+    "entity": "skill",
+    "id": "204322",
+    "localId": "1683",
+    "before": null,
+    "after": "아훔의 호흡"
+  },
+  {
+    "entity": "skill",
+    "id": "204262",
+    "localId": "1684",
+    "before": null,
+    "after": "별의 반짝임"
+  },
+  {
+    "entity": "skill",
+    "id": "109802221",
+    "localId": "1685",
+    "before": null,
+    "after": "운수가 풀리는 드럼 롤"
+  },
+  {
+    "entity": "skill",
+    "id": "101301",
+    "localId": "1686",
+    "before": null,
+    "after": "피어나는 화려한 존재"
+  },
+  {
+    "entity": "skill",
+    "id": "113001111",
+    "localId": "1687",
+    "before": null,
+    "after": "보랏빛 향기 피어오르니"
+  },
+  {
+    "entity": "skill",
+    "id": "113001211",
+    "localId": "1688",
+    "before": null,
+    "after": "안개를 걷어내는 화려한 존재"
+  },
+  {
+    "entity": "skill",
+    "id": "204272",
+    "localId": "1689",
+    "before": null,
+    "after": "급선회"
+  },
+  {
+    "entity": "skill",
+    "id": "204282",
+    "localId": "1690",
+    "before": null,
+    "after": "맹렬한 푸시"
+  },
+  {
+    "entity": "skill",
+    "id": "204271",
+    "localId": "1691",
+    "before": null,
+    "after": "장인의 스티어링"
+  },
+  {
+    "entity": "skill",
+    "id": "204311",
+    "localId": "1692",
+    "before": null,
+    "after": "압도"
+  },
+  {
+    "entity": "skill",
+    "id": "101181",
+    "localId": "1693",
+    "before": null,
+    "after": "아득히 먼 far north"
+  },
+  {
+    "entity": "skill",
+    "id": "111801111",
+    "localId": "1694",
+    "before": null,
+    "after": "설백빙자"
+  },
+  {
+    "entity": "skill",
+    "id": "111801211",
+    "localId": "1695",
+    "before": null,
+    "after": "비할 바 없는 눈꽃"
+  },
+  {
+    "entity": "skill",
+    "id": "110941",
+    "localId": "1696",
+    "before": null,
+    "after": "황혼의 혈맹"
+  },
+  {
+    "entity": "skill",
+    "id": "109402111",
+    "localId": "1698",
+    "before": null,
+    "after": "기합의 337 박자!"
+  },
+  {
+    "entity": "skill",
+    "id": "109402211",
+    "localId": "1699",
+    "before": null,
+    "after": " '최강'의 불꽃"
+  },
+  {
+    "entity": "skill",
+    "id": "100503111",
+    "localId": "1701",
+    "before": null,
+    "after": "울려라, 우레와 같은 갈채여"
+  },
+  {
+    "entity": "skill",
+    "id": "100503211",
+    "localId": "1702",
+    "before": null,
+    "after": "광휘를 발하는 건 하얀 왕"
+  },
+  {
+    "entity": "skill",
+    "id": "204362",
+    "localId": "1703",
+    "before": null,
+    "after": " 화려한 싸움"
+  },
+  {
+    "entity": "skill",
+    "id": "204372",
+    "localId": "1704",
+    "before": null,
+    "after": "흐름에 맡긴 채"
+  },
+  {
+    "entity": "skill",
+    "id": "204351",
+    "localId": "1705",
+    "before": null,
+    "after": "일기당천"
+  },
+  {
+    "entity": "skill",
+    "id": "204342",
+    "localId": "1706",
+    "before": null,
+    "after": "탄력을 받아서"
+  },
+  {
+    "entity": "skill",
+    "id": "203401",
+    "localId": "1707",
+    "before": null,
+    "after": "비룡승운"
+  },
+  {
+    "entity": "skill",
+    "id": "112001121",
+    "localId": "1708",
+    "before": null,
+    "after": "기광일신! "
+  },
+  {
+    "entity": "skill",
+    "id": "204352",
+    "localId": "1709",
+    "before": null,
+    "after": "용기를 내어"
+  },
+  {
+    "entity": "skill",
+    "id": "204332",
+    "localId": "1713",
+    "before": null,
+    "after": "성실한 주행"
+  },
+  {
+    "entity": "skill",
+    "id": "204331",
+    "localId": "1714",
+    "before": null,
+    "after": "꾸준함은 힘이 된다"
+  },
+  {
+    "entity": "skill",
+    "id": "101361",
+    "localId": "1715",
+    "before": null,
+    "after": "무구한 기도・홀리 라이트"
+  },
+  {
+    "entity": "skill",
+    "id": "204453",
+    "localId": "1716",
+    "before": null,
+    "after": "성녀의 도전"
+  },
+  {
+    "entity": "skill",
+    "id": "204452",
+    "localId": "1717",
+    "before": null,
+    "after": "성녀의 시련"
+  },
+  {
+    "entity": "skill",
+    "id": "203321",
+    "localId": "1718",
+    "before": null,
+    "after": "내려앉는 날개"
+  },
+  {
+    "entity": "skill",
+    "id": "113601111",
+    "localId": "1719",
+    "before": null,
+    "after": "각성한 성녀"
+  },
+  {
+    "entity": "skill",
+    "id": "113601211",
+    "localId": "1720",
+    "before": null,
+    "after": "하늘이 내려준 은총"
+  },
+  {
+    "entity": "skill",
+    "id": "120251",
+    "localId": "1721",
+    "before": null,
+    "after": "망설여질 때도, 초라해질 때도"
+  },
+  {
+    "entity": "skill",
+    "id": "204432",
+    "localId": "1722",
+    "before": null,
+    "after": "그림자보다 빠르게"
+  },
+  {
+    "entity": "skill",
+    "id": "204442",
+    "localId": "1723",
+    "before": null,
+    "after": "꼬리 쫓기"
+  },
+  {
+    "entity": "skill",
+    "id": "204431",
+    "localId": "1724",
+    "before": null,
+    "after": "절진"
+  },
+  {
+    "entity": "skill",
+    "id": "102503111",
+    "localId": "1725",
+    "before": null,
+    "after": "초현실 체험"
+  },
+  {
+    "entity": "skill",
+    "id": "102503211",
+    "localId": "1726",
+    "before": null,
+    "after": "이 세상 것이 아닌 듯한"
+  },
+  {
+    "entity": "skill",
+    "id": "111161",
+    "localId": "1727",
+    "before": null,
+    "after": "시들지 않는 Cattleya"
+  },
+  {
+    "entity": "skill",
+    "id": "111602111",
+    "localId": "1728",
+    "before": null,
+    "after": "...자, 춤춰 볼까요"
+  },
+  {
+    "entity": "skill",
+    "id": "111602211",
+    "localId": "1729",
+    "before": null,
+    "after": "최강 숙녀의 긍지"
+  },
+  {
+    "entity": "skill",
+    "id": "204462",
+    "localId": "1730",
+    "before": null,
+    "after": "이제 나의 길로!"
+  },
+  {
+    "entity": "skill",
+    "id": "204171",
+    "localId": "1731",
+    "before": null,
+    "after": "원기 발랄"
+  },
+  {
+    "entity": "skill",
+    "id": "204382",
+    "localId": "1733",
+    "before": null,
+    "after": "빛을 발휘하여"
+  },
+  {
+    "entity": "skill",
+    "id": "203561",
+    "localId": "1734",
+    "before": null,
+    "after": "목숨을 바쳐서"
+  },
+  {
+    "entity": "skill",
+    "id": "204381",
+    "localId": "1735",
+    "before": null,
+    "after": "광휘 찬연"
+  },
+  {
+    "entity": "skill",
+    "id": "100301311",
+    "localId": "1736",
+    "before": null,
+    "after": "황제를 뛰어넘어"
+  },
+  {
+    "entity": "skill",
+    "id": "100101311",
+    "localId": "1737",
+    "before": null,
+    "after": "강습의 런 "
+  },
+  {
+    "entity": "skill",
+    "id": "101341",
+    "localId": "1738",
+    "before": null,
+    "after": "언젠가 당신에게 피어날 플로라"
+  },
+  {
+    "entity": "skill",
+    "id": "113401111",
+    "localId": "1739",
+    "before": null,
+    "after": "흐드러지게 피는 꽃길"
+  },
+  {
+    "entity": "skill",
+    "id": "113401211",
+    "localId": "1740",
+    "before": null,
+    "after": "마음을 묶어, 앞으로"
+  },
+  {
+    "entity": "skill",
+    "id": "210391",
+    "localId": "1749",
+    "before": null,
+    "after": "최고의 감사를!"
+  },
+  {
+    "entity": "skill",
+    "id": "414011",
+    "localId": "1751",
+    "before": null,
+    "after": "딱딱하게, 음식 나왔습니다!"
+  },
+  {
+    "entity": "skill",
+    "id": "414041",
+    "localId": "1752",
+    "before": null,
+    "after": "물털기 묘기"
+  },
+  {
+    "entity": "skill",
+    "id": "414031",
+    "localId": "1753",
+    "before": null,
+    "after": "면의 극의, 찾아냈다"
+  },
+  {
+    "entity": "skill",
+    "id": "414021",
+    "localId": "1755",
+    "before": null,
+    "after": "차분히 준비한 한 그릇"
+  },
+  {
+    "entity": "skill",
+    "id": "120771",
+    "localId": "1756",
+    "before": null,
+    "after": "전력 한 그릇, 전해드릴게요!"
+  },
+  {
+    "entity": "skill",
+    "id": "107703111",
+    "localId": "1757",
+    "before": null,
+    "after": "김이 오르는 승부의 길"
+  },
+  {
+    "entity": "skill",
+    "id": "107703211",
+    "localId": "1758",
+    "before": null,
+    "after": "자, 개점이에요"
+  },
+  {
+    "entity": "skill",
+    "id": "204392",
+    "localId": "1759",
+    "before": null,
+    "after": "능숙한 숨돌리기"
+  },
+  {
+    "entity": "skill",
+    "id": "204472",
+    "localId": "1760",
+    "before": null,
+    "after": "분발하는 마음"
+  },
+  {
+    "entity": "skill",
+    "id": "203641",
+    "localId": "1761",
+    "before": null,
+    "after": "서광"
+  },
+  {
+    "entity": "skill",
+    "id": "204391",
+    "localId": "1762",
+    "before": null,
+    "after": "유유자적"
+  },
+  {
+    "entity": "skill",
+    "id": "111701121",
+    "localId": "1763",
+    "before": null,
+    "after": "개선가를 위한 프레파라시옹"
+  },
+  {
+    "entity": "skill",
+    "id": "120221",
+    "localId": "1764",
+    "before": null,
+    "after": "유려한 일직선 질주! 라멘의 길"
+  },
+  {
+    "entity": "skill",
+    "id": "102203111",
+    "localId": "1765",
+    "before": null,
+    "after": "면 추가 한 그릇, 주문 받았습니다♪"
+  },
+  {
+    "entity": "skill",
+    "id": "102203211",
+    "localId": "1766",
+    "before": null,
+    "after": "최고로 뜨끈뜨끈하게! 나왔습니다!"
+  },
+  {
+    "entity": "skill",
+    "id": "101451",
+    "localId": "1767",
+    "before": null,
+    "after": "으뜸 택틱스"
+  },
+  {
+    "entity": "skill",
+    "id": "114501111",
+    "localId": "1768",
+    "before": null,
+    "after": "교묘한 갬빗"
+  },
+  {
+    "entity": "skill",
+    "id": "114501211",
+    "localId": "1769",
+    "before": null,
+    "after": "강습 트릭"
+  },
+  {
+    "entity": "skill",
+    "id": "120741",
+    "localId": "1770",
+    "before": null,
+    "after": "잔잔한 저녁의 리트리트・메모리"
+  },
+  {
+    "entity": "skill",
+    "id": "107403111",
+    "localId": "1771",
+    "before": null,
+    "after": "해변의 술래잡기"
+  },
+  {
+    "entity": "skill",
+    "id": "107403211",
+    "localId": "1772",
+    "before": null,
+    "after": "훈풍이 전해주는 루드베키아"
+  },
+  {
+    "entity": "skill",
+    "id": "120201",
+    "localId": "1773",
+    "before": null,
+    "after": "바닷바람에 느긋하게 몸을 맡기고"
+  },
+  {
+    "entity": "skill",
+    "id": "204562",
+    "localId": "1774",
+    "before": null,
+    "after": "승부 감각"
+  },
+  {
+    "entity": "skill",
+    "id": "204541",
+    "localId": "1775",
+    "before": null,
+    "after": "선봉장"
+  },
+  {
+    "entity": "skill",
+    "id": "102003111",
+    "localId": "1776",
+    "before": null,
+    "after": "빈둥빈둥 de 바캉스♪"
+  },
+  {
+    "entity": "skill",
+    "id": "102003211",
+    "localId": "1777",
+    "before": null,
+    "after": "여름바람 프론트 러너"
+  },
+  {
+    "entity": "skill",
+    "id": "204482",
+    "localId": "1778",
+    "before": null,
+    "after": "붓 가는 대로"
+  },
+  {
+    "entity": "skill",
+    "id": "204492",
+    "localId": "1779",
+    "before": null,
+    "after": "포인트맨"
+  },
+  {
+    "entity": "skill",
+    "id": "204481",
+    "localId": "1780",
+    "before": null,
+    "after": "레이스 메이커"
+  },
+  {
+    "entity": "skill",
+    "id": "204502",
+    "localId": "1781",
+    "before": null,
+    "after": "더블 액셀"
+  },
+  {
+    "entity": "skill",
+    "id": "204501",
+    "localId": "1782",
+    "before": null,
+    "after": " 일석이조"
+  },
+  {
+    "entity": "skill",
+    "id": "107002121",
+    "localId": "1784",
+    "before": null,
+    "after": "모든 것을 불태우는 별"
+  },
+  {
+    "entity": "skill",
+    "id": "100201311",
+    "localId": "1785",
+    "before": null,
+    "after": "나만의 세계"
+  },
+  {
+    "entity": "skill",
+    "id": "204542",
+    "localId": "1786",
+    "before": null,
+    "after": "선도자"
+  },
+  {
+    "entity": "skill",
+    "id": "204552",
+    "localId": "1787",
+    "before": null,
+    "after": "비장의 수법"
+  },
+  {
+    "entity": "skill",
+    "id": "111131",
+    "localId": "1788",
+    "before": null,
+    "after": "물가의 Venus Time♡"
+  },
+  {
+    "entity": "skill",
+    "id": "204412",
+    "localId": "1789",
+    "before": null,
+    "after": "걱정 없음"
+  },
+  {
+    "entity": "skill",
+    "id": "111302111",
+    "localId": "1790",
+    "before": null,
+    "after": "너무 사랑받아서 진짜 미안♡"
+  },
+  {
+    "entity": "skill",
+    "id": "111302211",
+    "localId": "1791",
+    "before": null,
+    "after": "숨길 생각도 없는 재능"
+  },
+  {
+    "entity": "skill",
+    "id": "105003221",
+    "localId": "1792",
+    "before": null,
+    "after": "불굴의 Rebellion"
+  },
+  {
+    "entity": "skill",
+    "id": "101411",
+    "localId": "1793",
+    "before": null,
+    "after": "빛나라! 터져라! 초신성 폭발! "
+  },
+  {
+    "entity": "skill",
+    "id": "204512",
+    "localId": "1794",
+    "before": null,
+    "after": "존재감"
+  },
+  {
+    "entity": "skill",
+    "id": "204511",
+    "localId": "1795",
+    "before": null,
+    "after": "초연"
+  },
+  {
+    "entity": "skill",
+    "id": "114101111",
+    "localId": "1796",
+    "before": null,
+    "after": "성분광천"
+  },
+  {
+    "entity": "skill",
+    "id": "114101211",
+    "localId": "1797",
+    "before": null,
+    "after": "천의의 저편"
+  },
+  {
+    "entity": "skill",
+    "id": "114101221",
+    "localId": "1798",
+    "before": null,
+    "after": "영원의 하늘 끝"
+  },
+  {
+    "entity": "skill",
+    "id": "204522",
+    "localId": "1799",
+    "before": null,
+    "after": "해류의 틈새를 포착해서"
+  },
+  {
+    "entity": "skill",
+    "id": "204632",
+    "localId": "1800",
+    "before": null,
+    "after": "펼쳐지는 풍경"
+  },
+  {
+    "entity": "skill",
+    "id": "204642",
+    "localId": "1801",
+    "before": null,
+    "after": "나의 발걸음"
+  },
+  {
+    "entity": "skill",
+    "id": "204521",
+    "localId": "1802",
+    "before": null,
+    "after": "당기입단"
+  },
+  {
+    "entity": "skill",
+    "id": "204572",
+    "localId": "1803",
+    "before": null,
+    "after": "그저 그 너머로"
+  },
+  {
+    "entity": "skill",
+    "id": "204702",
+    "localId": "1804",
+    "before": null,
+    "after": "뚫고 나가는 달리기"
+  },
+  {
+    "entity": "skill",
+    "id": "204532",
+    "localId": "1805",
+    "before": null,
+    "after": "화려한 파고들기"
+  },
+  {
+    "entity": "skill",
+    "id": "204701",
+    "localId": "1806",
+    "before": null,
+    "after": "소질의 증명"
+  },
+  {
+    "entity": "skill",
+    "id": "204531",
+    "localId": "1807",
+    "before": null,
+    "after": "청려고아"
+  },
+  {
+    "entity": "skill",
+    "id": "204571",
+    "localId": "1808",
+    "before": null,
+    "after": "순진무구"
+  },
+  {
+    "entity": "skill",
+    "id": "110431",
+    "localId": "1809",
+    "before": null,
+    "after": "최고의 공포! 장난 계획인 거다♪"
+  },
+  {
+    "entity": "skill",
+    "id": "104302111",
+    "localId": "1810",
+    "before": null,
+    "after": "Rascal・Romp! "
+  },
+  {
+    "entity": "skill",
+    "id": "104302211",
+    "localId": "1811",
+    "before": null,
+    "after": "악당의 대탈주"
+  },
+  {
+    "entity": "skill",
+    "id": "111271",
+    "localId": "1812",
+    "before": null,
+    "after": "강심철벽 가디언"
+  },
+  {
+    "entity": "skill",
+    "id": "112702111",
+    "localId": "1813",
+    "before": null,
+    "after": "형사의 정석, 무섭게 압박하기"
+  },
+  {
+    "entity": "skill",
+    "id": "112702211",
+    "localId": "1814",
+    "before": null,
+    "after": "마무리로 가츠동"
+  },
+  {
+    "entity": "skill",
+    "id": "204661",
+    "localId": "1815",
+    "before": null,
+    "after": "열려라 풍혈!"
+  },
+  {
+    "entity": "skill",
+    "id": "204662",
+    "localId": "1816",
+    "before": null,
+    "after": "모래먼지를 넘어서"
+  },
+  {
+    "entity": "skill",
+    "id": "204671",
+    "localId": "1817",
+    "before": null,
+    "after": "견인과결"
+  },
+  {
+    "entity": "skill",
+    "id": "204682",
+    "localId": "1818",
+    "before": null,
+    "after": "활기찬 폭발"
+  },
+  {
+    "entity": "skill",
+    "id": "204672",
+    "localId": "1819",
+    "before": null,
+    "after": "지금이 기회"
+  },
+  {
+    "entity": "skill",
+    "id": "101491",
+    "localId": "1820",
+    "before": null,
+    "after": "세차게 피어나다"
+  },
+  {
+    "entity": "skill",
+    "id": "204692",
+    "localId": "1821",
+    "before": null,
+    "after": "마주서기"
+  },
+  {
+    "entity": "skill",
+    "id": "204691",
+    "localId": "1822",
+    "before": null,
+    "after": "검발노장"
+  },
+  {
+    "entity": "skill",
+    "id": "114901111",
+    "localId": "1823",
+    "before": null,
+    "after": "묘기・내리덮치기"
+  },
+  {
+    "entity": "skill",
+    "id": "114901211",
+    "localId": "1824",
+    "before": null,
+    "after": "가까이 오면 베겠다!"
+  },
+  {
+    "entity": "skill",
+    "id": "204711",
+    "localId": "1825",
+    "before": null,
+    "after": "우렁찬 함성 한 번"
+  },
+  {
+    "entity": "skill",
+    "id": "106902221",
+    "localId": "1827",
+    "before": null,
+    "after": "벚꽃 피는 때는 지금…! "
+  },
+  {
+    "entity": "skill",
+    "id": "204712",
+    "localId": "1828",
+    "before": null,
+    "after": "기세를 올려서"
+  },
+  {
+    "entity": "skill",
+    "id": "101401311",
+    "localId": "1829",
+    "before": null,
+    "after": "괴조는 날아간다"
+  },
+  {
+    "entity": "skill",
+    "id": "101441",
+    "localId": "1830",
+    "before": null,
+    "after": "에파누이스망의 대호령"
+  },
+  {
+    "entity": "skill",
+    "id": "101803111",
+    "localId": "1834",
+    "before": null,
+    "after": " '목표'에 걸맞게 되기 위해"
+  },
+  {
+    "entity": "skill",
+    "id": "101803211",
+    "localId": "1835",
+    "before": null,
+    "after": "숭고한 아마란투스"
+  },
+  {
+    "entity": "skill",
+    "id": "204792",
+    "localId": "1837",
+    "before": null,
+    "after": "놀고 싶은 기분"
+  },
+  {
+    "entity": "skill",
+    "id": "101703111",
+    "localId": "1838",
+    "before": null,
+    "after": "큰 소망은 반짝임이 되어"
+  },
+  {
+    "entity": "skill",
+    "id": "101703211",
+    "localId": "1839",
+    "before": null,
+    "after": "열렬 준엄"
+  },
+  {
+    "entity": "skill",
+    "id": "204722",
+    "localId": "1840",
+    "before": null,
+    "after": "겁먹지 않고"
+  },
+  {
+    "entity": "skill",
+    "id": "204721",
+    "localId": "1841",
+    "before": null,
+    "after": "꿋꿋하게 앞으로"
+  },
+  {
+    "entity": "skill",
+    "id": "111081",
+    "localId": "1842",
+    "before": null,
+    "after": "그리하여 깃든 피는 깨어나고"
+  },
+  {
+    "entity": "skill",
+    "id": "204802",
+    "localId": "1843",
+    "before": null,
+    "after": "규격 외"
+  },
+  {
+    "entity": "skill",
+    "id": "204801",
+    "localId": "1844",
+    "before": null,
+    "after": "발산개세"
+  },
+  {
+    "entity": "skill",
+    "id": "110802111",
+    "localId": "1845",
+    "before": null,
+    "after": "마족의 시간, 다가왔노라"
+  },
+  {
+    "entity": "skill",
+    "id": "110802211",
+    "localId": "1846",
+    "before": null,
+    "after": "먹어치우고, 먹어치워도"
+  },
+  {
+    "entity": "skill",
+    "id": "204812",
+    "localId": "1847",
+    "before": null,
+    "after": "호를 그리며"
+  },
+  {
+    "entity": "skill",
+    "id": "204811",
+    "localId": "1848",
+    "before": null,
+    "after": "나선의 엑스퍼트"
+  },
+  {
+    "entity": "skill",
+    "id": "210402",
+    "localId": "1850",
+    "before": null,
+    "after": "저편에서 부르는 소리"
+  },
+  {
+    "entity": "skill",
+    "id": "210401",
+    "localId": "1851",
+    "before": null,
+    "after": "이름에 걸맞은 꿈"
+  },
+  {
+    "entity": "skill",
+    "id": "120091",
+    "localId": "1852",
+    "before": null,
+    "after": "궁극의 활솜씨"
+  },
+  {
+    "entity": "skill",
+    "id": "204892",
+    "localId": "1853",
+    "before": null,
+    "after": "마음먹은 대로"
+  },
+  {
+    "entity": "skill",
+    "id": "100903111",
+    "localId": "1854",
+    "before": null,
+    "after": "신의 시대에도 듣지 못한 이 위업"
+  },
+  {
+    "entity": "skill",
+    "id": "100903211",
+    "localId": "1855",
+    "before": null,
+    "after": "봐 주시길, 다홍빛 질풍"
+  },
+  {
+    "entity": "skill",
+    "id": "204732",
+    "localId": "1856",
+    "before": null,
+    "after": "소홀함 없음"
+  },
+  {
+    "entity": "skill",
+    "id": "204742",
+    "localId": "1857",
+    "before": null,
+    "after": "직감력"
+  },
+  {
+    "entity": "skill",
+    "id": "204752",
+    "localId": "1858",
+    "before": null,
+    "after": "주도권"
+  },
+  {
+    "entity": "skill",
+    "id": "204731",
+    "localId": "1860",
+    "before": null,
+    "after": "기지"
+  },
+  {
+    "entity": "skill",
+    "id": "204741",
+    "localId": "1861",
+    "before": null,
+    "after": "희대의 재치"
+  },
+  {
+    "entity": "skill",
+    "id": "204751",
+    "localId": "1862",
+    "before": null,
+    "after": "어드밴티지"
+  },
+  {
+    "entity": "person",
+    "id": "1149",
+    "localId": "171",
+    "before": null,
+    "after": "팔레놉시스"
+  },
+  {
+    "entity": "costume-name",
+    "id": "114901",
+    "before": null,
+    "after": "팔레놉시스"
+  },
+  {
+    "entity": "support",
+    "id": "30311",
+    "localId": "661",
+    "before": null,
+    "after": "에프포리아"
+  },
+  {
+    "entity": "support",
+    "id": "30323",
+    "localId": "679",
+    "before": null,
+    "after": "아즈마"
+  }
+]

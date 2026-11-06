@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30296.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30296-aston-machan",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:05 GMT",
+  "etag": "\"a843d9108e491ef2fdb4093b12ec808d\"",
+  "file": {
+    "path": "game-assets/supports/art/30296.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81999,
+    "mimeType": "image/png",
+    "sha256": "1a17497b834626644962b8079d24ab8677c3fd4ede675e72b050cf8369bd53bb",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30296.png",
+    "sourceAssetId": "umamusume/supports/full/small/30296.png",
+    "sourceId": "gametora-media"
+  }
+}

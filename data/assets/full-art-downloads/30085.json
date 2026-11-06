@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30085.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30085-agnes-digital",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:24 GMT",
+  "etag": "\"669134ae1d2c73f3a49fd3044471d0d6\"",
+  "file": {
+    "path": "game-assets/supports/art/30085.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81683,
+    "mimeType": "image/png",
+    "sha256": "17ac6d6708f7b103192775c39915aa0ca4bc82e07eff07cf6ec2fde9493ad9b7",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30085.png",
+    "sourceAssetId": "umamusume/supports/full/small/30085.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30207.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30207-yayoi-akikawa",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:48 GMT",
+  "etag": "\"0677be98ee90ae3659891d050f96aa03\"",
+  "file": {
+    "path": "game-assets/supports/art/30207.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83249,
+    "mimeType": "image/png",
+    "sha256": "2de7d4f1988a8057995a102c8bf4cf2ced690089ae2a0fc1a88899ccfd838bac",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30207.png",
+    "sourceAssetId": "umamusume/supports/full/small/30207.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10038.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10038-eishin-flash",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:30 GMT",
+  "etag": "\"e4624ce333a323622b5d534bb9b0b9e3\"",
+  "file": {
+    "path": "game-assets/supports/art/10038.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 66217,
+    "mimeType": "image/png",
+    "sha256": "149e254ca3943ce9a67b1b037ba39fd5f66137b61c9ec9ffe5fd76408a3c029f",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10038.png",
+    "sourceAssetId": "umamusume/supports/full/small/10038.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "contract": "uma-saved-plan",
+  "schemaVersion": 1,
+  "formatVersion": 1,
+  "planId": "392a3128-9917-41ee-b4e8-6923ebafc562",
+  "name": "P8 실제 ID · 7인 보관 예시",
+  "createdAt": "2026-11-05T09:35:09.878Z",
+  "updatedAt": "2026-11-05T09:35:09.878Z",
+  "appVersion": "0.0.0-p8",
+  "snapshotIds": {
+    "reference": "reference-p1-54cacf49b917-369cb1a99679dfcd-kr-evidence-v1-kr-dates-2026-11-05-trainers-8b18394a9316",
+    "p3": "p3-2026-11-05-fb68e3e10518d286-trainers-a3cff1e14c86",
+    "p5": "p5-2026-11-05-e52024c140bcf7da"
+  },
+  "inputs": {
+    "referencePlan": {
+      "schemaVersion": 1,
+      "rootId": "target",
+      "nodes": {
+        "target": {
+          "nodeId": "target",
+          "costumeId": "100901",
+          "redFactor": null,
+          "parentIds": [
+            "parentA",
+            "parentB"
+          ],
+          "locked": false
+        },
+        "parentA": {
+          "nodeId": "parentA",
+          "costumeId": "101401",
+          "redFactor": null,
+          "parentIds": [
+            "grandA1",
+            "grandA2"
+          ],
+          "locked": false
+        },
+        "parentB": {
+          "nodeId": "parentB",
+          "costumeId": "100601",
+          "redFactor": null,
+          "parentIds": [
+            "grandB1",
+            "grandB2"
+          ],
+          "locked": false
+        },
+        "grandA1": {
+          "nodeId": "grandA1",
+          "costumeId": "102601",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_7",
+            "ancestor_8"
+          ],
+          "locked": false
+        },
+        "grandA2": {
+          "nodeId": "grandA2",
+          "costumeId": "101001",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_9",
+            "ancestor_10"
+          ],
+          "locked": false
+        },
+        "grandB1": {
+          "nodeId": "grandB1",
+          "costumeId": "100401",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_11",
+            "ancestor_12"
+          ],
+          "locked": false
+        },
+        "grandB2": {
+          "nodeId": "grandB2",
+          "costumeId": "100301",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_13",
+            "ancestor_14"
+          ],
+          "locked": false
+        },
+        "ancestor_7": {
+          "nodeId": "ancestor_7",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_15",
+            "ancestor_16"
+          ],
+          "locked": false
+        },
+        "ancestor_8": {
+          "nodeId": "ancestor_8",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_17",
+            "ancestor_18"
+          ],
+          "locked": false
+        },
+        "ancestor_9": {
+          "nodeId": "ancestor_9",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_19",
+            "ancestor_20"
+          ],
+          "locked": false
+        },
+        "ancestor_10": {
+          "nodeId": "ancestor_10",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_21",
+            "ancestor_22"
+          ],
+          "locked": false
+        },
+        "ancestor_11": {
+          "nodeId": "ancestor_11",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_23",
+            "ancestor_24"
+          ],
+          "locked": false
+        },
+        "ancestor_12": {
+          "nodeId": "ancestor_12",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_25",
+            "ancestor_26"
+          ],
+          "locked": false
+        },
+        "ancestor_13": {
+          "nodeId": "ancestor_13",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_27",
+            "ancestor_28"
+          ],
+          "locked": false
+        },
+        "ancestor_14": {
+          "nodeId": "ancestor_14",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_29",
+            "ancestor_30"
+          ],
+          "locked": false
+        },
+        "ancestor_15": {
+          "nodeId": "ancestor_15",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_16": {
+          "nodeId": "ancestor_16",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_17": {
+          "nodeId": "ancestor_17",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_18": {
+          "nodeId": "ancestor_18",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_19": {
+          "nodeId": "ancestor_19",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_20": {
+          "nodeId": "ancestor_20",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_21": {
+          "nodeId": "ancestor_21",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_22": {
+          "nodeId": "ancestor_22",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_23": {
+          "nodeId": "ancestor_23",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_24": {
+          "nodeId": "ancestor_24",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_25": {
+          "nodeId": "ancestor_25",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_26": {
+          "nodeId": "ancestor_26",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_27": {
+          "nodeId": "ancestor_27",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_28": {
+          "nodeId": "ancestor_28",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_29": {
+          "nodeId": "ancestor_29",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_30": {
+          "nodeId": "ancestor_30",
+          "costumeId": null,
+          "redFactor": null,
+          "parentIds": null,
+          "locked": false
+        }
+      }
+    },
+    "whiteFactors": {
+      "schemaVersion": 1,
+      "nodes": {},
+      "nodePriorities": {}
+    },
+    "factorInstances": {
+      "target": {
+        "factorInstanceId": "6807a8a7-f309-441f-bce6-7dcf3e673191",
+        "ownerCostumeId": "100901",
+        "bloodlineStatus": "confirmed"
+      },
+      "parentA": {
+        "factorInstanceId": "8d4c31c6-8ad1-413d-9aca-517c2f781381",
+        "ownerCostumeId": "101401",
+        "bloodlineStatus": "confirmed"
+      },
+      "parentB": {
+        "factorInstanceId": "4e68f8ab-891f-48ce-aa29-4b56d90198d0",
+        "ownerCostumeId": "100601",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandA1": {
+        "factorInstanceId": "57543d11-5835-4960-8607-537bc396f8a2",
+        "ownerCostumeId": "102601",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandA2": {
+        "factorInstanceId": "6cfce61e-227d-42f0-8d22-28ba0c9a8f4e",
+        "ownerCostumeId": "101001",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandB1": {
+        "factorInstanceId": "c322bee8-574c-4603-a74d-72b99d3741bb",
+        "ownerCostumeId": "100401",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandB2": {
+        "factorInstanceId": "099dc9a5-71a1-4d00-a125-852d04ed435c",
+        "ownerCostumeId": "100301",
+        "bloodlineStatus": "confirmed"
+      }
+    },
+    "selectedNodeId": "parentA",
+    "globalPriorities": [
+      {
+        "skillId": "201601",
+        "priority": "required"
+      },
+      {
+        "skillId": "201322",
+        "priority": "preferred"
+      }
+    ],
+    "referenceFilters": {
+      "dateInput": "2026-11-05",
+      "includeUnknown": false,
+      "allowForecast": true
+    },
+    "lineageDesign": {
+      "profileId": "turf-middle-long",
+      "rotationGrade": "A",
+      "geneEnabled": true,
+      "geneType": "dirt"
+    },
+    "skillSettings": {
+      "eventId": "kr-cm-39",
+      "scenarioId": "11",
+      "runningStyle": "pace",
+      "preference": "balanced",
+      "mode": "tournament",
+      "allowForecast": true,
+      "includeUnknown": true,
+      "deck": [
+        {
+          "supportId": "30024",
+          "limitBreak": 0
+        },
+        {
+          "supportId": "30175",
+          "limitBreak": 1
+        },
+        {
+          "supportId": "30113",
+          "limitBreak": 2
+        },
+        {
+          "supportId": "30108",
+          "limitBreak": 3
+        },
+        {
+          "supportId": "10126",
+          "limitBreak": 4
+        },
+        {
+          "supportId": "30226",
+          "limitBreak": 0
+        }
+      ],
+      "nodeModes": {
+        "parentA": "current",
+        "grandA1": "forecast"
+      }
+    },
+    "supportSettings": {
+      "ownedSupports": [
+        {
+          "supportId": "30175",
+          "limitBreak": 3
+        },
+        {
+          "supportId": "30113",
+          "limitBreak": 2
+        }
+      ],
+      "ownedOnly": false,
+      "allowBorrow": true
+    }
+  }
+}

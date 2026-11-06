@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30104.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30104-zenno-rob-roy",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:28 GMT",
+  "etag": "\"2ca91abbfe76474a1edfcdbe3f7433c1\"",
+  "file": {
+    "path": "game-assets/supports/art/30104.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 86200,
+    "mimeType": "image/png",
+    "sha256": "a5956906e1a9e42c1faf7f396c4175d1fd220e39f28482212f2635668ce52f4e",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30104.png",
+    "sourceAssetId": "umamusume/supports/full/small/30104.png",
+    "sourceId": "gametora-media"
+  }
+}

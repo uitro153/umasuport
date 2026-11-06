@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30045.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30045-sweep-tosho",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:17 GMT",
+  "etag": "\"76049ec7ff2607c314bfa3b4ccab491d\"",
+  "file": {
+    "path": "game-assets/supports/art/30045.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 75656,
+    "mimeType": "image/png",
+    "sha256": "75495357ca95364604b2e68583c42588d35dd84f40a4e42cf357b3cc5706c4c2",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30045.png",
+    "sourceAssetId": "umamusume/supports/full/small/30045.png",
+    "sourceId": "gametora-media"
+  }
+}

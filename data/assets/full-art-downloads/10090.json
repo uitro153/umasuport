@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10090.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10090-hokko-tarumae",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:40 GMT",
+  "etag": "\"32e973b6c60b23d2bf04310ad56a865a\"",
+  "file": {
+    "path": "game-assets/supports/art/10090.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 62728,
+    "mimeType": "image/png",
+    "sha256": "757a7c3de2fb65c4e6997c80b8f9b75296543dd652927e80d502f2990046f749",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10090.png",
+    "sourceAssetId": "umamusume/supports/full/small/10090.png",
+    "sourceId": "gametora-media"
+  }
+}

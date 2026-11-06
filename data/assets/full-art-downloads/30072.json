@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30072.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30072-mayano-top-gun",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:21 GMT",
+  "etag": "\"d3e015b8cb7f4a90ff6d25e01ac11816\"",
+  "file": {
+    "path": "game-assets/supports/art/30072.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81957,
+    "mimeType": "image/png",
+    "sha256": "0b0ae8bb26bbc38116975131be91c14db4ee2f374c91658c77aa25344d414de4",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30072.png",
+    "sourceAssetId": "umamusume/supports/full/small/30072.png",
+    "sourceId": "gametora-media"
+  }
+}

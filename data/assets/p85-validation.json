@@ -1,0 +1,44 @@
+{
+  "checkedOn": "2026-11-05",
+  "scope": "local-reference/private-development-preview",
+  "physicalCacheRoot": "data/local/p85-assets",
+  "publicImageLeaks": [],
+  "targets": {
+    "costumes": 272,
+    "supports": 566
+  },
+  "thumbnailSuccess": 838,
+  "fullSupportArtSuccess": 566,
+  "missingOrInvalid": [],
+  "formatsAndDimensions": {
+    "costume:thumbnail:128x128": 272,
+    "support:thumbnail:128x128": 566,
+    "support:art:300x400": 566
+  },
+  "actualPngFiles": 1404,
+  "bytes": 50410510,
+  "duplicateFiles": [],
+  "supportTypeCounts": {
+    "guts": 112,
+    "speed": 125,
+    "power": 101,
+    "stamina": 97,
+    "intelligence": 101,
+    "friend": 25,
+    "group": 5
+  },
+  "publicRelease": {
+    "approved": false,
+    "blockedCount": 838,
+    "fullIdsFile": "data/assets/p85-public-release-blocked.json"
+  },
+  "immutableOriginalHashes": {
+    "data/local/p3-skill-support.json": "76f4134c50aa24c086bfc9c4e6f2bdb12d4986da7718695ae498abfe168087b6",
+    "data/local/p5-forecast.json": "c629502a00807bfdb1d3c17d274fbcdb7db32b37e04b6ac78f4ec13ed5d2c1c3",
+    "data/local/p1-reference.json": "7ff146764bd3453570c523940f323ce1d07abdf259fcdabe1841c8de1f0f466c",
+    "data/local/p3-integrated.sqlite": "4f3812878e4a6b09cba95618cfbfdeee4aa095a5e5bd339df6deaeb8407a3783",
+    "src/engine/support-deck-optimizer.ts": "c659d0608aa863e3ee788592fe0371a74e70a9ba49315ecc2518474b85ad2382"
+  },
+  "immutableOriginals": true,
+  "semanticValidation": "Exact canonical source ID + original user-package SHA for every thumbnail; numeric GameTora detail/media support ID for every full card art; separate visual multi-outfit/card/rarity samples. File existence alone is not a semantic certificate."
+}

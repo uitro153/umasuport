@@ -1,0 +1,1102 @@
+[
+  {
+    "eventId": "JP-cm-1",
+    "name": "일본 2021-05-14 챔미 タウラス杯",
+    "server": "JP",
+    "startAt": "2021-05-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10606",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-2",
+    "name": "일본 2021-06-14 챔미 ジェミニ杯",
+    "server": "JP",
+    "startAt": "2021-06-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10811",
+    "conditions": {
+      "distance": 3200,
+      "surface": 1,
+      "direction": 1,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-3",
+    "name": "일본 2021-07-23 챔미 キャンサー杯",
+    "server": "JP",
+    "startAt": "2021-07-23T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10602",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 2,
+      "season": 2,
+      "weather": 1,
+      "ground": 2
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-4",
+    "name": "일본 2021-08-24 챔미 レオ杯",
+    "server": "JP",
+    "startAt": "2021-08-24T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10906",
+    "conditions": {
+      "distance": 2200,
+      "surface": 1,
+      "direction": 1,
+      "season": 2,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-5",
+    "name": "일본 2021-09-21 챔미 ヴァルゴ杯",
+    "server": "JP",
+    "startAt": "2021-09-21T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10903",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-6",
+    "name": "일본 2021-10-22 챔미 ライブラ杯",
+    "server": "JP",
+    "startAt": "2021-10-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10810",
+    "conditions": {
+      "distance": 3000,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-7",
+    "name": "일본 2021-11-23 챔미 スコーピオ杯",
+    "server": "JP",
+    "startAt": "2021-11-23T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10604",
+    "conditions": {
+      "distance": 2000,
+      "surface": 1,
+      "direction": 2,
+      "season": 3,
+      "weather": 3,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-8",
+    "name": "일본 2021-12-21 챔미 サジタリウス杯",
+    "server": "JP",
+    "startAt": "2021-12-21T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10506",
+    "conditions": {
+      "distance": 2500,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-9",
+    "name": "일본 2022-01-22 챔미 カプリコーン杯",
+    "server": "JP",
+    "startAt": "2022-01-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10701",
+    "conditions": {
+      "distance": 1200,
+      "surface": 1,
+      "direction": 2,
+      "season": 4,
+      "weather": 4,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-10",
+    "name": "일본 2022-02-18 챔미 アクエリアス杯",
+    "server": "JP",
+    "startAt": "2022-02-18T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10611",
+    "conditions": {
+      "distance": 1600,
+      "surface": 2,
+      "direction": 2,
+      "season": 4,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-11",
+    "name": "일본 2022-03-22 챔미 ピスケス杯",
+    "server": "JP",
+    "startAt": "2022-03-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10914",
+    "conditions": {
+      "distance": 3200,
+      "surface": 1,
+      "direction": 1,
+      "season": 1,
+      "weather": 3,
+      "ground": 4
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-12",
+    "name": "일본 2022-04-22 챔미 アリエス杯",
+    "server": "JP",
+    "startAt": "2022-04-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10504",
+    "conditions": {
+      "distance": 2000,
+      "surface": 1,
+      "direction": 1,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-13",
+    "name": "일본 2022-05-24 챔미 タウラス杯",
+    "server": "JP",
+    "startAt": "2022-05-24T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10606",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-14",
+    "name": "일본 2022-06-14 챔미 ジェミニ杯",
+    "server": "JP",
+    "startAt": "2022-06-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10602",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-15",
+    "name": "일본 2022-07-14 챔미 キャンサー杯",
+    "server": "JP",
+    "startAt": "2022-07-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10906",
+    "conditions": {
+      "distance": 2200,
+      "surface": 1,
+      "direction": 1,
+      "season": 2,
+      "weather": 2,
+      "ground": 2
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-16",
+    "name": "일본 2022-08-13 챔미 レオ杯",
+    "server": "JP",
+    "startAt": "2022-08-13T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10501",
+    "conditions": {
+      "distance": 1200,
+      "surface": 1,
+      "direction": 1,
+      "season": 2,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-17",
+    "name": "일본 2022-09-15 챔미 ヴァルゴ杯",
+    "server": "JP",
+    "startAt": "2022-09-15T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "11103",
+    "conditions": {
+      "distance": 2000,
+      "surface": 2,
+      "direction": 1,
+      "season": 3,
+      "weather": 1,
+      "ground": 2
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-18",
+    "name": "일본 2022-10-14 챔미 ライブラ杯",
+    "server": "JP",
+    "startAt": "2022-10-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10903",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 2,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-19",
+    "name": "일본 2022-11-13 챔미 スコーピオ杯",
+    "server": "JP",
+    "startAt": "2022-11-13T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10808",
+    "conditions": {
+      "distance": 2200,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-20",
+    "name": "일본 2022-12-15 챔미 サジタリウス杯",
+    "server": "JP",
+    "startAt": "2022-12-15T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10506",
+    "conditions": {
+      "distance": 2500,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 2,
+      "ground": 2
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-21",
+    "name": "일본 2023-01-14 챔미 カプリコーン杯",
+    "server": "JP",
+    "startAt": "2023-01-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10701",
+    "conditions": {
+      "distance": 1200,
+      "surface": 1,
+      "direction": 2,
+      "season": 4,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-22",
+    "name": "일본 2023-02-17 챔미 アクエリアス杯",
+    "server": "JP",
+    "startAt": "2023-02-17T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10611",
+    "conditions": {
+      "distance": 1600,
+      "surface": 2,
+      "direction": 2,
+      "season": 4,
+      "weather": 4,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-23",
+    "name": "일본 2023-03-14 챔미 ピスケス杯",
+    "server": "JP",
+    "startAt": "2023-03-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10504",
+    "conditions": {
+      "distance": 2000,
+      "surface": 1,
+      "direction": 1,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-24",
+    "name": "일본 2023-04-13 챔미 アリエス杯",
+    "server": "JP",
+    "startAt": "2023-04-13T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10811",
+    "conditions": {
+      "distance": 3200,
+      "surface": 1,
+      "direction": 1,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-25",
+    "name": "일본 2023-06-13 챔미 MILE",
+    "server": "JP",
+    "startAt": "2023-06-13T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10602",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 3,
+      "ground": 4
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-26",
+    "name": "일본 2023-08-18 챔미 DIRT",
+    "server": "JP",
+    "startAt": "2023-08-18T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "11402",
+    "conditions": {
+      "distance": 1600,
+      "surface": 2,
+      "direction": 2,
+      "season": 2,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-27",
+    "name": "일본 2023-10-13 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2023-10-13T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "11203",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 3,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-28",
+    "name": "일본 2023-12-14 챔미 LONG",
+    "server": "JP",
+    "startAt": "2023-12-14T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10506",
+    "conditions": {
+      "distance": 2500,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 4,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-29",
+    "name": "일본 2024-02-18 챔미 SPRINT",
+    "server": "JP",
+    "startAt": "2024-02-18T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10902",
+    "conditions": {
+      "distance": 1400,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 2,
+      "ground": 2
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-30",
+    "name": "일본 2024-04-13 챔미 MILE",
+    "server": "JP",
+    "startAt": "2024-04-13T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10903",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 1,
+      "season": 5,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-31",
+    "name": "일본 2024-06-20 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2024-06-20T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10606",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 2,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-32",
+    "name": "일본 2024-08-25 챔미 DIRT",
+    "server": "JP",
+    "startAt": "2024-08-25T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10708",
+    "conditions": {
+      "distance": 1800,
+      "surface": 2,
+      "direction": 2,
+      "season": 2,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-33",
+    "name": "일본 2024-10-23 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2024-10-23T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10604",
+    "conditions": {
+      "distance": 2000,
+      "surface": 1,
+      "direction": 2,
+      "season": 3,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-34",
+    "name": "일본 2024-12-22 챔미 LONG",
+    "server": "JP",
+    "startAt": "2024-12-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10506",
+    "conditions": {
+      "distance": 2500,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 2,
+      "ground": 2
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-35",
+    "name": "일본 2025-01-24 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2025-01-24T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10907",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 3,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-36",
+    "name": "일본 2025-03-25 챔미 MILE",
+    "server": "JP",
+    "startAt": "2025-03-25T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10903",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 1,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-37",
+    "name": "일본 2025-04-23 챔미 LONG",
+    "server": "JP",
+    "startAt": "2025-04-23T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10811",
+    "conditions": {
+      "distance": 3200,
+      "surface": 1,
+      "direction": 1,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-38",
+    "name": "일본 2025-06-21 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2025-06-21T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10606",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-39",
+    "name": "일본 2025-07-25 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2025-07-25T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10906",
+    "conditions": {
+      "distance": 2200,
+      "surface": 1,
+      "direction": 1,
+      "season": 2,
+      "weather": 2,
+      "ground": 2
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-40",
+    "name": "일본 2025-09-22 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2025-09-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10807",
+    "conditions": {
+      "distance": 2000,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-41",
+    "name": "일본 2025-10-23 챔미 SPRINT",
+    "server": "JP",
+    "startAt": "2025-10-23T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10302",
+    "conditions": {
+      "distance": 1200,
+      "surface": 1,
+      "direction": 2,
+      "season": 3,
+      "weather": 2,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-42",
+    "name": "일본 2025-12-21 챔미 MILE",
+    "server": "JP",
+    "startAt": "2025-12-21T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10903",
+    "conditions": {
+      "distance": 1600,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-43",
+    "name": "일본 2026-01-22 챔미 LONG",
+    "server": "JP",
+    "startAt": "2026-01-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10506",
+    "conditions": {
+      "distance": 2500,
+      "surface": 1,
+      "direction": 1,
+      "season": 4,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-44",
+    "name": "일본 2026-03-22 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2026-03-22T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "11703",
+    "conditions": {
+      "distance": 2200,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-45",
+    "name": "일본 2026-04-23 챔미 DIRT",
+    "server": "JP",
+    "startAt": "2026-04-23T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "11709",
+    "conditions": {
+      "distance": 2000,
+      "surface": 2,
+      "direction": 2,
+      "season": 1,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-46",
+    "name": "일본 2026-06-23 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2026-06-23T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10606",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 2,
+      "season": 1,
+      "weather": 2,
+      "ground": 3
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-47",
+    "name": "일본 2026-07-24 챔미 LONG",
+    "server": "JP",
+    "startAt": "2026-07-24T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10507",
+    "conditions": {
+      "distance": 3600,
+      "surface": 1,
+      "direction": 1,
+      "season": 2,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-48",
+    "name": "일본 2026-09-18 챔미 MILE",
+    "server": "JP",
+    "startAt": "2026-09-18T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10603",
+    "conditions": {
+      "distance": 1800,
+      "surface": 1,
+      "direction": 2,
+      "season": 3,
+      "weather": 1,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-49",
+    "name": "일본 2026-09-29 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2026-09-29T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "11203",
+    "conditions": {
+      "distance": 2400,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 1,
+      "ground": 4
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  },
+  {
+    "eventId": "JP-cm-50",
+    "name": "일본 2026-10-20 챔미 CLASSIC",
+    "server": "JP",
+    "startAt": "2026-10-20T03:00:00.000Z",
+    "dateStatus": "secondary",
+    "courseId": "10808",
+    "conditions": {
+      "distance": 2200,
+      "surface": 1,
+      "direction": 1,
+      "season": 3,
+      "weather": 2,
+      "ground": 1
+    },
+    "sourceIds": [
+      "gt_current"
+    ],
+    "sourceUrl": "https://gametora.com/data/umamusume/events/champions-meeting.07347a45.json",
+    "evidence": "secondary-schedule-future-conservative-forecast",
+    "checkedOn": "2026-11-05"
+  }
+]

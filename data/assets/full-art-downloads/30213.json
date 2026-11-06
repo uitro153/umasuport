@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30213.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30213-tokai-teio",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:49 GMT",
+  "etag": "\"159cea648e63c0b2d76f37cb4072537b\"",
+  "file": {
+    "path": "game-assets/supports/art/30213.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 86204,
+    "mimeType": "image/png",
+    "sha256": "6611f18dbef07f78be4530996d0d767257f5cd96a575123de2cb7ee7480c6414",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30213.png",
+    "sourceAssetId": "umamusume/supports/full/small/30213.png",
+    "sourceId": "gametora-media"
+  }
+}

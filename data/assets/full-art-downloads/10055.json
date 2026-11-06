@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10055.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10055-kitasan-black",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:33 GMT",
+  "etag": "\"e01533c6f9cf53c4d57ce24c282d2d3c\"",
+  "file": {
+    "path": "game-assets/supports/art/10055.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 66888,
+    "mimeType": "image/png",
+    "sha256": "d9a7233193cf3b1b467393c33370a079a8e4ce79df7844eb74381f09181a953c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10055.png",
+    "sourceAssetId": "umamusume/supports/full/small/10055.png",
+    "sourceId": "gametora-media"
+  }
+}

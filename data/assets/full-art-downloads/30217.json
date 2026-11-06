@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30217.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30217-cesario",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:50 GMT",
+  "etag": "\"e15b11a1fb180c0844b455c125c9508a\"",
+  "file": {
+    "path": "game-assets/supports/art/30217.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 78160,
+    "mimeType": "image/png",
+    "sha256": "953bd8f3904bac05cc0a30f388dcf38b43ca251c2fd60d0e994bd48eb85a85e6",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30217.png",
+    "sourceAssetId": "umamusume/supports/full/small/30217.png",
+    "sourceId": "gametora-media"
+  }
+}

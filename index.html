@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow, noimageindex" />
+    <script>
+      (() => { let saved; try { saved = localStorage.getItem('uma-theme-v1'); } catch {} const theme = saved === 'dark' || saved === 'light' ? saved : matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; document.documentElement.dataset.theme = theme; document.documentElement.style.colorScheme = theme; })();
+    </script>
+    <meta name="theme-color" content="#28624f" />
+    <link rel="icon" href="data:," />
+    <meta name="description" content="한국 서버 우마무스메 7인 계보·기본 상성·빨간 인자 적성을 설계하는 개발 중 팬 도구" />
+    <title>인자 설계 연구소 · 7인 계보</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

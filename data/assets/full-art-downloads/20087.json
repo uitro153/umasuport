@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20087.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20087-daring-heart",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:06 GMT",
+  "etag": "\"f0b48f56619efb8e5593bc47dad577a0\"",
+  "file": {
+    "path": "game-assets/supports/art/20087.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 87709,
+    "mimeType": "image/png",
+    "sha256": "3a8935f1d7560e0a8ff98c5c307c65443b27c46a570bde104c0804251f27f376",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20087.png",
+    "sourceAssetId": "umamusume/supports/full/small/20087.png",
+    "sourceId": "gametora-media"
+  }
+}

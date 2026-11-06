@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30082.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30082-nishino-flower",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:23 GMT",
+  "etag": "\"0bd61796fc5c20020dfe1ecafe1bc52c\"",
+  "file": {
+    "path": "game-assets/supports/art/30082.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 76779,
+    "mimeType": "image/png",
+    "sha256": "ca03930a2ebc522ee559b626af626d6124a4d8f6c37169a84c11b1c9d10dc397",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30082.png",
+    "sourceAssetId": "umamusume/supports/full/small/30082.png",
+    "sourceId": "gametora-media"
+  }
+}

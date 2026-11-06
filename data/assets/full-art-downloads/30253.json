@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30253.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30253-rhein-kraft",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:57 GMT",
+  "etag": "\"715ed8d9bdfbf5aa3d31688dbe285f30\"",
+  "file": {
+    "path": "game-assets/supports/art/30253.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 88531,
+    "mimeType": "image/png",
+    "sha256": "429d6f2e248592578b57d45d595d41e0ab55dcae098f257fb9dcbf626213d405",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30253.png",
+    "sourceAssetId": "umamusume/supports/full/small/30253.png",
+    "sourceId": "gametora-media"
+  }
+}

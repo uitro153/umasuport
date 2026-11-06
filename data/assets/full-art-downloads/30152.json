@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30152.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30152-tm-opera-o",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:37 GMT",
+  "etag": "\"1df92f217fa6a8008c0e146a9c7d1efc\"",
+  "file": {
+    "path": "game-assets/supports/art/30152.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 77641,
+    "mimeType": "image/png",
+    "sha256": "d64fec4a0063d127ee0b847aee51b6fd5c22cf5dc5fb58bc008c9283980e8be9",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30152.png",
+    "sourceAssetId": "umamusume/supports/full/small/30152.png",
+    "sourceId": "gametora-media"
+  }
+}

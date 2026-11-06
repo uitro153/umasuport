@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10045.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10045-meisho-doto",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:32 GMT",
+  "etag": "\"75934318badf00dd96f4b4b51d66a56b\"",
+  "file": {
+    "path": "game-assets/supports/art/10045.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 52738,
+    "mimeType": "image/png",
+    "sha256": "7a4e4a80a0aabf82a4adb803a888879e88c14a329625d4f5876e19fdb5018870",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10045.png",
+    "sourceAssetId": "umamusume/supports/full/small/10045.png",
+    "sourceId": "gametora-media"
+  }
+}

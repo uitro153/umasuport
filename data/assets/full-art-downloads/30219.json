@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30219.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30219-fuji-kiseki",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:50 GMT",
+  "etag": "\"974d13364338b0170964f2efb17ada91\"",
+  "file": {
+    "path": "game-assets/supports/art/30219.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 72107,
+    "mimeType": "image/png",
+    "sha256": "8c502572aaea4410894d8ea9744b321838a52c2848cd0006907573dd0a199491",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30219.png",
+    "sourceAssetId": "umamusume/supports/full/small/30219.png",
+    "sourceId": "gametora-media"
+  }
+}

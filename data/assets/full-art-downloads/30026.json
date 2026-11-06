@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30026.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30026-twin-turbo",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:13 GMT",
+  "etag": "\"50c3eabe0634c2ccbf014e0f71c6daa8\"",
+  "file": {
+    "path": "game-assets/supports/art/30026.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 73841,
+    "mimeType": "image/png",
+    "sha256": "3abac4b0184d50ee635a8b627c3a43126b40ec72ee35130565e4ed6d9e098a22",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30026.png",
+    "sourceAssetId": "umamusume/supports/full/small/30026.png",
+    "sourceId": "gametora-media"
+  }
+}

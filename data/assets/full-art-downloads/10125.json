@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10125.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10125-transcend",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:46 GMT",
+  "etag": "\"58b43bd1602820a716f195176a5bded1\"",
+  "file": {
+    "path": "game-assets/supports/art/10125.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 55735,
+    "mimeType": "image/png",
+    "sha256": "31806b9f568780a76f455c2e9cf12e3c2d9de4dc5a4fdbb34909e07687054abb",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10125.png",
+    "sourceAssetId": "umamusume/supports/full/small/10125.png",
+    "sourceId": "gametora-media"
+  }
+}

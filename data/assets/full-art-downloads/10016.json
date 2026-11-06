@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10016.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10016-winning-ticket",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:26 GMT",
+  "etag": "\"99eaa16437576fbbcf29b0d8e74290ce\"",
+  "file": {
+    "path": "game-assets/supports/art/10016.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 63012,
+    "mimeType": "image/png",
+    "sha256": "593bfc14aec50cc5d562a0ec2f6ab5fbc26c44a19c7213c54a3469bff654a9c8",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10016.png",
+    "sourceAssetId": "umamusume/supports/full/small/10016.png",
+    "sourceId": "gametora-media"
+  }
+}

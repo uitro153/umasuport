@@ -1,0 +1,915 @@
+{
+  "contract": "uma-saved-plan",
+  "schemaVersion": 1,
+  "formatVersion": 1,
+  "planId": "ff7cc44c-fc9b-4505-a340-df0a351ab68a",
+  "name": "P8 실제 ID · 31인 ○◎ ★ 계획",
+  "createdAt": "2026-11-05T09:35:11.530Z",
+  "updatedAt": "2026-11-05T09:35:11.530Z",
+  "appVersion": "0.0.0-p8",
+  "snapshotIds": {
+    "reference": "reference-p1-54cacf49b917-369cb1a99679dfcd-kr-evidence-v1-kr-dates-2026-11-05-trainers-8b18394a9316",
+    "p3": "p3-2026-11-05-fb68e3e10518d286-trainers-a3cff1e14c86",
+    "p5": "p5-2026-11-05-e52024c140bcf7da"
+  },
+  "inputs": {
+    "referencePlan": {
+      "schemaVersion": 1,
+      "rootId": "target",
+      "nodes": {
+        "target": {
+          "nodeId": "target",
+          "costumeId": "100901",
+          "redFactor": null,
+          "parentIds": [
+            "parentA",
+            "parentB"
+          ],
+          "locked": false
+        },
+        "parentA": {
+          "nodeId": "parentA",
+          "costumeId": "101401",
+          "redFactor": null,
+          "parentIds": [
+            "grandA1",
+            "grandA2"
+          ],
+          "locked": false
+        },
+        "parentB": {
+          "nodeId": "parentB",
+          "costumeId": "100601",
+          "redFactor": null,
+          "parentIds": [
+            "grandB1",
+            "grandB2"
+          ],
+          "locked": false
+        },
+        "grandA1": {
+          "nodeId": "grandA1",
+          "costumeId": "102601",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_7",
+            "ancestor_8"
+          ],
+          "locked": false
+        },
+        "grandA2": {
+          "nodeId": "grandA2",
+          "costumeId": "101001",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_9",
+            "ancestor_10"
+          ],
+          "locked": false
+        },
+        "grandB1": {
+          "nodeId": "grandB1",
+          "costumeId": "100401",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_11",
+            "ancestor_12"
+          ],
+          "locked": false
+        },
+        "grandB2": {
+          "nodeId": "grandB2",
+          "costumeId": "100301",
+          "redFactor": null,
+          "parentIds": [
+            "ancestor_13",
+            "ancestor_14"
+          ],
+          "locked": true
+        },
+        "ancestor_7": {
+          "nodeId": "ancestor_7",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_15",
+            "ancestor_16"
+          ],
+          "locked": false
+        },
+        "ancestor_8": {
+          "nodeId": "ancestor_8",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_17",
+            "ancestor_18"
+          ],
+          "locked": false
+        },
+        "ancestor_9": {
+          "nodeId": "ancestor_9",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_19",
+            "ancestor_20"
+          ],
+          "locked": false
+        },
+        "ancestor_10": {
+          "nodeId": "ancestor_10",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_21",
+            "ancestor_22"
+          ],
+          "locked": false
+        },
+        "ancestor_11": {
+          "nodeId": "ancestor_11",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_23",
+            "ancestor_24"
+          ],
+          "locked": false
+        },
+        "ancestor_12": {
+          "nodeId": "ancestor_12",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_25",
+            "ancestor_26"
+          ],
+          "locked": false
+        },
+        "ancestor_13": {
+          "nodeId": "ancestor_13",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_27",
+            "ancestor_28"
+          ],
+          "locked": false
+        },
+        "ancestor_14": {
+          "nodeId": "ancestor_14",
+          "costumeId": "100101",
+          "redFactor": {
+            "type": "mile",
+            "stars": 3
+          },
+          "parentIds": [
+            "ancestor_29",
+            "ancestor_30"
+          ],
+          "locked": false
+        },
+        "ancestor_15": {
+          "nodeId": "ancestor_15",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_16": {
+          "nodeId": "ancestor_16",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_17": {
+          "nodeId": "ancestor_17",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_18": {
+          "nodeId": "ancestor_18",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_19": {
+          "nodeId": "ancestor_19",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_20": {
+          "nodeId": "ancestor_20",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_21": {
+          "nodeId": "ancestor_21",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_22": {
+          "nodeId": "ancestor_22",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_23": {
+          "nodeId": "ancestor_23",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_24": {
+          "nodeId": "ancestor_24",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_25": {
+          "nodeId": "ancestor_25",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_26": {
+          "nodeId": "ancestor_26",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_27": {
+          "nodeId": "ancestor_27",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_28": {
+          "nodeId": "ancestor_28",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_29": {
+          "nodeId": "ancestor_29",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        },
+        "ancestor_30": {
+          "nodeId": "ancestor_30",
+          "costumeId": "100201",
+          "redFactor": {
+            "type": "dirt",
+            "stars": 3
+          },
+          "parentIds": null,
+          "locked": false
+        }
+      }
+    },
+    "whiteFactors": {
+      "schemaVersion": 1,
+      "nodes": {
+        "parentA": {
+          "nodeId": "parentA",
+          "ownerCostumeId": "101401",
+          "inventoryStatus": "partial",
+          "records": [
+            {
+              "skillId": "201601",
+              "nameKo": "터다지기",
+              "nameJa": "地固め",
+              "stars": 2,
+              "status": "owned",
+              "userEntered": true,
+              "classification": {
+                "status": "review-required",
+                "evidence": [
+                  "기존 일반 스킬 ID를 그대로 사용합니다.",
+                  "기존 ID·명시적 하위 관계만 확인했습니다. 백인자 대상 여부를 확인하는 원본 표가 없어 분류 검토가 필요합니다."
+                ]
+              }
+            },
+            {
+              "skillId": "201322",
+              "nameKo": "선행 코너○",
+              "nameJa": "先行コーナー○",
+              "stars": null,
+              "status": "planned",
+              "userEntered": true,
+              "classification": {
+                "status": "review-required",
+                "evidence": [
+                  "기존 일반 스킬 ID를 그대로 사용합니다.",
+                  "기존 ID·명시적 하위 관계만 확인했습니다. 백인자 대상 여부를 확인하는 원본 표가 없어 분류 검토가 필요합니다."
+                ]
+              }
+            }
+          ]
+        },
+        "ancestor_7": {
+          "nodeId": "ancestor_7",
+          "ownerCostumeId": "100101",
+          "inventoryStatus": "partial",
+          "records": [
+            {
+              "skillId": "200012",
+              "nameKo": "시계(우) 방향○",
+              "nameJa": "右回り○",
+              "stars": 3,
+              "status": "owned",
+              "userEntered": true,
+              "classification": {
+                "status": "review-required",
+                "evidence": [
+                  "기존 일반 스킬 ID를 그대로 사용합니다.",
+                  "기존 ID·명시적 하위 관계만 확인했습니다. 백인자 대상 여부를 확인하는 원본 표가 없어 분류 검토가 필요합니다."
+                ]
+              }
+            }
+          ]
+        },
+        "parentB": {
+          "nodeId": "parentB",
+          "ownerCostumeId": "100601",
+          "inventoryStatus": "reviewed",
+          "records": []
+        }
+      },
+      "nodePriorities": {
+        "parentA": {
+          "ownerCostumeId": "101401",
+          "priorities": [
+            {
+              "skillId": "201601",
+              "priority": "required"
+            }
+          ]
+        }
+      }
+    },
+    "factorInstances": {
+      "target": {
+        "factorInstanceId": "6807a8a7-f309-441f-bce6-7dcf3e673191",
+        "ownerCostumeId": "100901",
+        "bloodlineStatus": "confirmed"
+      },
+      "parentA": {
+        "factorInstanceId": "8d4c31c6-8ad1-413d-9aca-517c2f781381",
+        "ownerCostumeId": "101401",
+        "bloodlineStatus": "confirmed"
+      },
+      "parentB": {
+        "factorInstanceId": "4e68f8ab-891f-48ce-aa29-4b56d90198d0",
+        "ownerCostumeId": "100601",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandA1": {
+        "factorInstanceId": "57543d11-5835-4960-8607-537bc396f8a2",
+        "ownerCostumeId": "102601",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandA2": {
+        "factorInstanceId": "6cfce61e-227d-42f0-8d22-28ba0c9a8f4e",
+        "ownerCostumeId": "101001",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandB1": {
+        "factorInstanceId": "c322bee8-574c-4603-a74d-72b99d3741bb",
+        "ownerCostumeId": "100401",
+        "bloodlineStatus": "confirmed"
+      },
+      "grandB2": {
+        "factorInstanceId": "099dc9a5-71a1-4d00-a125-852d04ed435c",
+        "ownerCostumeId": "100301",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_7": {
+        "factorInstanceId": "94b54a55-783f-4940-83a0-3398e4f537e3",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_8": {
+        "factorInstanceId": "e197d1bb-28e5-45bd-8a8f-5c36238550c2",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_9": {
+        "factorInstanceId": "6ade63f8-cc6c-44e9-b3c2-91d800cfcbfe",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_10": {
+        "factorInstanceId": "73ca5aa9-f4ab-48f4-82ba-3b68ec01bb9f",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_11": {
+        "factorInstanceId": "fbb41f1d-8b3c-45fd-9d31-85c5a237c1de",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_12": {
+        "factorInstanceId": "4c6e8d4d-478c-4b76-b0b0-0a365f505981",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_13": {
+        "factorInstanceId": "1a1a1c37-a488-4642-a644-8e8ac0d08656",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_14": {
+        "factorInstanceId": "71bc169c-883c-4ca9-a043-b1f997999bef",
+        "ownerCostumeId": "100101",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_15": {
+        "factorInstanceId": "c399a627-aa7f-4cc8-a20a-19fdbdb30351",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_16": {
+        "factorInstanceId": "a48ad991-fef3-4a47-b11d-3cbc9c061f4a",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_17": {
+        "factorInstanceId": "eb270781-f67f-4723-865c-08405aa5f364",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_18": {
+        "factorInstanceId": "c4f03efa-bb6e-488d-bbf6-22c540c5fbc4",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_19": {
+        "factorInstanceId": "615456be-66ee-49d3-86ae-7ac1c027703c",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_20": {
+        "factorInstanceId": "92181685-1938-42a8-93b9-3b20fce8898b",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_21": {
+        "factorInstanceId": "52aa77ba-91d5-42b5-8083-06d5ba9b8f2d",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_22": {
+        "factorInstanceId": "5e2a2ad9-cafe-47b5-b164-d4d05ee34f6d",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_23": {
+        "factorInstanceId": "6a1f71c5-7b74-48fa-a4a2-06912526fb2d",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_24": {
+        "factorInstanceId": "6caee203-5bb9-4fd5-892e-9b6d07ab40ab",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_25": {
+        "factorInstanceId": "894a2edc-6be0-4935-b4f9-db6e390e730d",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_26": {
+        "factorInstanceId": "7c31d764-4d33-4219-b51c-ef0323bc041d",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_27": {
+        "factorInstanceId": "f49dc78c-419f-4488-a2c4-0a400a2023c0",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_28": {
+        "factorInstanceId": "80f50cae-2210-4e63-91cc-e8300f2776c4",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_29": {
+        "factorInstanceId": "2c9f112c-5b2f-4d11-aa57-43ff092ceb1f",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      },
+      "ancestor_30": {
+        "factorInstanceId": "1c863042-8d6b-4cb2-9f51-39d9cc6290e8",
+        "ownerCostumeId": "100201",
+        "bloodlineStatus": "confirmed"
+      }
+    },
+    "selectedNodeId": null,
+    "globalPriorities": [
+      {
+        "skillId": "201601",
+        "priority": "required"
+      },
+      {
+        "skillId": "201322",
+        "priority": "preferred"
+      }
+    ],
+    "referenceFilters": {
+      "dateInput": "2026-11-05",
+      "includeUnknown": false,
+      "allowForecast": true
+    },
+    "lineageDesign": {
+      "profileId": "turf-middle-long",
+      "rotationGrade": "A",
+      "geneEnabled": true,
+      "geneType": "dirt"
+    },
+    "skillSettings": {
+      "eventId": "kr-cm-39",
+      "scenarioId": "11",
+      "runningStyle": "pace",
+      "preference": "balanced",
+      "mode": "tournament",
+      "allowForecast": true,
+      "includeUnknown": true,
+      "deck": [
+        {
+          "supportId": "30024",
+          "limitBreak": 0
+        },
+        {
+          "supportId": "30175",
+          "limitBreak": 1
+        },
+        {
+          "supportId": "30113",
+          "limitBreak": 2
+        },
+        {
+          "supportId": "30108",
+          "limitBreak": 3
+        },
+        {
+          "supportId": "10126",
+          "limitBreak": 4
+        },
+        {
+          "supportId": "30226",
+          "limitBreak": 0
+        }
+      ],
+      "nodeModes": {
+        "parentA": "current",
+        "grandA1": "forecast"
+      }
+    },
+    "supportSettings": {
+      "ownedSupports": [
+        {
+          "supportId": "30175",
+          "limitBreak": 3
+        },
+        {
+          "supportId": "30113",
+          "limitBreak": 2
+        }
+      ],
+      "ownedOnly": false,
+      "allowBorrow": true
+    }
+  },
+  "resultSnapshot": {
+    "inputSignature": "{\"factorInstances\":{\"ancestor_10\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"73ca5aa9-f4ab-48f4-82ba-3b68ec01bb9f\",\"ownerCostumeId\":\"100101\"},\"ancestor_11\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"fbb41f1d-8b3c-45fd-9d31-85c5a237c1de\",\"ownerCostumeId\":\"100101\"},\"ancestor_12\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"4c6e8d4d-478c-4b76-b0b0-0a365f505981\",\"ownerCostumeId\":\"100101\"},\"ancestor_13\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"1a1a1c37-a488-4642-a644-8e8ac0d08656\",\"ownerCostumeId\":\"100101\"},\"ancestor_14\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"71bc169c-883c-4ca9-a043-b1f997999bef\",\"ownerCostumeId\":\"100101\"},\"ancestor_15\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"c399a627-aa7f-4cc8-a20a-19fdbdb30351\",\"ownerCostumeId\":\"100201\"},\"ancestor_16\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"a48ad991-fef3-4a47-b11d-3cbc9c061f4a\",\"ownerCostumeId\":\"100201\"},\"ancestor_17\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"eb270781-f67f-4723-865c-08405aa5f364\",\"ownerCostumeId\":\"100201\"},\"ancestor_18\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"c4f03efa-bb6e-488d-bbf6-22c540c5fbc4\",\"ownerCostumeId\":\"100201\"},\"ancestor_19\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"615456be-66ee-49d3-86ae-7ac1c027703c\",\"ownerCostumeId\":\"100201\"},\"ancestor_20\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"92181685-1938-42a8-93b9-3b20fce8898b\",\"ownerCostumeId\":\"100201\"},\"ancestor_21\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"52aa77ba-91d5-42b5-8083-06d5ba9b8f2d\",\"ownerCostumeId\":\"100201\"},\"ancestor_22\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"5e2a2ad9-cafe-47b5-b164-d4d05ee34f6d\",\"ownerCostumeId\":\"100201\"},\"ancestor_23\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"6a1f71c5-7b74-48fa-a4a2-06912526fb2d\",\"ownerCostumeId\":\"100201\"},\"ancestor_24\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"6caee203-5bb9-4fd5-892e-9b6d07ab40ab\",\"ownerCostumeId\":\"100201\"},\"ancestor_25\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"894a2edc-6be0-4935-b4f9-db6e390e730d\",\"ownerCostumeId\":\"100201\"},\"ancestor_26\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"7c31d764-4d33-4219-b51c-ef0323bc041d\",\"ownerCostumeId\":\"100201\"},\"ancestor_27\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"f49dc78c-419f-4488-a2c4-0a400a2023c0\",\"ownerCostumeId\":\"100201\"},\"ancestor_28\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"80f50cae-2210-4e63-91cc-e8300f2776c4\",\"ownerCostumeId\":\"100201\"},\"ancestor_29\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"2c9f112c-5b2f-4d11-aa57-43ff092ceb1f\",\"ownerCostumeId\":\"100201\"},\"ancestor_30\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"1c863042-8d6b-4cb2-9f51-39d9cc6290e8\",\"ownerCostumeId\":\"100201\"},\"ancestor_7\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"94b54a55-783f-4940-83a0-3398e4f537e3\",\"ownerCostumeId\":\"100101\"},\"ancestor_8\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"e197d1bb-28e5-45bd-8a8f-5c36238550c2\",\"ownerCostumeId\":\"100101\"},\"ancestor_9\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"6ade63f8-cc6c-44e9-b3c2-91d800cfcbfe\",\"ownerCostumeId\":\"100101\"},\"grandA1\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"57543d11-5835-4960-8607-537bc396f8a2\",\"ownerCostumeId\":\"102601\"},\"grandA2\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"6cfce61e-227d-42f0-8d22-28ba0c9a8f4e\",\"ownerCostumeId\":\"101001\"},\"grandB1\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"c322bee8-574c-4603-a74d-72b99d3741bb\",\"ownerCostumeId\":\"100401\"},\"grandB2\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"099dc9a5-71a1-4d00-a125-852d04ed435c\",\"ownerCostumeId\":\"100301\"},\"parentA\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"8d4c31c6-8ad1-413d-9aca-517c2f781381\",\"ownerCostumeId\":\"101401\"},\"parentB\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"4e68f8ab-891f-48ce-aa29-4b56d90198d0\",\"ownerCostumeId\":\"100601\"},\"target\":{\"bloodlineStatus\":\"confirmed\",\"factorInstanceId\":\"6807a8a7-f309-441f-bce6-7dcf3e673191\",\"ownerCostumeId\":\"100901\"}},\"globalPriorities\":[{\"priority\":\"required\",\"skillId\":\"201601\"},{\"priority\":\"preferred\",\"skillId\":\"201322\"}],\"lineageDesign\":{\"geneEnabled\":true,\"geneType\":\"dirt\",\"profileId\":\"turf-middle-long\",\"rotationGrade\":\"A\"},\"referenceFilters\":{\"allowForecast\":true,\"dateInput\":\"2026-11-05\",\"includeUnknown\":false},\"referencePlan\":{\"nodes\":{\"ancestor_10\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_10\",\"parentIds\":[\"ancestor_21\",\"ancestor_22\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"ancestor_11\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_11\",\"parentIds\":[\"ancestor_23\",\"ancestor_24\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"ancestor_12\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_12\",\"parentIds\":[\"ancestor_25\",\"ancestor_26\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"ancestor_13\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_13\",\"parentIds\":[\"ancestor_27\",\"ancestor_28\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"ancestor_14\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_14\",\"parentIds\":[\"ancestor_29\",\"ancestor_30\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"ancestor_15\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_15\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_16\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_16\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_17\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_17\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_18\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_18\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_19\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_19\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_20\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_20\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_21\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_21\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_22\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_22\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_23\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_23\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_24\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_24\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_25\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_25\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_26\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_26\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_27\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_27\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_28\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_28\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_29\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_29\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_30\":{\"costumeId\":\"100201\",\"locked\":false,\"nodeId\":\"ancestor_30\",\"parentIds\":null,\"redFactor\":{\"stars\":3,\"type\":\"dirt\"}},\"ancestor_7\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_7\",\"parentIds\":[\"ancestor_15\",\"ancestor_16\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"ancestor_8\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_8\",\"parentIds\":[\"ancestor_17\",\"ancestor_18\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"ancestor_9\":{\"costumeId\":\"100101\",\"locked\":false,\"nodeId\":\"ancestor_9\",\"parentIds\":[\"ancestor_19\",\"ancestor_20\"],\"redFactor\":{\"stars\":3,\"type\":\"mile\"}},\"grandA1\":{\"costumeId\":\"102601\",\"locked\":false,\"nodeId\":\"grandA1\",\"parentIds\":[\"ancestor_7\",\"ancestor_8\"],\"redFactor\":null},\"grandA2\":{\"costumeId\":\"101001\",\"locked\":false,\"nodeId\":\"grandA2\",\"parentIds\":[\"ancestor_9\",\"ancestor_10\"],\"redFactor\":null},\"grandB1\":{\"costumeId\":\"100401\",\"locked\":false,\"nodeId\":\"grandB1\",\"parentIds\":[\"ancestor_11\",\"ancestor_12\"],\"redFactor\":null},\"grandB2\":{\"costumeId\":\"100301\",\"locked\":true,\"nodeId\":\"grandB2\",\"parentIds\":[\"ancestor_13\",\"ancestor_14\"],\"redFactor\":null},\"parentA\":{\"costumeId\":\"101401\",\"locked\":false,\"nodeId\":\"parentA\",\"parentIds\":[\"grandA1\",\"grandA2\"],\"redFactor\":null},\"parentB\":{\"costumeId\":\"100601\",\"locked\":false,\"nodeId\":\"parentB\",\"parentIds\":[\"grandB1\",\"grandB2\"],\"redFactor\":null},\"target\":{\"costumeId\":\"100901\",\"locked\":false,\"nodeId\":\"target\",\"parentIds\":[\"parentA\",\"parentB\"],\"redFactor\":null}},\"rootId\":\"target\",\"schemaVersion\":1},\"selectedNodeId\":null,\"skillSettings\":{\"allowForecast\":true,\"deck\":[{\"limitBreak\":0,\"supportId\":\"30024\"},{\"limitBreak\":1,\"supportId\":\"30175\"},{\"limitBreak\":2,\"supportId\":\"30113\"},{\"limitBreak\":3,\"supportId\":\"30108\"},{\"limitBreak\":4,\"supportId\":\"10126\"},{\"limitBreak\":0,\"supportId\":\"30226\"}],\"eventId\":\"kr-cm-39\",\"includeUnknown\":true,\"mode\":\"tournament\",\"nodeModes\":{\"grandA1\":\"forecast\",\"parentA\":\"current\"},\"preference\":\"balanced\",\"runningStyle\":\"pace\",\"scenarioId\":\"11\"},\"supportSettings\":{\"allowBorrow\":true,\"ownedOnly\":false,\"ownedSupports\":[{\"limitBreak\":3,\"supportId\":\"30175\"},{\"limitBreak\":2,\"supportId\":\"30113\"}]},\"whiteFactors\":{\"nodePriorities\":{\"parentA\":{\"ownerCostumeId\":\"101401\",\"priorities\":[{\"priority\":\"required\",\"skillId\":\"201601\"}]}},\"nodes\":{\"ancestor_7\":{\"inventoryStatus\":\"partial\",\"nodeId\":\"ancestor_7\",\"ownerCostumeId\":\"100101\",\"records\":[{\"classification\":{\"evidence\":[\"기존 일반 스킬 ID를 그대로 사용합니다.\",\"기존 ID·명시적 하위 관계만 확인했습니다. 백인자 대상 여부를 확인하는 원본 표가 없어 분류 검토가 필요합니다.\"],\"status\":\"review-required\"},\"nameJa\":\"右回り○\",\"nameKo\":\"시계(우) 방향○\",\"skillId\":\"200012\",\"stars\":3,\"status\":\"owned\",\"userEntered\":true}]},\"parentA\":{\"inventoryStatus\":\"partial\",\"nodeId\":\"parentA\",\"ownerCostumeId\":\"101401\",\"records\":[{\"classification\":{\"evidence\":[\"기존 일반 스킬 ID를 그대로 사용합니다.\",\"기존 ID·명시적 하위 관계만 확인했습니다. 백인자 대상 여부를 확인하는 원본 표가 없어 분류 검토가 필요합니다.\"],\"status\":\"review-required\"},\"nameJa\":\"地固め\",\"nameKo\":\"터다지기\",\"skillId\":\"201601\",\"stars\":2,\"status\":\"owned\",\"userEntered\":true},{\"classification\":{\"evidence\":[\"기존 일반 스킬 ID를 그대로 사용합니다.\",\"기존 ID·명시적 하위 관계만 확인했습니다. 백인자 대상 여부를 확인하는 원본 표가 없어 분류 검토가 필요합니다.\"],\"status\":\"review-required\"},\"nameJa\":\"先行コーナー○\",\"nameKo\":\"선행 코너○\",\"skillId\":\"201322\",\"stars\":null,\"status\":\"planned\",\"userEntered\":true}]},\"parentB\":{\"inventoryStatus\":\"reviewed\",\"nodeId\":\"parentB\",\"ownerCostumeId\":\"100601\",\"records\":[]}},\"schemaVersion\":1}}",
+    "calculatedAt": "2026-11-05T09:35:11.530Z",
+    "snapshotIds": {
+      "reference": "reference-p1-54cacf49b917-369cb1a99679dfcd-kr-evidence-v1-kr-dates-2026-11-05-trainers-8b18394a9316",
+      "p3": "p3-2026-11-05-fb68e3e10518d286-trainers-a3cff1e14c86",
+      "p5": "p5-2026-11-05-e52024c140bcf7da"
+    },
+    "cards": [
+      {
+        "supportId": "30175",
+        "limitBreak": 0,
+        "ownership": "unregistered"
+      },
+      {
+        "supportId": "30113",
+        "limitBreak": 1,
+        "ownership": "unregistered"
+      },
+      {
+        "supportId": "30140",
+        "limitBreak": 2,
+        "ownership": "unregistered"
+      },
+      {
+        "supportId": "10126",
+        "limitBreak": 3,
+        "ownership": "unregistered"
+      },
+      {
+        "supportId": "30226",
+        "limitBreak": 4,
+        "ownership": "unregistered"
+      },
+      {
+        "supportId": "30107",
+        "limitBreak": 0,
+        "ownership": "unregistered"
+      }
+    ],
+    "score": {
+      "coverageValue": 374,
+      "preferenceBonus": 8,
+      "customizedValue": 382
+    },
+    "skillIds": [
+      "200012",
+      "200052",
+      "200142",
+      "200162",
+      "200182",
+      "200222",
+      "200262",
+      "200332",
+      "200352",
+      "200452",
+      "200462",
+      "200472",
+      "200492",
+      "200502",
+      "200512",
+      "200562",
+      "200572",
+      "200582",
+      "200722",
+      "201102",
+      "201112",
+      "201132",
+      "201142",
+      "201312",
+      "201322",
+      "201332",
+      "201352",
+      "201532",
+      "201571",
+      "201581",
+      "201601",
+      "201611",
+      "201651",
+      "201661",
+      "201702",
+      "201902",
+      "202082",
+      "202372",
+      "202432",
+      "202522",
+      "202532",
+      "202712",
+      "202742",
+      "202762",
+      "202982",
+      "203242",
+      "203252",
+      "203312"
+    ],
+    "greenSkillIds": [
+      "200012",
+      "200052",
+      "200142",
+      "200162",
+      "200182",
+      "200222",
+      "200262",
+      "201532"
+    ],
+    "eventDecisions": [
+      {
+        "supportId": "30175",
+        "groupId": "30175:trainers-30175-once-38f62927c2460e61",
+        "eventIds": [
+          "trainers-30175-once-38f62927c2460e61"
+        ],
+        "label": "트레이너스 · 카드 연결 · 받들어 모시면",
+        "optionId": "trainers-30175-once-38f62927c2460e61:choice-1-branch-0",
+        "skillIds": [
+          "201112"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": null,
+        "probability": null
+      },
+      {
+        "supportId": "30113",
+        "groupId": "30113:trainers-30113-once-f09472a0fb5cf2f6",
+        "eventIds": [
+          "trainers-30113-once-f09472a0fb5cf2f6"
+        ],
+        "label": "트레이너스 · 카드 연결 · 가상 공간을 활용한 인지 수정에 관해",
+        "optionId": "trainers-30113-once-f09472a0fb5cf2f6:choice-1-branch-0",
+        "skillIds": [
+          "200582"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": "연속 이벤트",
+        "probability": null
+      },
+      {
+        "supportId": "30140",
+        "groupId": "30140:trainers-30140-once-10cbe18ceab1094a",
+        "eventIds": [
+          "trainers-30140-once-10cbe18ceab1094a"
+        ],
+        "label": "트레이너스 · 카드 연결 · 나의 무기",
+        "optionId": "trainers-30140-once-10cbe18ceab1094a:choice-1-branch-0",
+        "skillIds": [
+          "201312"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": null,
+        "probability": null
+      },
+      {
+        "supportId": "30140",
+        "groupId": "30140:trainers-30140-once-19f0a014b252a5f8",
+        "eventIds": [
+          "trainers-30140-once-19f0a014b252a5f8"
+        ],
+        "label": "트레이너스 · 카드 연결 · LESSON.2 매너를 배웁시다",
+        "optionId": "trainers-30140-once-19f0a014b252a5f8:choice-0-branch-0",
+        "skillIds": [
+          "201322"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": "연속 이벤트",
+        "probability": null
+      },
+      {
+        "supportId": "30140",
+        "groupId": "30140:trainers-30140-once-9eedebffeac85b72",
+        "eventIds": [
+          "trainers-30140-once-9eedebffeac85b72"
+        ],
+        "label": "트레이너스 · 카드 연결 · LESSON.3 대접합시다",
+        "optionId": "trainers-30140-once-9eedebffeac85b72:choice-0-branch-0",
+        "skillIds": [
+          "201132"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": "연속 이벤트",
+        "probability": null
+      },
+      {
+        "supportId": "30226",
+        "groupId": "30226:trainers-30226-once-267237635fb8ee89",
+        "eventIds": [
+          "trainers-30226-once-267237635fb8ee89"
+        ],
+        "label": "트레이너스 · 카드 연결 · ",
+        "optionId": "trainers-30226-once-267237635fb8ee89:choice-0-branch-0",
+        "skillIds": [
+          "203242"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": "연속 이벤트",
+        "probability": null
+      },
+      {
+        "supportId": "30226",
+        "groupId": "30226:trainers-30226-once-a2d1592af66eb6cb",
+        "eventIds": [
+          "trainers-30226-once-a2d1592af66eb6cb"
+        ],
+        "label": "트레이너스 · 카드 연결 · // 꼭 가지고 싶다",
+        "optionId": "trainers-30226-once-a2d1592af66eb6cb:choice-0-branch-0",
+        "skillIds": [
+          "200472"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": null,
+        "probability": null
+      },
+      {
+        "supportId": "30226",
+        "groupId": "30226:trainers-30226-once-a75bff1afb40bd65",
+        "eventIds": [
+          "trainers-30226-once-a75bff1afb40bd65"
+        ],
+        "label": "트레이너스 · 카드 연결 · ",
+        "optionId": "trainers-30226-once-a75bff1afb40bd65:choice-0-branch-0",
+        "skillIds": [
+          "203242",
+          "203252"
+        ],
+        "assurance": "unknown",
+        "outcome": "unspecified",
+        "evidence": "source-unspecified",
+        "condition": "연속 이벤트",
+        "probability": null
+      }
+    ]
+  }
+}

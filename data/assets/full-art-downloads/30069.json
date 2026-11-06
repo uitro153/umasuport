@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30069.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30069-narita-brian",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:21 GMT",
+  "etag": "\"4947c6f299cd7f459fc5420a49ec2995\"",
+  "file": {
+    "path": "game-assets/supports/art/30069.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84505,
+    "mimeType": "image/png",
+    "sha256": "06743f316141710ac9d4637c687f6fdf8cae7b56ad0e6e66edd86c25fea3c60e",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30069.png",
+    "sourceAssetId": "umamusume/supports/full/small/30069.png",
+    "sourceId": "gametora-media"
+  }
+}

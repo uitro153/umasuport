@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30115.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30115-mejiro-palmer",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:30 GMT",
+  "etag": "\"1ee8fcf927730f3d68d7870d2857ca5d\"",
+  "file": {
+    "path": "game-assets/supports/art/30115.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 85463,
+    "mimeType": "image/png",
+    "sha256": "6285043071d68826db28593b31afe87620a44c94e2e531db2c299fa5ac1a3e67",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30115.png",
+    "sourceAssetId": "umamusume/supports/full/small/30115.png",
+    "sourceId": "gametora-media"
+  }
+}

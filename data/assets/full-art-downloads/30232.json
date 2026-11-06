@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30232.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30232-blast-onepiece",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:53 GMT",
+  "etag": "\"90a7401b0c40e1fd716085166ea26832\"",
+  "file": {
+    "path": "game-assets/supports/art/30232.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81522,
+    "mimeType": "image/png",
+    "sha256": "b9811da06f34213e84fc7d2f2aac43051c5e29fefdd2f8beb555bcff4a219d94",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30232.png",
+    "sourceAssetId": "umamusume/supports/full/small/30232.png",
+    "sourceId": "gametora-media"
+  }
+}

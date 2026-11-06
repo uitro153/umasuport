@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10007.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10007-vodka",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:24 GMT",
+  "etag": "\"cb7724fcdf5a7ddc6ea59cc2d94cf685\"",
+  "file": {
+    "path": "game-assets/supports/art/10007.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 59130,
+    "mimeType": "image/png",
+    "sha256": "5ef0faa5b9460a16c30e4212d2f63aa633ed0a201a21ea5f8eb56c110a62570c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10007.png",
+    "sourceAssetId": "umamusume/supports/full/small/10007.png",
+    "sourceId": "gametora-media"
+  }
+}

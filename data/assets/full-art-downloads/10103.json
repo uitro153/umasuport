@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10103.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10103-orfevre",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:42 GMT",
+  "etag": "\"07188fd13df72cb095920924e7eddbee\"",
+  "file": {
+    "path": "game-assets/supports/art/10103.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 67837,
+    "mimeType": "image/png",
+    "sha256": "bf90beffa2b07e84340247142f7c0cd10d17a2a629163033eac5bf8b6ded46da",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10103.png",
+    "sourceAssetId": "umamusume/supports/full/small/10103.png",
+    "sourceId": "gametora-media"
+  }
+}

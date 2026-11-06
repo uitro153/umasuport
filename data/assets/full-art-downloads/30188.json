@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30188.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30188-ryoka-tsurugi",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:44 GMT",
+  "etag": "\"fbc6e1598ce53691de3fc2b9034634e6\"",
+  "file": {
+    "path": "game-assets/supports/art/30188.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 77296,
+    "mimeType": "image/png",
+    "sha256": "f6bab9d5b737bae47b3422f8d27e7c57ee73990e91e12aaecdb238e15804174c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30188.png",
+    "sourceAssetId": "umamusume/supports/full/small/30188.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,5140 @@
+{
+  "sourceSnapshotId": "p3-2026-11-05-fb68e3e10518d286-trainers-a3cff1e14c86",
+  "sourceSha256": "76f4134c50aa24c086bfc9c4e6f2bdb12d4986da7718695ae498abfe168087b6",
+  "purpose": "Exact source records for qualitative classification and course geometry tests, not new measured game outcomes",
+  "course": {
+    "courseId": "10906",
+    "trackId": "10009",
+    "venue": "阪神",
+    "distance": 2200,
+    "surface": 1,
+    "lastSpurtStart": 1467,
+    "finalCornerStart": 1550,
+    "finalStraightStart": 1844,
+    "sourceIds": [
+      "gt_current"
+    ],
+    "raw": {
+      "corners": [
+        {
+          "end": 710,
+          "number": 1,
+          "start": 520
+        },
+        {
+          "end": 900,
+          "number": 2,
+          "start": 710
+        },
+        {
+          "end": 1550,
+          "number": 3,
+          "start": 1250
+        },
+        {
+          "end": 1844,
+          "number": 4,
+          "start": 1550
+        }
+      ],
+      "distance": 3,
+      "id": 10906,
+      "inout": 2,
+      "laps": [
+        {
+          "end": 1824,
+          "lap": 1,
+          "start": 0
+        },
+        {
+          "end": 2200,
+          "lap": 2,
+          "start": 1824
+        }
+      ],
+      "length": 2200,
+      "noMansLand": [],
+      "overlaps": [
+        "02",
+        "03",
+        "13"
+      ],
+      "phases": [
+        {
+          "end": 367,
+          "id": 0,
+          "start": 0
+        },
+        {
+          "end": 1467,
+          "id": 1,
+          "start": 367
+        },
+        {
+          "end": 1833,
+          "id": 2,
+          "start": 1467
+        },
+        {
+          "end": 2200,
+          "id": 3,
+          "start": 1833
+        }
+      ],
+      "positionKeepEnd": 917,
+      "slopes": [
+        {
+          "end": 290,
+          "slope": -10000,
+          "start": 0
+        },
+        {
+          "end": 420,
+          "slope": 20000,
+          "start": 295
+        },
+        {
+          "end": 1995,
+          "slope": -10000,
+          "start": 1400
+        },
+        {
+          "end": 2125,
+          "slope": 20000,
+          "start": 2000
+        }
+      ],
+      "spurtStart": {
+        "lap": 1,
+        "location": [
+          "corner",
+          "downhill"
+        ],
+        "meters": 1467
+      },
+      "statThresholds": [
+        1
+      ],
+      "straights": [
+        {
+          "end": 520,
+          "frontType": 1,
+          "start": 0
+        },
+        {
+          "end": 1250,
+          "frontType": 2,
+          "start": 900
+        },
+        {
+          "end": 2200,
+          "frontType": 1,
+          "start": 1844
+        }
+      ],
+      "terrain": 1,
+      "terrainChanges": [],
+      "turn": 1
+    }
+  },
+  "skills": [
+    {
+      "skillId": "200012",
+      "nameJa": "右回り○",
+      "nameKo": "시계(우) 방향○",
+      "nameEn": "Right-Handed ○",
+      "displayName": "시계(우) 방향○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 90,
+      "descriptionKo": "시계(우회전) 방향 코스에 다소 강해진다",
+      "descriptionJa": "右回りコースならスピードが少し上がる",
+      "descriptionEn": "Moderately increase performance on right-handed tracks.",
+      "iconId": 10011,
+      "conditionGroups": [
+        {
+          "condition": "rotation==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          105602,
+          102201,
+          106701,
+          105802,
+          106703,
+          106803,
+          111901,
+          102303,
+          111101,
+          112701,
+          110902,
+          111301,
+          110602,
+          100503,
+          107403,
+          114901
+        ],
+        "char_e": [
+          100502,
+          102002,
+          104701,
+          104702,
+          110702,
+          101703
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        ],
+        "cost": 90,
+        "desc_en": "Moderately increase performance on right-handed tracks.",
+        "desc_ko": "시계(우회전) 방향 코스에 다소 강해진다",
+        "desc_tw": "變得稍微擅長順時針賽道",
+        "endesc": "Your Speed stat is increased by 40 on clockwise tracks",
+        "enname": "Right Turns ○",
+        "iconid": 10011,
+        "id": 200012,
+        "jpdesc": "右回りコースならスピードが少し上がる",
+        "jpname": "右回り○",
+        "loc": {
+          "en": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701
+            ],
+            "sup_e": [
+              [
+                30065,
+                20016
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                20037,
+                20053
+              ],
+              [
+                10028,
+                10072,
+                10076
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802,
+              106703,
+              106803,
+              111901,
+              102303,
+              111101,
+              112701
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701,
+              104702,
+              110702
+            ],
+            "sup_e": [
+              [
+                30065,
+                30163,
+                20016,
+                20058
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30037,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                30167,
+                30168,
+                30175,
+                30204,
+                30230,
+                30246,
+                20037,
+                20053,
+                20057,
+                20059,
+                20079
+              ],
+              [
+                10028,
+                10072,
+                10076,
+                10119
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802,
+              106703,
+              106803,
+              111901,
+              102303,
+              111101,
+              112701
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701,
+              104702,
+              110702
+            ],
+            "sup_e": [
+              [
+                30065,
+                30163,
+                20016,
+                20058
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30037,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                30167,
+                30168,
+                30175,
+                30204,
+                30230,
+                30246,
+                20037,
+                20053,
+                20057,
+                20059,
+                20079
+              ],
+              [
+                10028,
+                10072,
+                10076,
+                10119
+              ]
+            ]
+          }
+        },
+        "name_en": "Right-Handed ○",
+        "name_ko": "시계(우) 방향○",
+        "name_tw": "順時針○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30065,
+            30163,
+            20016,
+            20058
+          ],
+          []
+        ],
+        "sup_hint": [
+          [
+            30010,
+            30037,
+            30044,
+            30069,
+            30087,
+            30105,
+            30123,
+            30167,
+            30168,
+            30175,
+            30204,
+            30230,
+            30246,
+            30261,
+            30281,
+            30286,
+            30311,
+            20037,
+            20053,
+            20057,
+            20059,
+            20079
+          ],
+          [
+            10028,
+            10072,
+            10076,
+            10119,
+            10131,
+            10146
+          ]
+        ],
+        "tid": "1f",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200011,
+          200013,
+          200014
+        ]
+      }
+    },
+    {
+      "skillId": "200052",
+      "nameJa": "阪神レース場○",
+      "nameKo": "한신 경기장○",
+      "nameEn": "Hanshin Racecourse ○",
+      "displayName": "한신 경기장○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 90,
+      "descriptionKo": "한신 경기장에 다소 강해진다",
+      "descriptionJa": "阪神レース場ならスタミナが少し上がる",
+      "descriptionEn": "Moderately increase performance at Hanshin Racecourse.",
+      "iconId": 10021,
+      "conditionGroups": [
+        {
+          "condition": "track_id==10009",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "track_id==10009",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          104001,
+          105102
+        ],
+        "char_e": [
+          102301,
+          102302,
+          102101,
+          100702,
+          102102,
+          100703,
+          102303,
+          100701
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "track_id==10009",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        ],
+        "cost": 90,
+        "desc_en": "Moderately increase performance at Hanshin Racecourse.",
+        "desc_ko": "한신 경기장에 다소 강해진다",
+        "desc_tw": "變得稍微擅長阪神賽場",
+        "endesc": "In Hanshin, your Stamina stat is increased by 40",
+        "enname": "Hanshin Racetrack ○",
+        "iconid": 10021,
+        "id": 200052,
+        "jpdesc": "阪神レース場ならスタミナが少し上がる",
+        "jpname": "阪神レース場○",
+        "loc": {
+          "en": {
+            "char": [
+              104001
+            ],
+            "char_e": [
+              102301,
+              102302,
+              102101,
+              100702,
+              102102,
+              100701
+            ],
+            "sup_e": [
+              [
+                30004,
+                30043,
+                30057,
+                30074,
+                30089,
+                30108,
+                20015
+              ],
+              [
+                10006,
+                10043,
+                10067
+              ]
+            ],
+            "sup_hint": [
+              [
+                30018,
+                30027,
+                30082,
+                30113,
+                20006,
+                20027
+              ],
+              [
+                10029,
+                10041,
+                10054
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              104001,
+              105102
+            ],
+            "char_e": [
+              102301,
+              102302,
+              102101,
+              100702,
+              102102,
+              100703,
+              102303,
+              100701
+            ],
+            "sup_e": [
+              [
+                30004,
+                30043,
+                30057,
+                30074,
+                30089,
+                30108,
+                30131,
+                30163,
+                30168,
+                30172,
+                20015,
+                20061,
+                20079
+              ],
+              [
+                10006,
+                10043,
+                10067
+              ]
+            ],
+            "sup_hint": [
+              [
+                30018,
+                30027,
+                30061,
+                30082,
+                30113,
+                30194,
+                20006,
+                20027
+              ],
+              [
+                10029,
+                10041,
+                10054,
+                10114
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              104001,
+              105102
+            ],
+            "char_e": [
+              102301,
+              102302,
+              102101,
+              100702,
+              102102,
+              100703,
+              102303,
+              100701
+            ],
+            "sup_e": [
+              [
+                30004,
+                30043,
+                30057,
+                30074,
+                30089,
+                30108,
+                30131,
+                30163,
+                30168,
+                30172,
+                20015,
+                20061,
+                20079
+              ],
+              [
+                10006,
+                10043,
+                10067
+              ]
+            ],
+            "sup_hint": [
+              [
+                30018,
+                30027,
+                30082,
+                30113,
+                30194,
+                20006,
+                20027
+              ],
+              [
+                10029,
+                10041,
+                10054,
+                10114
+              ]
+            ]
+          }
+        },
+        "name_en": "Hanshin Racecourse ○",
+        "name_ko": "한신 경기장○",
+        "name_tw": "阪神賽場○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30004,
+            30043,
+            30057,
+            30074,
+            30089,
+            30108,
+            30131,
+            30163,
+            30168,
+            30172,
+            30278,
+            20015,
+            20061,
+            20079
+          ],
+          [
+            10006,
+            10043,
+            10067
+          ]
+        ],
+        "sup_hint": [
+          [
+            30018,
+            30027,
+            30061,
+            30082,
+            30113,
+            30194,
+            30269,
+            20006,
+            20027
+          ],
+          [
+            10029,
+            10041,
+            10054,
+            10114
+          ]
+        ],
+        "tid": "1r",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200051,
+          200053
+        ]
+      }
+    },
+    {
+      "skillId": "200142",
+      "nameJa": "非根幹距離○",
+      "nameKo": "비근간거리○",
+      "nameEn": "Non-Standard Distance ○",
+      "displayName": "비근간거리○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 90,
+      "descriptionKo": "비근간거리(400m의 배수 이외)에 다소 강해진다",
+      "descriptionJa": "非根幹距離（400mの倍数以外）ならスタミナが少し上がる",
+      "descriptionEn": "Moderately increase performance over non-standard distances (non-multiples of 400m).",
+      "iconId": 10021,
+      "conditionGroups": [
+        {
+          "condition": "is_basis_distance==0",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "is_basis_distance==0",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          101501,
+          105801,
+          102502
+        ],
+        "char_e": [
+          101501,
+          101502,
+          107401,
+          100702,
+          100703,
+          107402,
+          107403,
+          100701
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "is_basis_distance==0",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        ],
+        "cost": 90,
+        "desc_en": "Moderately increase performance over non-standard distances (non-multiples of 400m).",
+        "desc_ko": "비근간거리(400m의 배수 이외)에 다소 강해진다",
+        "desc_tw": "變得稍微擅長非主要距離（非400m的倍數）",
+        "endesc": "Your Stamina stat is increased by 40 in Non-Core Distance races (not multiples of 400m)",
+        "enname": "Non-Core Distances ○",
+        "iconid": 10021,
+        "id": 200142,
+        "jpdesc": "非根幹距離（400mの倍数以外）ならスタミナが少し上がる",
+        "jpname": "非根幹距離○",
+        "loc": {
+          "en": {
+            "char": [
+              101501,
+              105801
+            ],
+            "char_e": [
+              101501,
+              101502,
+              107401,
+              100702,
+              100701
+            ],
+            "sup_e": [
+              [
+                30075,
+                30110,
+                20008,
+                20054
+              ],
+              [
+                10012,
+                10031
+              ]
+            ],
+            "sup_hint": [
+              [
+                30072,
+                30079,
+                30086,
+                30105,
+                20007,
+                20017,
+                20053,
+                20054
+              ],
+              [
+                10030,
+                10045,
+                10077
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              101501,
+              105801,
+              102502
+            ],
+            "char_e": [
+              101501,
+              101502,
+              107401,
+              100702,
+              100703,
+              107402,
+              100701
+            ],
+            "sup_e": [
+              [
+                30075,
+                30110,
+                30152,
+                30157,
+                30231,
+                20008,
+                20054,
+                20078
+              ],
+              [
+                10012,
+                10031
+              ]
+            ],
+            "sup_hint": [
+              [
+                30072,
+                30079,
+                30086,
+                30105,
+                30176,
+                30226,
+                20007,
+                20017,
+                20053,
+                20054,
+                20057,
+                20084
+              ],
+              [
+                10030,
+                10045,
+                10077,
+                10123
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              101501,
+              105801,
+              102502
+            ],
+            "char_e": [
+              101501,
+              101502,
+              107401,
+              100702,
+              100703,
+              107402,
+              100701
+            ],
+            "sup_e": [
+              [
+                30075,
+                30110,
+                30152,
+                30157,
+                30231,
+                20008,
+                20054,
+                20078
+              ],
+              [
+                10012,
+                10031
+              ]
+            ],
+            "sup_hint": [
+              [
+                30072,
+                30079,
+                30086,
+                30105,
+                30176,
+                30226,
+                20007,
+                20017,
+                20053,
+                20054,
+                20057,
+                20084
+              ],
+              [
+                10030,
+                10045,
+                10077,
+                10123
+              ]
+            ]
+          }
+        },
+        "name_en": "Non-Standard Distance ○",
+        "name_ko": "비근간거리○",
+        "name_tw": "非主要距離○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30075,
+            30110,
+            30152,
+            30157,
+            30231,
+            20008,
+            20054,
+            20078
+          ],
+          [
+            10012,
+            10031
+          ]
+        ],
+        "sup_hint": [
+          [
+            30072,
+            30079,
+            30086,
+            30105,
+            30176,
+            30226,
+            30266,
+            20007,
+            20017,
+            20053,
+            20054,
+            20057,
+            20084
+          ],
+          [
+            10030,
+            10045,
+            10077,
+            10123,
+            10134
+          ]
+        ],
+        "tid": "1S",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200141,
+          200143
+        ]
+      }
+    },
+    {
+      "skillId": "200182",
+      "nameJa": "夏ウマ娘○",
+      "nameKo": "여름 우마무스메○",
+      "nameEn": "Summer Runner ○",
+      "displayName": "여름 우마무스메○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 90,
+      "descriptionKo": "여름철 레이스에 다소 강해진다",
+      "descriptionJa": "夏のレースならスピードが少し上がる",
+      "descriptionEn": "Moderately increase performance in summer.",
+      "iconId": 10011,
+      "conditionGroups": [
+        {
+          "condition": "season==2",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "season==2",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          103202,
+          106301
+        ],
+        "char_e": [
+          100702,
+          101303,
+          107801,
+          100202,
+          112001,
+          103703,
+          109902,
+          107802,
+          108902,
+          102003
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "season==2",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        ],
+        "cost": 90,
+        "desc_en": "Moderately increase performance in summer.",
+        "desc_ko": "여름철 레이스에 다소 강해진다",
+        "desc_tw": "變得稍微擅長夏季的競賽",
+        "endesc": "Your Speed stat is increased by 40 in Summer",
+        "enname": "Summer Girl ○",
+        "iconid": 10011,
+        "id": 200182,
+        "jpdesc": "夏のレースならスピードが少し上がる",
+        "jpname": "夏ウマ娘○",
+        "loc": {
+          "en": {
+            "char_e": [
+              100702,
+              101303,
+              107801
+            ],
+            "sup_hint": [
+              [
+                30107,
+                30108,
+                30109,
+                20001
+              ],
+              [
+                10049
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              103202,
+              106301
+            ],
+            "char_e": [
+              100702,
+              101303,
+              107801,
+              100202,
+              112001,
+              103703,
+              109902,
+              107802
+            ],
+            "sup_hint": [
+              [
+                30107,
+                30108,
+                30109,
+                30155,
+                30195,
+                30214,
+                20001
+              ],
+              [
+                10049
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              103202,
+              106301
+            ],
+            "char_e": [
+              100702,
+              101303,
+              107801,
+              100202,
+              112001,
+              103703,
+              109902,
+              107802
+            ],
+            "sup_hint": [
+              [
+                30107,
+                30108,
+                30109,
+                30155,
+                30195,
+                30214,
+                20001
+              ],
+              [
+                10049
+              ]
+            ]
+          }
+        },
+        "name_en": "Summer Runner ○",
+        "name_ko": "여름 우마무스메○",
+        "name_tw": "夏賽馬娘○",
+        "rarity": 1,
+        "sup_hint": [
+          [
+            30107,
+            30108,
+            30109,
+            30155,
+            30195,
+            30214,
+            30261,
+            30309,
+            20001,
+            20100
+          ],
+          [
+            10049,
+            10131
+          ]
+        ],
+        "tid": "24",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200181,
+          200183,
+          200184
+        ]
+      }
+    },
+    {
+      "skillId": "200552",
+      "nameJa": "押し切り準備",
+      "nameKo": "굳히기 준비",
+      "nameEn": "Final Push",
+      "displayName": "굳히기 준비",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 180,
+      "descriptionKo": "최종 코너에서 선두라면 가속력이 약간 상승한다＜작전・도주＞",
+      "descriptionJa": "最終コーナーのどこかで先頭だと加速力がわずかに上がる＜作戦・逃げ＞",
+      "descriptionEn": "Slightly increase ability to keep the lead on the final corner. (Front Runner)",
+      "iconId": 20041,
+      "conditionGroups": [
+        {
+          "condition": "running_style==1&is_finalcorner_random==1&order==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==1&is_finalcorner_random==1&order==1",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          100201,
+          110401
+        ],
+        "char_e": [
+          102402,
+          102601,
+          102602,
+          102403,
+          100403,
+          102401
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "running_style==1&is_finalcorner_random==1&order==1",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        ],
+        "cost": 180,
+        "desc_en": "Slightly increase ability to keep the lead on the final corner. (Front Runner)",
+        "desc_ko": "최종 코너에서 선두라면 가속력이 약간 상승한다＜작전・도주＞",
+        "desc_tw": "在最後彎道若位居領先加速力略微上升＜作戰．領頭＞",
+        "endesc": "Runner・At a random point during the Final Corner, if you're in the lead, your acceleration will slightly increase",
+        "enname": "Press Forward, Ready!",
+        "iconid": 20041,
+        "id": 200552,
+        "jpdesc": "最終コーナーのどこかで先頭だと加速力がわずかに上がる＜作戦・逃げ＞",
+        "jpname": "押し切り準備",
+        "loc": {
+          "en": {
+            "char": [
+              100201
+            ],
+            "char_e": [
+              102402,
+              102601,
+              102602,
+              102401
+            ],
+            "sup_e": [
+              [
+                30017,
+                20030,
+                20045
+              ],
+              [
+                10039
+              ]
+            ],
+            "sup_hint": [
+              [
+                30002,
+                30040,
+                30062,
+                30076,
+                30115
+              ],
+              [
+                10002,
+                10064
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              100201,
+              110401
+            ],
+            "char_e": [
+              102402,
+              102601,
+              102602,
+              102403,
+              100403,
+              102401
+            ],
+            "sup_e": [
+              [
+                30017,
+                30059,
+                30135,
+                30210,
+                20030,
+                20045
+              ],
+              [
+                10039
+              ]
+            ],
+            "sup_hint": [
+              [
+                30002,
+                30040,
+                30062,
+                30076,
+                30115,
+                30133,
+                30141,
+                30166,
+                30181,
+                30235,
+                20062
+              ],
+              [
+                10002,
+                10064,
+                10095
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              100201,
+              110401
+            ],
+            "char_e": [
+              102402,
+              102601,
+              102602,
+              102403,
+              100403,
+              102401
+            ],
+            "sup_e": [
+              [
+                30017,
+                30135,
+                30210,
+                20030,
+                20045
+              ],
+              [
+                10039
+              ]
+            ],
+            "sup_hint": [
+              [
+                30002,
+                30040,
+                30062,
+                30076,
+                30115,
+                30133,
+                30141,
+                30166,
+                30181,
+                30235,
+                20062
+              ],
+              [
+                10002,
+                10064,
+                10095
+              ]
+            ]
+          }
+        },
+        "name_en": "Final Push",
+        "name_ko": "굳히기 준비",
+        "name_tw": "準備強行衝線",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30017,
+            30059,
+            30135,
+            30210,
+            20030,
+            20045
+          ],
+          [
+            10039
+          ]
+        ],
+        "sup_hint": [
+          [
+            30002,
+            30040,
+            30062,
+            30076,
+            30115,
+            30133,
+            30141,
+            30166,
+            30181,
+            30235,
+            30316,
+            20062
+          ],
+          [
+            10002,
+            10064,
+            10095,
+            10148
+          ]
+        ],
+        "tid": "3k",
+        "type": [
+          "run",
+          "f_c"
+        ],
+        "versions": [
+          200551
+        ]
+      }
+    },
+    {
+      "skillId": "201102",
+      "nameJa": "中距離直線○",
+      "nameKo": "중거리 직선○",
+      "nameEn": "Medium Straightaways ○",
+      "displayName": "중거리 직선○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 100,
+      "descriptionKo": "직선에서 속도가 약간 상승한다＜중거리＞",
+      "descriptionJa": "いずれかの直線のどこかで速度がわずかに上がる＜中距離＞",
+      "descriptionEn": "Slightly increase velocity on a straight. (Medium)",
+      "iconId": 20011,
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          101601,
+          101901,
+          104502,
+          104801,
+          103702,
+          106801,
+          106701,
+          105902,
+          102901,
+          105802,
+          104901,
+          107102,
+          100703,
+          111001,
+          111101,
+          110702,
+          107002,
+          108802,
+          107301,
+          110301,
+          102701,
+          103201
+        ],
+        "char_e": [
+          103301,
+          106802,
+          103202,
+          103302,
+          101803
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "distance_type==3&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        ],
+        "cost": 100,
+        "desc_en": "Slightly increase velocity on a straight. (Medium)",
+        "desc_ko": "직선에서 속도가 약간 상승한다＜중거리＞",
+        "desc_tw": "在直線速度略微上升＜中距離＞",
+        "endesc": "Medium・At a random point on a random straight, your speed will slightly increase",
+        "enname": "Medium Distance Straights ○",
+        "iconid": 20011,
+        "id": 201102,
+        "jpdesc": "いずれかの直線のどこかで速度がわずかに上がる＜中距離＞",
+        "jpname": "中距離直線○",
+        "loc": {
+          "en": {
+            "char": [
+              101601,
+              101901,
+              104502,
+              104801,
+              103702,
+              106801,
+              106701,
+              105902,
+              102901,
+              105802,
+              104901,
+              102701,
+              103201
+            ],
+            "char_e": [
+              103301,
+              106802
+            ],
+            "sup_e": [
+              [
+                30038,
+                30046,
+                30065,
+                30104,
+                20028,
+                20030
+              ],
+              [
+                10059
+              ]
+            ],
+            "sup_hint": [
+              [
+                30005,
+                30007,
+                30044,
+                30048,
+                30069,
+                30084,
+                30090,
+                30101,
+                30120,
+                20004,
+                20005,
+                20010,
+                20012,
+                20035,
+                20039,
+                20040
+              ],
+              [
+                10007,
+                10011,
+                10025,
+                10026,
+                10033,
+                10036,
+                10070,
+                10072
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              101601,
+              101901,
+              104502,
+              104801,
+              103702,
+              106801,
+              106701,
+              105902,
+              102901,
+              105802,
+              104901,
+              107102,
+              100703,
+              111001,
+              111101,
+              110702,
+              107002,
+              107301,
+              102701,
+              103201
+            ],
+            "char_e": [
+              103301,
+              106802,
+              103202,
+              103302
+            ],
+            "sup_e": [
+              [
+                30038,
+                30046,
+                30065,
+                30104,
+                30186,
+                20028,
+                20030
+              ],
+              [
+                10059
+              ]
+            ],
+            "sup_hint": [
+              [
+                30005,
+                30007,
+                30044,
+                30048,
+                30069,
+                30084,
+                30090,
+                30101,
+                30120,
+                30134,
+                30135,
+                30147,
+                30148,
+                30158,
+                30165,
+                30169,
+                30175,
+                30177,
+                30178,
+                30190,
+                30203,
+                30209,
+                30233,
+                30250,
+                20004,
+                20005,
+                20010,
+                20012,
+                20035,
+                20039,
+                20040,
+                20059,
+                20072,
+                20073,
+                20077
+              ],
+              [
+                10007,
+                10011,
+                10025,
+                10026,
+                10033,
+                10036,
+                10070,
+                10072,
+                10088,
+                10091,
+                10099,
+                10101,
+                10108
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              101601,
+              101901,
+              104502,
+              104801,
+              103702,
+              106801,
+              106701,
+              105902,
+              102901,
+              105802,
+              104901,
+              107102,
+              100703,
+              111001,
+              111101,
+              110702,
+              107002,
+              107301,
+              102701,
+              103201
+            ],
+            "char_e": [
+              103301,
+              106802,
+              103202,
+              103302
+            ],
+            "sup_e": [
+              [
+                30038,
+                30046,
+                30065,
+                30104,
+                30186,
+                20028,
+                20030
+              ],
+              [
+                10059
+              ]
+            ],
+            "sup_hint": [
+              [
+                30005,
+                30007,
+                30044,
+                30048,
+                30069,
+                30084,
+                30090,
+                30101,
+                30120,
+                30134,
+                30135,
+                30147,
+                30148,
+                30158,
+                30165,
+                30169,
+                30175,
+                30177,
+                30178,
+                30190,
+                30203,
+                30209,
+                30233,
+                30250,
+                20004,
+                20005,
+                20010,
+                20012,
+                20035,
+                20039,
+                20040,
+                20059,
+                20072,
+                20073,
+                20077
+              ],
+              [
+                10007,
+                10011,
+                10025,
+                10026,
+                10033,
+                10036,
+                10070,
+                10072,
+                10088,
+                10091,
+                10099,
+                10101,
+                10108
+              ]
+            ]
+          }
+        },
+        "name_en": "Medium Straightaways ○",
+        "name_ko": "중거리 직선○",
+        "name_tw": "中距離直線○",
+        "rarity": 1,
+        "sce_e": [
+          6
+        ],
+        "sup_e": [
+          [
+            30038,
+            30046,
+            30065,
+            30104,
+            30186,
+            20028,
+            20030,
+            20101
+          ],
+          [
+            10059
+          ]
+        ],
+        "sup_hint": [
+          [
+            30005,
+            30007,
+            30044,
+            30048,
+            30069,
+            30084,
+            30090,
+            30101,
+            30120,
+            30134,
+            30135,
+            30147,
+            30148,
+            30158,
+            30165,
+            30169,
+            30175,
+            30177,
+            30178,
+            30190,
+            30203,
+            30209,
+            30233,
+            30250,
+            30265,
+            30282,
+            30320,
+            20004,
+            20005,
+            20010,
+            20012,
+            20035,
+            20039,
+            20040,
+            20059,
+            20072,
+            20073,
+            20077
+          ],
+          [
+            10007,
+            10011,
+            10025,
+            10026,
+            10033,
+            10036,
+            10070,
+            10072,
+            10088,
+            10091,
+            10099,
+            10101,
+            10108,
+            10133
+          ]
+        ],
+        "tid": "4N",
+        "type": [
+          "med",
+          "str"
+        ],
+        "versions": [
+          201101,
+          201103
+        ]
+      }
+    },
+    {
+      "skillId": "201112",
+      "nameJa": "中距離コーナー○",
+      "nameKo": "중거리 코너○",
+      "nameEn": "Medium Corners ○",
+      "displayName": "중거리 코너○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 100,
+      "descriptionKo": "코너에서 속도가 약간 상승한다 ＜중거리＞",
+      "descriptionJa": "いずれかのコーナーのどこかで速度がわずかに上がる＜中距離＞",
+      "descriptionEn": "Slightly increase velocity on a corner. (Medium)",
+      "iconId": 20011,
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&all_corner_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          103701,
+          105801,
+          102201,
+          106901,
+          109801,
+          100802,
+          104701,
+          102702,
+          106202,
+          107001,
+          106703,
+          103902,
+          108801,
+          103302,
+          101803,
+          107301,
+          110301,
+          103201
+        ],
+        "char_e": [
+          103502,
+          105002,
+          104201,
+          105802,
+          108301,
+          107102,
+          103202,
+          108302,
+          104202
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "distance_type==3&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        ],
+        "cost": 100,
+        "desc_en": "Slightly increase velocity on a corner. (Medium)",
+        "desc_ko": "코너에서 속도가 약간 상승한다 ＜중거리＞",
+        "desc_tw": "在彎道速度略微上升＜中距離＞",
+        "endesc": "Medium・At a random point on a random corner, your speed will slightly increase",
+        "enname": "Medium Distance Corners ○",
+        "iconid": 20011,
+        "id": 201112,
+        "jpdesc": "いずれかのコーナーのどこかで速度がわずかに上がる＜中距離＞",
+        "jpname": "中距離コーナー○",
+        "loc": {
+          "en": {
+            "char": [
+              103701,
+              105801,
+              102201,
+              106901,
+              109801,
+              100802,
+              104701,
+              103201
+            ],
+            "char_e": [
+              103502,
+              105002,
+              104201,
+              105802
+            ],
+            "sup_e": [
+              [
+                30032,
+                30067,
+                30079,
+                30120,
+                20047
+              ],
+              [
+                10058
+              ]
+            ],
+            "sup_hint": [
+              [
+                30009,
+                30029,
+                30031,
+                30038,
+                30044,
+                30064,
+                30069,
+                30070,
+                30084,
+                30090,
+                30091,
+                30097,
+                30101,
+                30104,
+                30120,
+                30126,
+                20011,
+                20012,
+                20022,
+                20035,
+                20038
+              ],
+              [
+                10027,
+                10034,
+                10036,
+                10056,
+                10062,
+                10070,
+                10071,
+                10072,
+                10078,
+                10086
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              103701,
+              105801,
+              102201,
+              106901,
+              109801,
+              100802,
+              104701,
+              102702,
+              106202,
+              107001,
+              106703,
+              103902,
+              108801,
+              103302,
+              107301,
+              103201
+            ],
+            "char_e": [
+              103502,
+              105002,
+              104201,
+              105802,
+              108301,
+              107102,
+              103202,
+              108302,
+              104202
+            ],
+            "sup_e": [
+              [
+                30032,
+                30067,
+                30079,
+                30120,
+                30134,
+                30137,
+                30162,
+                30175,
+                20047,
+                20074,
+                20083
+              ],
+              [
+                10058,
+                10088
+              ]
+            ],
+            "sup_hint": [
+              [
+                30009,
+                30029,
+                30031,
+                30037,
+                30038,
+                30044,
+                30064,
+                30069,
+                30070,
+                30084,
+                30090,
+                30091,
+                30097,
+                30101,
+                30104,
+                30120,
+                30126,
+                30136,
+                30147,
+                30161,
+                30198,
+                30204,
+                30209,
+                30214,
+                30215,
+                30245,
+                20011,
+                20012,
+                20022,
+                20035,
+                20038,
+                20057,
+                20074,
+                20084
+              ],
+              [
+                10027,
+                10034,
+                10036,
+                10056,
+                10062,
+                10070,
+                10071,
+                10072,
+                10078,
+                10086,
+                10096,
+                10106,
+                10123
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              103701,
+              105801,
+              102201,
+              106901,
+              109801,
+              100802,
+              104701,
+              102702,
+              106202,
+              107001,
+              106703,
+              103902,
+              108801,
+              103302,
+              107301,
+              103201
+            ],
+            "char_e": [
+              103502,
+              105002,
+              104201,
+              105802,
+              108301,
+              107102,
+              103202,
+              108302,
+              104202
+            ],
+            "sup_e": [
+              [
+                30032,
+                30067,
+                30079,
+                30120,
+                30134,
+                30137,
+                30162,
+                30175,
+                20047,
+                20074,
+                20083
+              ],
+              [
+                10058,
+                10088
+              ]
+            ],
+            "sup_hint": [
+              [
+                30009,
+                30029,
+                30031,
+                30037,
+                30038,
+                30044,
+                30064,
+                30069,
+                30070,
+                30084,
+                30090,
+                30091,
+                30097,
+                30101,
+                30104,
+                30120,
+                30126,
+                30136,
+                30147,
+                30161,
+                30198,
+                30204,
+                30209,
+                30214,
+                30215,
+                30245,
+                20011,
+                20012,
+                20022,
+                20035,
+                20038,
+                20057,
+                20074,
+                20084
+              ],
+              [
+                10027,
+                10034,
+                10036,
+                10056,
+                10062,
+                10070,
+                10071,
+                10072,
+                10078,
+                10086,
+                10096,
+                10106,
+                10123
+              ]
+            ]
+          }
+        },
+        "name_en": "Medium Corners ○",
+        "name_ko": "중거리 코너○",
+        "name_tw": "中距離彎道○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30032,
+            30067,
+            30079,
+            30120,
+            30134,
+            30137,
+            30162,
+            30175,
+            20047,
+            20074,
+            20083
+          ],
+          [
+            10058,
+            10088
+          ]
+        ],
+        "sup_hint": [
+          [
+            30009,
+            30029,
+            30031,
+            30037,
+            30038,
+            30044,
+            30064,
+            30069,
+            30070,
+            30084,
+            30090,
+            30091,
+            30097,
+            30101,
+            30104,
+            30120,
+            30126,
+            30136,
+            30147,
+            30161,
+            30198,
+            30204,
+            30209,
+            30214,
+            30215,
+            30245,
+            30265,
+            30282,
+            30320,
+            20011,
+            20012,
+            20022,
+            20035,
+            20038,
+            20057,
+            20074,
+            20084,
+            20091
+          ],
+          [
+            10027,
+            10034,
+            10036,
+            10056,
+            10062,
+            10070,
+            10071,
+            10072,
+            10078,
+            10086,
+            10096,
+            10106,
+            10123,
+            10133,
+            10137
+          ]
+        ],
+        "tid": "4P",
+        "type": [
+          "med",
+          "cor"
+        ],
+        "versions": [
+          201111,
+          201113
+        ]
+      }
+    },
+    {
+      "skillId": "201312",
+      "nameJa": "先行直線○",
+      "nameKo": "선행 직선○",
+      "nameEn": "Pace Chaser Straightaways ○",
+      "displayName": "선행 직선○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 130,
+      "descriptionKo": "직선에서 속도가 약간 상승한다＜작전・선행＞",
+      "descriptionJa": "いずれかの直線のどこかで速度がわずかに上がる＜作戦・先行＞",
+      "descriptionEn": "Slightly increase velocity on a straight. (Pace Chaser)",
+      "iconId": 20011,
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          101702,
+          102302,
+          101502,
+          109301,
+          100303,
+          110901,
+          104702,
+          113301,
+          102802,
+          101401,
+          107301,
+          104101
+        ],
+        "char_e": [
+          107701,
+          104503,
+          107702,
+          111002,
+          110902,
+          107703
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "running_style==2&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        ],
+        "cost": 130,
+        "desc_en": "Slightly increase velocity on a straight. (Pace Chaser)",
+        "desc_ko": "직선에서 속도가 약간 상승한다＜작전・선행＞",
+        "desc_tw": "在直線速度略微上升＜作戰．前列＞",
+        "endesc": "Leader・At a random point on a random straight, your speed will slightly increase",
+        "enname": "Leader's Straights ○",
+        "iconid": 20011,
+        "id": 201312,
+        "jpdesc": "いずれかの直線のどこかで速度がわずかに上がる＜作戦・先行＞",
+        "jpname": "先行直線○",
+        "loc": {
+          "en": {
+            "char": [
+              101702,
+              102302,
+              101502,
+              101401,
+              104101
+            ],
+            "sup_e": [
+              [
+                30003,
+                30067,
+                30101,
+                30111,
+                20047
+              ],
+              [
+                10003
+              ]
+            ],
+            "sup_hint": [
+              [
+                30007,
+                30084,
+                30102,
+                30109,
+                30113,
+                30146,
+                20033,
+                20035,
+                20043,
+                20051
+              ],
+              [
+                10011,
+                10012,
+                10070,
+                10080
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              101702,
+              102302,
+              101502,
+              109301,
+              100303,
+              110901,
+              104702,
+              113301,
+              101401,
+              107301,
+              104101
+            ],
+            "char_e": [
+              107701,
+              104503,
+              107702,
+              111002
+            ],
+            "sup_e": [
+              [
+                30003,
+                30058,
+                30067,
+                30101,
+                30111,
+                30140,
+                30180,
+                30213,
+                20047,
+                20079
+              ],
+              [
+                10003
+              ]
+            ],
+            "sup_hint": [
+              [
+                30007,
+                30084,
+                30102,
+                30109,
+                30113,
+                30130,
+                30146,
+                30151,
+                30172,
+                30193,
+                30196,
+                30209,
+                30224,
+                30231,
+                30232,
+                30254,
+                20033,
+                20035,
+                20043,
+                20051
+              ],
+              [
+                10011,
+                10012,
+                10070,
+                10080,
+                10105,
+                10116
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              101702,
+              102302,
+              101502,
+              109301,
+              100303,
+              110901,
+              104702,
+              113301,
+              101401,
+              107301,
+              104101
+            ],
+            "char_e": [
+              107701,
+              104503,
+              107702,
+              111002
+            ],
+            "sup_e": [
+              [
+                30003,
+                30067,
+                30101,
+                30111,
+                30140,
+                30180,
+                30213,
+                20047,
+                20079
+              ],
+              [
+                10003
+              ]
+            ],
+            "sup_hint": [
+              [
+                30007,
+                30084,
+                30102,
+                30109,
+                30113,
+                30130,
+                30146,
+                30151,
+                30172,
+                30193,
+                30196,
+                30209,
+                30224,
+                30231,
+                30232,
+                30254,
+                20033,
+                20035,
+                20043,
+                20051
+              ],
+              [
+                10011,
+                10012,
+                10070,
+                10080,
+                10105,
+                10116
+              ]
+            ]
+          }
+        },
+        "name_en": "Pace Chaser Straightaways ○",
+        "name_ko": "선행 직선○",
+        "name_tw": "前列直線○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30003,
+            30058,
+            30067,
+            30101,
+            30111,
+            30140,
+            30180,
+            30213,
+            30275,
+            20047,
+            20079
+          ],
+          [
+            10003
+          ]
+        ],
+        "sup_hint": [
+          [
+            30007,
+            30084,
+            30102,
+            30109,
+            30113,
+            30130,
+            30146,
+            30151,
+            30172,
+            30193,
+            30196,
+            30209,
+            30224,
+            30231,
+            30232,
+            30254,
+            30275,
+            30311,
+            30319,
+            20033,
+            20035,
+            20043,
+            20051
+          ],
+          [
+            10011,
+            10012,
+            10070,
+            10080,
+            10105,
+            10116,
+            10146
+          ]
+        ],
+        "tid": "5p",
+        "type": [
+          "ldr",
+          "str"
+        ],
+        "versions": [
+          201311,
+          201313
+        ]
+      }
+    },
+    {
+      "skillId": "201322",
+      "nameJa": "先行コーナー○",
+      "nameKo": "선행 코너○",
+      "nameEn": "Pace Chaser Corners ○",
+      "displayName": "선행 코너○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 130,
+      "descriptionKo": "코너에서 속도가 약간 상승한다 ＜작전・선행＞",
+      "descriptionJa": "いずれかのコーナーのどこかで速度がわずかに上がる＜作戦・先行＞",
+      "descriptionEn": "Slightly increase velocity on a corner. (Pace Chaser)",
+      "iconId": 20011,
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&all_corner_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          101701,
+          101802,
+          104502,
+          107101,
+          107201,
+          103802,
+          101002,
+          102901,
+          104701,
+          102702,
+          106902,
+          107102,
+          103203,
+          111601,
+          107702,
+          109501,
+          107301
+        ],
+        "char_e": [
+          101702,
+          102201,
+          102202,
+          109902,
+          111601,
+          102303,
+          108602,
+          111602,
+          102203
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "running_style==2&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        ],
+        "cost": 130,
+        "desc_en": "Slightly increase velocity on a corner. (Pace Chaser)",
+        "desc_ko": "코너에서 속도가 약간 상승한다 ＜작전・선행＞",
+        "desc_tw": "在彎道速度略微上升＜作戰．前列＞",
+        "endesc": "Leader・At a random point on a random corner, your speed will slightly increase",
+        "enname": "Leader's Corners ○",
+        "iconid": 20011,
+        "id": 201322,
+        "jpdesc": "いずれかのコーナーのどこかで速度がわずかに上がる＜作戦・先行＞",
+        "jpname": "先行コーナー○",
+        "loc": {
+          "en": {
+            "char": [
+              101701,
+              101802,
+              104502,
+              107101,
+              107201,
+              103802,
+              101002,
+              102901,
+              104701
+            ],
+            "char_e": [
+              101702,
+              102201,
+              102202
+            ],
+            "sup_e": [
+              [
+                30071,
+                30079,
+                20017,
+                20022,
+                20033
+              ],
+              [
+                10045
+              ]
+            ],
+            "sup_hint": [
+              [
+                30018,
+                30082,
+                30093,
+                30100,
+                30101,
+                30109,
+                30111,
+                30119,
+                30146,
+                20027,
+                20034
+              ],
+              [
+                10041,
+                10069
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              101701,
+              101802,
+              104502,
+              107101,
+              107201,
+              103802,
+              101002,
+              102901,
+              104701,
+              102702,
+              106902,
+              107102,
+              103203,
+              111601,
+              107702,
+              107301
+            ],
+            "char_e": [
+              101702,
+              102201,
+              102202,
+              109902,
+              111601,
+              102303,
+              108602
+            ],
+            "sup_e": [
+              [
+                30071,
+                30079,
+                30140,
+                30230,
+                20017,
+                20022,
+                20033
+              ],
+              [
+                10045
+              ]
+            ],
+            "sup_hint": [
+              [
+                30018,
+                30082,
+                30093,
+                30100,
+                30101,
+                30109,
+                30111,
+                30119,
+                30146,
+                30159,
+                30161,
+                30219,
+                30224,
+                30234,
+                20027,
+                20034
+              ],
+              [
+                10041,
+                10069
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              101701,
+              101802,
+              104502,
+              107101,
+              107201,
+              103802,
+              101002,
+              102901,
+              104701,
+              102702,
+              106902,
+              107102,
+              103203,
+              111601,
+              107702,
+              107301
+            ],
+            "char_e": [
+              101702,
+              102201,
+              102202,
+              109902,
+              111601,
+              102303,
+              108602
+            ],
+            "sup_e": [
+              [
+                30071,
+                30079,
+                30140,
+                30230,
+                20017,
+                20022,
+                20033
+              ],
+              [
+                10045
+              ]
+            ],
+            "sup_hint": [
+              [
+                30018,
+                30082,
+                30093,
+                30100,
+                30101,
+                30109,
+                30111,
+                30119,
+                30146,
+                30159,
+                30161,
+                30219,
+                30224,
+                30234,
+                20027,
+                20034
+              ],
+              [
+                10041,
+                10069
+              ]
+            ]
+          }
+        },
+        "name_en": "Pace Chaser Corners ○",
+        "name_ko": "선행 코너○",
+        "name_tw": "前列彎道○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30071,
+            30079,
+            30140,
+            30230,
+            30304,
+            20017,
+            20022,
+            20033
+          ],
+          [
+            10045
+          ]
+        ],
+        "sup_hint": [
+          [
+            30018,
+            30082,
+            30093,
+            30100,
+            30101,
+            30109,
+            30111,
+            30119,
+            30146,
+            30159,
+            30161,
+            30219,
+            30224,
+            30234,
+            30259,
+            30275,
+            30299,
+            30311,
+            30319,
+            20027,
+            20034
+          ],
+          [
+            10041,
+            10069,
+            10129,
+            10146
+          ]
+        ],
+        "tid": "5r",
+        "type": [
+          "ldr",
+          "cor"
+        ],
+        "versions": [
+          201321,
+          201323
+        ]
+      }
+    },
+    {
+      "skillId": "201601",
+      "nameJa": "地固め",
+      "nameKo": "터다지기",
+      "nameEn": "Groundwork",
+      "displayName": "터다지기",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 100,
+      "descriptionKo": "레이스 초반에 스킬을 많이 발동하면 가속력이 약간 상승한다",
+      "descriptionJa": "レース序盤にスキルを3回発動すると加速力がわずかに上がる",
+      "descriptionEn": "Slightly increase acceleration after activating many skills early-race.",
+      "iconId": 20041,
+      "conditionGroups": [
+        {
+          "condition": "activate_count_start>=3",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          102602,
+          108701,
+          106802,
+          103102,
+          106402,
+          108001,
+          106502,
+          102403,
+          109001,
+          110902,
+          108002,
+          112402
+        ],
+        "char_e": [
+          104102,
+          110401,
+          100202,
+          112001,
+          110402,
+          109802
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        ],
+        "cost": 100,
+        "desc_en": "Slightly increase acceleration after activating many skills early-race.",
+        "desc_ko": "레이스 초반에 스킬을 많이 발동하면 가속력이 약간 상승한다",
+        "desc_tw": "在競賽初期若發動多個技能加速力會略微上升",
+        "endesc": "Slightly increase acceleration when many skills are activated during the Opening Leg",
+        "enname": "Groundwork",
+        "iconid": 20041,
+        "id": 201601,
+        "jpdesc": "レース序盤にスキルを3回発動すると加速力がわずかに上がる",
+        "jpname": "地固め",
+        "loc": {
+          "en": {
+            "char": [
+              102602,
+              108701,
+              106802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                20004,
+                20048,
+                20050
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              102602,
+              108701,
+              106802,
+              103102,
+              106402,
+              108001,
+              106502,
+              102403,
+              109001
+            ],
+            "char_e": [
+              104102,
+              110401,
+              100202,
+              112001,
+              110402,
+              109802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083,
+                30135,
+                30241
+              ],
+              [
+                10091
+              ]
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                30141,
+                30154,
+                30184,
+                30208,
+                30210,
+                30211,
+                30218,
+                30237,
+                30238,
+                30249,
+                30252,
+                30253,
+                20004,
+                20048,
+                20050,
+                20055
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025,
+                10087,
+                10125
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              102602,
+              108701,
+              106802,
+              103102,
+              106402,
+              108001,
+              106502,
+              102403,
+              109001
+            ],
+            "char_e": [
+              104102,
+              110401,
+              100202,
+              112001,
+              110402,
+              109802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083,
+                30135,
+                30241
+              ],
+              [
+                10091
+              ]
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                30141,
+                30154,
+                30184,
+                30208,
+                30210,
+                30211,
+                30218,
+                30237,
+                30238,
+                30249,
+                30252,
+                30253,
+                20004,
+                20048,
+                20050,
+                20055
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025,
+                10087,
+                10125
+              ]
+            ]
+          }
+        },
+        "name_en": "Groundwork",
+        "name_ko": "터다지기",
+        "name_tw": "打好基礎",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30017,
+            30083,
+            30135,
+            30241
+          ],
+          [
+            10091
+          ]
+        ],
+        "sup_hint": [
+          [
+            30004,
+            30024,
+            30057,
+            30107,
+            30115,
+            30141,
+            30154,
+            30184,
+            30208,
+            30210,
+            30211,
+            30218,
+            30237,
+            30238,
+            30249,
+            30252,
+            30253,
+            30264,
+            30277,
+            30284,
+            30288,
+            30289,
+            30307,
+            30322,
+            20004,
+            20048,
+            20050,
+            20055
+          ],
+          [
+            10005,
+            10006,
+            10013,
+            10025,
+            10087,
+            10125,
+            10132,
+            10140,
+            10145
+          ]
+        ],
+        "tid": "6h",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          201602
+        ]
+      }
+    },
+    {
+      "skillId": "201661",
+      "nameJa": "遊びはおしまいっ！",
+      "nameKo": "장난은 끝이야!",
+      "nameEn": "Playtime's Over!",
+      "displayName": "장난은 끝이야!",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 160,
+      "descriptionKo": "우마무스메가 바로 뒤에 오래 있으면 속도가 약간 상승한다",
+      "descriptionJa": "すぐ後ろにウマ娘が長くいると速度がわずかに上がる",
+      "descriptionEn": "Slightly increase velocity when followed by another runner directly behind for a long time.",
+      "iconId": 20011,
+      "conditionGroups": [
+        {
+          "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "cd": 300000,
+            "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          106401,
+          110201,
+          112401,
+          103103
+        ],
+        "char_e": [
+          107201,
+          103101,
+          101303,
+          103102,
+          110401,
+          107202,
+          110402,
+          103103,
+          113701,
+          110202
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "cd": 300000,
+            "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        ],
+        "cost": 160,
+        "desc_en": "Slightly increase velocity when followed by another runner directly behind for a long time.",
+        "desc_ko": "우마무스메가 바로 뒤에 오래 있으면 속도가 약간 상승한다",
+        "desc_tw": "若長時間被後方的賽馬娘緊跟速度會略微上升",
+        "endesc": "If another girl has been right behind you for at least 3 seconds, your speed will slightly increase",
+        "enname": "Playtime's Over!",
+        "iconid": 20011,
+        "id": 201661,
+        "jpdesc": "すぐ後ろにウマ娘が長くいると速度がわずかに上がる",
+        "jpname": "遊びはおしまいっ！",
+        "loc": {
+          "en": {
+            "char": [
+              106401
+            ],
+            "char_e": [
+              107201,
+              103101,
+              101303
+            ],
+            "sup_e": [
+              [
+                30032,
+                30068,
+                30070,
+                30091,
+                30112
+              ],
+              [
+                10083
+              ]
+            ],
+            "sup_hint": [
+              [
+                30011,
+                30107,
+                30115,
+                20030
+              ],
+              [
+                10035
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              106401,
+              110201,
+              112401,
+              103103
+            ],
+            "char_e": [
+              107201,
+              103101,
+              101303,
+              103102,
+              110401,
+              107202,
+              110402,
+              103103
+            ],
+            "sup_e": [
+              [
+                30032,
+                30068,
+                30070,
+                30091,
+                30112
+              ],
+              [
+                10083
+              ]
+            ],
+            "sup_hint": [
+              [
+                30011,
+                30107,
+                30115,
+                30154,
+                30173,
+                30175,
+                30187,
+                30209,
+                30215,
+                30219,
+                30222,
+                30227,
+                30235,
+                30249,
+                20030
+              ],
+              [
+                10035,
+                10096,
+                10098,
+                10103,
+                10110,
+                10125
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              106401,
+              110201,
+              112401
+            ],
+            "char_e": [
+              107201,
+              103101,
+              101303,
+              103102,
+              110401,
+              107202,
+              110402
+            ],
+            "sup_e": [
+              [
+                30032,
+                30068,
+                30070,
+                30091,
+                30112
+              ],
+              [
+                10083
+              ]
+            ],
+            "sup_hint": [
+              [
+                30011,
+                30107,
+                30115,
+                30154,
+                30173,
+                30175,
+                30187,
+                30209,
+                30215,
+                30219,
+                30222,
+                30227,
+                30235,
+                30249,
+                20030
+              ],
+              [
+                10035,
+                10096,
+                10098,
+                10103,
+                10110,
+                10125
+              ]
+            ]
+          }
+        },
+        "name_en": "Playtime's Over!",
+        "name_ko": "장난은 끝이야!",
+        "name_tw": "遊戲到此為止了！",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30032,
+            30068,
+            30070,
+            30091,
+            30112,
+            30305
+          ],
+          [
+            10083,
+            10138
+          ]
+        ],
+        "sup_hint": [
+          [
+            30011,
+            30107,
+            30115,
+            30154,
+            30173,
+            30175,
+            30187,
+            30209,
+            30215,
+            30219,
+            30222,
+            30227,
+            30235,
+            30249,
+            30267,
+            30272,
+            30273,
+            30289,
+            30294,
+            20030
+          ],
+          [
+            10035,
+            10096,
+            10098,
+            10103,
+            10110,
+            10125,
+            10135,
+            10140
+          ]
+        ],
+        "tid": "6n",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          201662
+        ]
+      }
+    },
+    {
+      "skillId": "202712",
+      "nameJa": "会心の一歩",
+      "nameKo": "회심의 한 걸음",
+      "nameEn": "Satisfying Pace",
+      "displayName": "회심의 한 걸음",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 180,
+      "descriptionKo": "종반의 최종 코너에서 중위권 그룹 이전에 있을 때 결승점이 멀면 가속력이 약간 상승한다＜선행/선입＞",
+      "descriptionJa": "終盤以降の最終コーナーで中団以前にいるときゴールまで遠いと加速力がわずかに上がる＜先行/差し＞",
+      "descriptionEn": "Leader/Betweener・If you're on the final corner in the Final Leg, you're not in the back of the pack, and there's at least 600 m remaining in the race, your acceleration will slightly increase",
+      "iconId": 20041,
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70@running_style==3&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70",
+          "precondition": null,
+          "baseTime": 9000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 9000,
+            "condition": "running_style==2&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70@running_style==3&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          107202,
+          104803,
+          100503,
+          114401,
+          101803
+        ],
+        "char_e": [
+          114101
+        ],
+        "condition_groups": [
+          {
+            "base_time": 9000,
+            "condition": "running_style==2&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70@running_style==3&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        ],
+        "cost": 180,
+        "desc_ko": "종반의 최종 코너에서 중위권 그룹 이전에 있을 때 결승점이 멀면 가속력이 약간 상승한다＜선행/선입＞",
+        "desc_tw": "在後期的最後彎道若位於隊列中段之前如距離終點尚遠則加速力略微上升＜前列/居中＞",
+        "endesc": "Leader/Betweener・If you're on the final corner in the Final Leg, you're not in the back of the pack, and there's at least 600 m remaining in the race, your acceleration will slightly increase",
+        "enname": "Satisfying Pace",
+        "iconid": 20041,
+        "id": 202712,
+        "jpdesc": "終盤以降の最終コーナーで中団以前にいるときゴールまで遠いと加速力がわずかに上がる＜先行/差し＞",
+        "jpname": "会心の一歩",
+        "loc": {
+          "ko": {
+            "char": [
+              107202
+            ],
+            "sup_e": [
+              [
+                30217,
+                30233
+              ],
+              [
+                10115
+              ]
+            ],
+            "sup_hint": [
+              [
+                30161,
+                30175,
+                30233,
+                30245
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              107202
+            ],
+            "sup_e": [
+              [
+                30217,
+                30233
+              ],
+              [
+                10115
+              ]
+            ],
+            "sup_hint": [
+              [
+                30161,
+                30175,
+                30233,
+                30245
+              ],
+              []
+            ]
+          }
+        },
+        "name_ko": "회심의 한 걸음",
+        "name_tw": "自信的一步",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30217,
+            30233
+          ],
+          [
+            10115
+          ]
+        ],
+        "sup_hint": [
+          [
+            30161,
+            30175,
+            30233,
+            30245,
+            30282,
+            30300
+          ],
+          []
+        ],
+        "tid": "i9",
+        "type": [
+          "ldr",
+          "l_2",
+          "l_3",
+          "f_c",
+          "cor",
+          "btw"
+        ],
+        "unreleased": [
+          "en"
+        ],
+        "versions": [
+          202711
+        ]
+      }
+    }
+  ],
+  "skillRevisions": [
+    {
+      "skillId": "200012",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "rotation==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200052",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "track_id==10009",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "track_id==10009",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200142",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "is_basis_distance==0",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "is_basis_distance==0",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200182",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "season==2",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "season==2",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200552",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==1&is_finalcorner_random==1&order==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==1&is_finalcorner_random==1&order==1",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201102",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201112",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&corner_random==1@distance_type==3&corner_random==2@distance_type==3&corner_random==3@distance_type==3&corner_random==4",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&corner_random==1@distance_type==3&corner_random==2@distance_type==3&corner_random==3@distance_type==3&corner_random==4",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201312",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201322",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&corner_random==1@running_style==2&corner_random==2@running_style==2&corner_random==3@running_style==2&corner_random==4",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&corner_random==1@running_style==2&corner_random==2@running_style==2&corner_random==3@running_style==2&corner_random==4",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201601",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "activate_count_start>=3",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201661",
+      "server": "KR-legacy-file",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "cd": 300000,
+            "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200012",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "rotation==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200052",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "track_id==10009",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "track_id==10009",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200142",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "is_basis_distance==0",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "is_basis_distance==0",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200182",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "season==2",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "season==2",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200552",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==1&is_finalcorner_random==1&order==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==1&is_finalcorner_random==1&order==1",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201102",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201112",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&all_corner_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201312",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201322",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&all_corner_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201601",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "activate_count_start>=3",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201661",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "cd": 300000,
+            "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "202712",
+      "server": "JP",
+      "snapshot": "observed-2026-11-05",
+      "status": "reference-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70@running_style==3&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70",
+          "precondition": null,
+          "baseTime": 9000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 9000,
+            "condition": "running_style==2&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70@running_style==3&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200012",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "rotation==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200052",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "track_id==10009",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "track_id==10009",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200142",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "is_basis_distance==0",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 2,
+              "value": 400000,
+              "raw": {
+                "type": 2,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "is_basis_distance==0",
+            "effects": [
+              {
+                "type": 2,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200182",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "season==2",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "season==2",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "200552",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==1&is_finalcorner_random==1&order==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==1&is_finalcorner_random==1&order==1",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201102",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201112",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "distance_type==3&all_corner_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "distance_type==3&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201312",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&straight_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&straight_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201322",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&all_corner_random==1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&all_corner_random==1",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201601",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "activate_count_start>=3",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "201661",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "cd": 300000,
+            "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    },
+    {
+      "skillId": "202712",
+      "server": "KR",
+      "snapshot": "observed-2026-11-05",
+      "status": "locale-root-fallback-no-effective-date",
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70@running_style==3&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70",
+          "precondition": null,
+          "baseTime": 9000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 9000,
+            "condition": "running_style==2&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70@running_style==3&phase>=2&is_finalcorner==1&corner!=0&remain_distance>=600&order_rate<=70",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "gt_current",
+      "url": "https://gametora.com/ko/umamusume",
+      "repository_commit": null,
+      "repository_updated_at": null,
+      "data_updated_at": null,
+      "verified_on": "2026-11-05",
+      "coverage": "Direct JP/KR skills, supports, events, tracks, release timelines",
+      "missing": "Official KR certification and historical patch effective dates",
+      "status": "secondary-current-observation"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30277.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30277-mihono-bourbon",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:01 GMT",
+  "etag": "\"44e8e7e833284a545fc09b43fb51200e\"",
+  "file": {
+    "path": "game-assets/supports/art/30277.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 78374,
+    "mimeType": "image/png",
+    "sha256": "6e4c0aa408cc8f981cb7273d1057e877ecee7a5146faf64bece898c259999606",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30277.png",
+    "sourceAssetId": "umamusume/supports/full/small/30277.png",
+    "sourceId": "gametora-media"
+  }
+}

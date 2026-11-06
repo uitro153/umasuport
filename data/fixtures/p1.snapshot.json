@@ -1,0 +1,2886 @@
+{
+  "schemaVersion": 1,
+  "snapshotId": "fixture-p1-2026-11-05",
+  "datasetVersion": "fixture.p1.1",
+  "generatedAt": "2026-11-05T00:00:00+09:00",
+  "kind": "fixture",
+  "sources": [
+    {
+      "sourceId": "source_fixture",
+      "title": "P0 구조 및 날짜 판정 검증용 가상 자료 — 실제 게임 데이터 아님",
+      "url": "https://example.invalid/uma/p0-fixture",
+      "accessedAt": "2026-11-04",
+      "evidence": "fixture"
+    },
+    {
+      "sourceId": "source_fixture_p1",
+      "title": "P1 계보·상성·적성 검증용 가상 규칙 및 자료 — 실제 게임 데이터 아님",
+      "url": "https://example.invalid/uma/p1-fixture",
+      "accessedAt": "2026-11-05",
+      "evidence": "fixture"
+    }
+  ],
+  "characters": [
+    {
+      "baseId": "character_demo_a",
+      "nameKo": "[가상] 캐릭터 가",
+      "nameJa": "[架空] キャラクターA",
+      "aliases": [
+        "가상가"
+      ],
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "baseId": "character_demo_b",
+      "nameKo": "[가상] 캐릭터 나",
+      "nameJa": "[架空] キャラクターB",
+      "aliases": [
+        "가상나"
+      ],
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "baseId": "character_demo_c",
+      "nameKo": "[가상] 캐릭터 다",
+      "nameJa": "[架空] キャラクターC",
+      "aliases": [
+        "가상다",
+        "테스트3"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_d",
+      "nameKo": "[가상] 캐릭터 라",
+      "nameJa": "[架空] キャラクターD",
+      "aliases": [
+        "가상라",
+        "테스트4"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_e",
+      "nameKo": "[가상] 캐릭터 마",
+      "nameJa": "[架空] キャラクターE",
+      "aliases": [
+        "가상마",
+        "테스트5"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_f",
+      "nameKo": "[가상] 캐릭터 바",
+      "nameJa": "[架空] キャラクターF",
+      "aliases": [
+        "가상바",
+        "테스트6"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_g",
+      "nameKo": "[가상] 캐릭터 사",
+      "nameJa": "[架空] キャラクターG",
+      "aliases": [
+        "가상사",
+        "테스트7"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_h",
+      "nameKo": "[가상] 캐릭터 아",
+      "nameJa": "[架空] キャラクターH",
+      "aliases": [
+        "가상아",
+        "테스트8"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_i",
+      "nameKo": "[가상] 캐릭터 자",
+      "nameJa": "[架空] キャラクターI",
+      "aliases": [
+        "가상자",
+        "테스트9"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_j",
+      "nameKo": "[가상] 캐릭터 차",
+      "nameJa": "[架空] キャラクターJ",
+      "aliases": [
+        "가상차",
+        "테스트10"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_k",
+      "nameKo": "[가상] 캐릭터 카",
+      "nameJa": "[架空] キャラクターK",
+      "aliases": [
+        "가상카",
+        "테스트11"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_l",
+      "nameKo": "[가상] 캐릭터 타",
+      "nameJa": "[架空] キャラクターL",
+      "aliases": [
+        "가상타",
+        "테스트12"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_m",
+      "nameKo": "[가상] 캐릭터 파",
+      "nameJa": "[架空] キャラクターM",
+      "aliases": [
+        "가상파",
+        "테스트13"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_n",
+      "nameKo": "[가상] 캐릭터 하",
+      "nameJa": "[架空] キャラクターN",
+      "aliases": [
+        "가상하",
+        "테스트14"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_o",
+      "nameKo": "[가상] 캐릭터 거",
+      "nameJa": "[架空] キャラクターO",
+      "aliases": [
+        "가상거",
+        "테스트15"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_p",
+      "nameKo": "[가상] 캐릭터 너",
+      "nameJa": "[架空] キャラクターP",
+      "aliases": [
+        "가상너",
+        "테스트16"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_q",
+      "nameKo": "[가상] 캐릭터 더",
+      "nameJa": "[架空] キャラクターQ",
+      "aliases": [
+        "가상더",
+        "테스트17"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_r",
+      "nameKo": "[가상] 캐릭터 러",
+      "nameJa": "[架空] キャラクターR",
+      "aliases": [
+        "가상러",
+        "테스트18"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_s",
+      "nameKo": "[가상] 캐릭터 머",
+      "nameJa": "[架空] キャラクターS",
+      "aliases": [
+        "가상머",
+        "테스트19"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "baseId": "character_demo_t",
+      "nameKo": "[가상] 캐릭터 버",
+      "nameJa": "[架空] キャラクターT",
+      "aliases": [
+        "가상버",
+        "테스트20"
+      ],
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    }
+  ],
+  "costumes": [
+    {
+      "costumeId": "costume_demo_a_default",
+      "baseId": "character_demo_a",
+      "nameKo": "[가상] 캐릭터 가 · 기본 의상",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "E",
+        "mile": "B",
+        "medium": "A",
+        "long": "C",
+        "front": "D",
+        "pace": "A",
+        "late": "B",
+        "end": "G"
+      },
+      "releaseRef": "release_costume_a_default",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_a_alternate",
+      "baseId": "character_demo_a",
+      "nameKo": "[가상] 캐릭터 가 · 대체 의상",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "F",
+        "sprint": "D",
+        "mile": "A",
+        "medium": "B",
+        "long": "D",
+        "front": "A",
+        "pace": "B",
+        "late": "C",
+        "end": "F"
+      },
+      "releaseRef": "release_costume_a_alternate",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_b_default",
+      "baseId": "character_demo_b",
+      "nameKo": "[가상] 캐릭터 나 · 기본 의상",
+      "aptitudes": {
+        "turf": "B",
+        "dirt": "A",
+        "sprint": "A",
+        "mile": "A",
+        "medium": "D",
+        "long": "G",
+        "front": "C",
+        "pace": "A",
+        "late": "D",
+        "end": "E"
+      },
+      "releaseRef": "release_costume_b_default",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_c_default",
+      "baseId": "character_demo_c",
+      "nameKo": "[가상] 캐릭터 다 · 기본 의상",
+      "releaseRef": "release_costume_c_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "B",
+        "medium": "A",
+        "long": "C",
+        "front": "D",
+        "pace": "C",
+        "late": "A",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_d_default",
+      "baseId": "character_demo_d",
+      "nameKo": "[가상] 캐릭터 라 · 기본 의상",
+      "releaseRef": "release_costume_d_default",
+      "aptitudes": {
+        "turf": "B",
+        "dirt": "G",
+        "sprint": "A",
+        "mile": "A",
+        "medium": "A",
+        "long": "G",
+        "front": "D",
+        "pace": "C",
+        "late": "B",
+        "end": "A"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_e_default",
+      "baseId": "character_demo_e",
+      "nameKo": "[가상] 캐릭터 마 · 기본 의상",
+      "releaseRef": "release_costume_e_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "B",
+        "sprint": "D",
+        "mile": "B",
+        "medium": "B",
+        "long": "C",
+        "front": "A",
+        "pace": "C",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_f_default",
+      "baseId": "character_demo_f",
+      "nameKo": "[가상] 캐릭터 바 · 기본 의상",
+      "releaseRef": "release_costume_f_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "A",
+        "medium": "A",
+        "long": "G",
+        "front": "D",
+        "pace": "A",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_g_default",
+      "baseId": "character_demo_g",
+      "nameKo": "[가상] 캐릭터 사 · 기본 의상",
+      "releaseRef": "release_costume_g_default",
+      "aptitudes": {
+        "turf": "B",
+        "dirt": "G",
+        "sprint": "A",
+        "mile": "B",
+        "medium": "A",
+        "long": "C",
+        "front": "D",
+        "pace": "C",
+        "late": "A",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_h_default",
+      "baseId": "character_demo_h",
+      "nameKo": "[가상] 캐릭터 아 · 기본 의상",
+      "releaseRef": "release_costume_h_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "A",
+        "medium": "B",
+        "long": "G",
+        "front": "D",
+        "pace": "C",
+        "late": "B",
+        "end": "A"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_i_default",
+      "baseId": "character_demo_i",
+      "nameKo": "[가상] 캐릭터 자 · 기본 의상",
+      "releaseRef": "release_costume_i_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "B",
+        "sprint": "D",
+        "mile": "B",
+        "medium": "A",
+        "long": "C",
+        "front": "A",
+        "pace": "C",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_j_default",
+      "baseId": "character_demo_j",
+      "nameKo": "[가상] 캐릭터 차 · 기본 의상",
+      "releaseRef": "release_costume_j_default",
+      "aptitudes": {
+        "turf": "B",
+        "dirt": "G",
+        "sprint": "A",
+        "mile": "A",
+        "medium": "A",
+        "long": "G",
+        "front": "D",
+        "pace": "A",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_k_default",
+      "baseId": "character_demo_k",
+      "nameKo": "[가상] 캐릭터 카 · 기본 의상",
+      "releaseRef": "release_costume_k_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "B",
+        "medium": "B",
+        "long": "C",
+        "front": "D",
+        "pace": "C",
+        "late": "A",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_l_default",
+      "baseId": "character_demo_l",
+      "nameKo": "[가상] 캐릭터 타 · 기본 의상",
+      "releaseRef": "release_costume_l_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "A",
+        "medium": "A",
+        "long": "G",
+        "front": "D",
+        "pace": "C",
+        "late": "B",
+        "end": "A"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_m_default",
+      "baseId": "character_demo_m",
+      "nameKo": "[가상] 캐릭터 파 · 기본 의상",
+      "releaseRef": "release_costume_m_default",
+      "aptitudes": {
+        "turf": "B",
+        "dirt": "B",
+        "sprint": "A",
+        "mile": "B",
+        "medium": "A",
+        "long": "C",
+        "front": "A",
+        "pace": "C",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_n_default",
+      "baseId": "character_demo_n",
+      "nameKo": "[가상] 캐릭터 하 · 기본 의상",
+      "releaseRef": "release_costume_n_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "A",
+        "medium": "B",
+        "long": "G",
+        "front": "D",
+        "pace": "A",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_o_default",
+      "baseId": "character_demo_o",
+      "nameKo": "[가상] 캐릭터 거 · 기본 의상",
+      "releaseRef": "release_costume_o_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "B",
+        "medium": "A",
+        "long": "C",
+        "front": "D",
+        "pace": "C",
+        "late": "A",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_p_default",
+      "baseId": "character_demo_p",
+      "nameKo": "[가상] 캐릭터 너 · 기본 의상",
+      "releaseRef": "release_costume_p_default",
+      "aptitudes": {
+        "turf": "B",
+        "dirt": "G",
+        "sprint": "A",
+        "mile": "A",
+        "medium": "A",
+        "long": "G",
+        "front": "D",
+        "pace": "C",
+        "late": "B",
+        "end": "A"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_q_default",
+      "baseId": "character_demo_q",
+      "nameKo": "[가상] 캐릭터 더 · 기본 의상",
+      "releaseRef": "release_costume_q_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "B",
+        "sprint": "D",
+        "mile": "B",
+        "medium": "B",
+        "long": "C",
+        "front": "A",
+        "pace": "C",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_r_default",
+      "baseId": "character_demo_r",
+      "nameKo": "[가상] 캐릭터 러 · 기본 의상",
+      "releaseRef": "release_costume_r_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "A",
+        "medium": "A",
+        "long": "G",
+        "front": "D",
+        "pace": "A",
+        "late": "B",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_s_default",
+      "baseId": "character_demo_s",
+      "nameKo": "[가상] 캐릭터 머 · 기본 의상",
+      "releaseRef": "release_costume_s_default",
+      "aptitudes": {
+        "turf": "B",
+        "dirt": "G",
+        "sprint": "A",
+        "mile": "B",
+        "medium": "A",
+        "long": "C",
+        "front": "D",
+        "pace": "C",
+        "late": "A",
+        "end": "E"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "costumeId": "costume_demo_t_default",
+      "baseId": "character_demo_t",
+      "nameKo": "[가상] 캐릭터 버 · 기본 의상",
+      "releaseRef": "release_costume_t_default",
+      "aptitudes": {
+        "turf": "A",
+        "dirt": "G",
+        "sprint": "D",
+        "mile": "A",
+        "medium": "B",
+        "long": "G",
+        "front": "D",
+        "pace": "C",
+        "late": "B",
+        "end": "A"
+      },
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    }
+  ],
+  "supports": [
+    {
+      "supportId": "support_demo_current",
+      "ownerBaseId": "character_demo_a",
+      "nameKo": "[가상] 현재 출시 카드",
+      "rarity": "SR",
+      "type": "speed",
+      "skills": [
+        {
+          "skillId": "skill_demo_white_a",
+          "path": "hint",
+          "sourceIds": [
+            "source_fixture"
+          ]
+        },
+        {
+          "skillId": "skill_demo_white_b",
+          "path": "event",
+          "sourceIds": [
+            "source_fixture"
+          ]
+        },
+        {
+          "skillId": "skill_demo_gold_a",
+          "path": "gold",
+          "lowerSkillId": "skill_demo_white_a",
+          "sourceIds": [
+            "source_fixture"
+          ]
+        }
+      ],
+      "releaseRef": "release_support_current",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "supportId": "support_demo_confirmed_future",
+      "ownerBaseId": "character_demo_b",
+      "nameKo": "[가상] 미래 확정 카드",
+      "rarity": "SSR",
+      "type": "stamina",
+      "skills": [
+        {
+          "skillId": "skill_demo_white_a",
+          "path": "hint",
+          "sourceIds": [
+            "source_fixture"
+          ]
+        }
+      ],
+      "releaseRef": "release_support_confirmed_future",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "supportId": "support_demo_forecast_included",
+      "ownerBaseId": "character_demo_a",
+      "nameKo": "[가상] 대회 전 미래시 카드",
+      "rarity": "SSR",
+      "type": "wisdom",
+      "skills": [
+        {
+          "skillId": "skill_demo_white_b",
+          "path": "event",
+          "sourceIds": [
+            "source_fixture"
+          ]
+        }
+      ],
+      "releaseRef": "release_support_forecast_included",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "supportId": "support_demo_forecast_excluded",
+      "ownerBaseId": "character_demo_b",
+      "nameKo": "[가상] 대회 후 미래시 카드",
+      "rarity": "SR",
+      "type": "power",
+      "skills": [
+        {
+          "skillId": "skill_demo_white_a",
+          "path": "hint",
+          "sourceIds": [
+            "source_fixture"
+          ]
+        }
+      ],
+      "releaseRef": "release_support_forecast_excluded",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "supportId": "support_demo_kr_unknown",
+      "ownerBaseId": "character_demo_a",
+      "nameKo": "[가상] 한국 일정 미확인 카드",
+      "rarity": "R",
+      "type": "guts",
+      "skills": [],
+      "releaseRef": "release_support_kr_unknown",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "skill_demo_white_a",
+      "nameKo": "[가상] 힌트 경로 스킬",
+      "nameJa": "[架空] ヒントスキル",
+      "costPt": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "skillId": "skill_demo_white_b",
+      "nameKo": "[가상] 이벤트 경로 스킬",
+      "nameJa": "[架空] イベントスキル",
+      "costPt": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "skillId": "skill_demo_gold_a",
+      "nameKo": "[가상] 하위 연결 금색 스킬",
+      "nameJa": "[架空] 上位スキル",
+      "costPt": null,
+      "lowerSkillId": "skill_demo_white_a",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "courseId": "course_demo_2200",
+      "nameKo": "[가상] 우회전 2200m 코스",
+      "distanceM": 2200,
+      "surface": "turf",
+      "direction": "right",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "scenarioId": "scenario_demo",
+      "nameKo": "[가상] 테스트 시나리오",
+      "releaseRef": "release_scenario_demo",
+      "linkedSupportIds": [
+        "support_demo_current"
+      ],
+      "sourceIds": [
+        "source_fixture"
+      ]
+    }
+  ],
+  "tournaments": [
+    {
+      "eventId": "event_demo_future",
+      "nameKo": "[가상] 2027년 2월 예상 대회",
+      "type": "champions-meeting",
+      "courseId": "course_demo_2200",
+      "startAt": "2027-02-10T12:00:00+09:00",
+      "dateStatus": "forecast",
+      "conditions": {
+        "season": "winter",
+        "weather": "unknown",
+        "trackCondition": "unknown"
+      },
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "eventId": "event_demo_past",
+      "nameKo": "[가상] 2026년 10월 확정 대회",
+      "type": "league-of-heroes",
+      "courseId": "course_demo_2200",
+      "startAt": "2026-10-20T12:00:00+09:00",
+      "dateStatus": "confirmed",
+      "conditions": {
+        "season": "autumn",
+        "weather": "sunny",
+        "trackCondition": "firm"
+      },
+      "sourceIds": [
+        "source_fixture"
+      ]
+    }
+  ],
+  "releases": [
+    {
+      "releaseId": "release_costume_a_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_a_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_costume_a_alternate",
+      "entityType": "costume",
+      "entityId": "costume_demo_a_alternate",
+      "jpDate": "2025-02-01",
+      "krConfirmedDate": "2026-02-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_costume_b_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_b_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_support_current",
+      "entityType": "support",
+      "entityId": "support_demo_current",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-10-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_support_confirmed_future",
+      "entityType": "support",
+      "entityId": "support_demo_confirmed_future",
+      "jpDate": "2025-02-01",
+      "krConfirmedDate": "2027-01-15",
+      "krForecastDate": "2027-01-05",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_support_forecast_included",
+      "entityType": "support",
+      "entityId": "support_demo_forecast_included",
+      "jpDate": "2025-03-01",
+      "krConfirmedDate": null,
+      "krForecastDate": "2027-01-20",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_support_forecast_excluded",
+      "entityType": "support",
+      "entityId": "support_demo_forecast_excluded",
+      "jpDate": "2025-04-01",
+      "krConfirmedDate": null,
+      "krForecastDate": "2027-03-01",
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_support_kr_unknown",
+      "entityType": "support",
+      "entityId": "support_demo_kr_unknown",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": null,
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_scenario_demo",
+      "entityType": "scenario",
+      "entityId": "scenario_demo",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture"
+      ]
+    },
+    {
+      "releaseId": "release_costume_c_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_c_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_d_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_d_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_e_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_e_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_f_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_f_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_g_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_g_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_h_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_h_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_i_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_i_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_j_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_j_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_k_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_k_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_l_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_l_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_m_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_m_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_n_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_n_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_o_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_o_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_p_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_p_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_q_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_q_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": "2026-01-01",
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_r_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_r_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": null,
+      "krForecastDate": "2027-01-20",
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_s_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_s_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": null,
+      "krForecastDate": "2027-03-01",
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "releaseId": "release_costume_t_default",
+      "entityType": "costume",
+      "entityId": "costume_demo_t_default",
+      "jpDate": "2025-01-01",
+      "krConfirmedDate": null,
+      "krForecastDate": null,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    }
+  ],
+  "affinities": [
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_a",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_b",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_c",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_d",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_e",
+      "baseValue": 33,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_f",
+      "baseValue": 14,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_g",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_h",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_i",
+      "baseValue": 30,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_j",
+      "baseValue": 11,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_k",
+      "baseValue": 23,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_l",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_m",
+      "baseValue": 27,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_n",
+      "baseValue": 8,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_o",
+      "baseValue": 20,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_p",
+      "baseValue": 32,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_q",
+      "baseValue": 24,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_r",
+      "baseValue": 5,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_s",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_a",
+      "bBaseId": "character_demo_t",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_b",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_c",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_d",
+      "baseValue": 8,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_e",
+      "baseValue": 20,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_f",
+      "baseValue": 32,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_g",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_h",
+      "baseValue": 5,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_i",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_j",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_k",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_l",
+      "baseValue": 33,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_m",
+      "baseValue": 14,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_n",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_o",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_p",
+      "baseValue": 30,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_q",
+      "baseValue": 11,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_r",
+      "baseValue": 23,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_s",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_b",
+      "bBaseId": "character_demo_t",
+      "baseValue": 27,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_c",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_d",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_e",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_f",
+      "baseValue": 19,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_g",
+      "baseValue": 11,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_h",
+      "baseValue": 23,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_i",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_j",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_k",
+      "baseValue": 8,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_l",
+      "baseValue": 20,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_m",
+      "baseValue": 32,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_n",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_o",
+      "baseValue": 5,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_p",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_q",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_r",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_s",
+      "baseValue": 33,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_c",
+      "bBaseId": "character_demo_t",
+      "baseValue": 14,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_d",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_e",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_f",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_g",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_h",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_i",
+      "baseValue": 22,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_j",
+      "baseValue": 14,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_k",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_l",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_m",
+      "baseValue": 19,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_n",
+      "baseValue": 11,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_o",
+      "baseValue": 23,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_p",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_q",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_r",
+      "baseValue": 8,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_s",
+      "baseValue": 20,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_d",
+      "bBaseId": "character_demo_t",
+      "baseValue": 32,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_e",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_f",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_g",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_h",
+      "baseValue": 28,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_i",
+      "baseValue": 20,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_j",
+      "baseValue": 32,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_k",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_l",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_m",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_n",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_o",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_p",
+      "baseValue": 22,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_q",
+      "baseValue": 14,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_r",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_s",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_e",
+      "bBaseId": "character_demo_t",
+      "baseValue": 19,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_f",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_g",
+      "baseValue": 34,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_h",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_i",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_j",
+      "baseValue": 19,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_k",
+      "baseValue": 31,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_l",
+      "baseValue": 23,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_m",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_n",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_o",
+      "baseValue": 28,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_p",
+      "baseValue": 20,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_q",
+      "baseValue": 32,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_r",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_s",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_f",
+      "bBaseId": "character_demo_t",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_g",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_h",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_i",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_j",
+      "baseValue": 6,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_k",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_l",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_m",
+      "baseValue": 22,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_n",
+      "baseValue": 34,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_o",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_p",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_q",
+      "baseValue": 19,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_r",
+      "baseValue": 31,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_s",
+      "baseValue": 23,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_g",
+      "bBaseId": "character_demo_t",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_h",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_i",
+      "baseValue": 12,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_j",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_k",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_l",
+      "baseValue": 28,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_m",
+      "baseValue": 9,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_n",
+      "baseValue": 32,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_o",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_p",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_q",
+      "baseValue": 6,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_r",
+      "baseValue": 29,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_s",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_h",
+      "bBaseId": "character_demo_t",
+      "baseValue": 22,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_i",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_j",
+      "baseValue": 22,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_k",
+      "baseValue": 34,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_l",
+      "baseValue": 15,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_m",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_n",
+      "baseValue": 19,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_o",
+      "baseValue": 31,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_p",
+      "baseValue": 12,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_q",
+      "baseValue": 35,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_r",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_s",
+      "baseValue": 28,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_i",
+      "bBaseId": "character_demo_t",
+      "baseValue": 9,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_j",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_k",
+      "baseValue": 21,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_l",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_m",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_n",
+      "baseValue": 6,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_o",
+      "baseValue": 18,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_p",
+      "baseValue": 10,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_q",
+      "baseValue": 22,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_r",
+      "baseValue": 34,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_s",
+      "baseValue": 15,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_j",
+      "bBaseId": "character_demo_t",
+      "baseValue": 7,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_k",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_l",
+      "baseValue": 31,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_m",
+      "baseValue": 12,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_n",
+      "baseValue": 24,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_o",
+      "baseValue": 16,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_p",
+      "baseValue": 28,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_q",
+      "baseValue": 9,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_r",
+      "baseValue": 21,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_s",
+      "baseValue": 13,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_k",
+      "bBaseId": "character_demo_t",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_l",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_m",
+      "baseValue": 30,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_n",
+      "baseValue": 22,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_o",
+      "baseValue": 34,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_p",
+      "baseValue": 15,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_q",
+      "baseValue": 27,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_r",
+      "baseValue": 19,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_s",
+      "baseValue": 31,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_l",
+      "bBaseId": "character_demo_t",
+      "baseValue": 12,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_m",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_n",
+      "baseValue": 9,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_o",
+      "baseValue": 21,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_p",
+      "baseValue": 33,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_q",
+      "baseValue": 25,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_r",
+      "baseValue": 6,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_s",
+      "baseValue": 18,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_m",
+      "bBaseId": "character_demo_t",
+      "baseValue": 30,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_n",
+      "bBaseId": "character_demo_n",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_n",
+      "bBaseId": "character_demo_o",
+      "baseValue": 8,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_n",
+      "bBaseId": "character_demo_p",
+      "baseValue": 31,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_n",
+      "bBaseId": "character_demo_q",
+      "baseValue": 12,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_n",
+      "bBaseId": "character_demo_r",
+      "baseValue": 24,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_n",
+      "bBaseId": "character_demo_s",
+      "baseValue": 5,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_n",
+      "bBaseId": "character_demo_t",
+      "baseValue": 28,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_o",
+      "bBaseId": "character_demo_o",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_o",
+      "bBaseId": "character_demo_p",
+      "baseValue": 18,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_o",
+      "bBaseId": "character_demo_q",
+      "baseValue": 30,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_o",
+      "bBaseId": "character_demo_r",
+      "baseValue": 11,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_o",
+      "bBaseId": "character_demo_s",
+      "baseValue": 34,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_o",
+      "bBaseId": "character_demo_t",
+      "baseValue": 15,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_p",
+      "bBaseId": "character_demo_p",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_p",
+      "bBaseId": "character_demo_q",
+      "baseValue": 17,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_p",
+      "bBaseId": "character_demo_r",
+      "baseValue": 9,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_p",
+      "bBaseId": "character_demo_s",
+      "baseValue": 21,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_p",
+      "bBaseId": "character_demo_t",
+      "baseValue": 33,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_q",
+      "bBaseId": "character_demo_q",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_q",
+      "bBaseId": "character_demo_r",
+      "baseValue": 27,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_q",
+      "bBaseId": "character_demo_s",
+      "baseValue": 8,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_q",
+      "bBaseId": "character_demo_t",
+      "baseValue": 20,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_r",
+      "bBaseId": "character_demo_r",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_r",
+      "bBaseId": "character_demo_s",
+      "baseValue": 26,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_r",
+      "bBaseId": "character_demo_t",
+      "baseValue": 18,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_s",
+      "bBaseId": "character_demo_s",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_s",
+      "bBaseId": "character_demo_t",
+      "baseValue": 5,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    },
+    {
+      "aBaseId": "character_demo_t",
+      "bBaseId": "character_demo_t",
+      "baseValue": 0,
+      "sourceIds": [
+        "source_fixture_p1"
+      ]
+    }
+  ],
+  "assets": []
+}

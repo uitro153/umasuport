@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30204.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30204-seiun-sky",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:47 GMT",
+  "etag": "\"803529988f99bab2c2fd9071bef1debb\"",
+  "file": {
+    "path": "game-assets/supports/art/30204.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 88545,
+    "mimeType": "image/png",
+    "sha256": "dc343e31565740f36b19faaaa898e85bb577ae1143750afa93453c01d7367a5f",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30204.png",
+    "sourceAssetId": "umamusume/supports/full/small/30204.png",
+    "sourceId": "gametora-media"
+  }
+}

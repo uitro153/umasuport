@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30093.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30093-daiwa-scarlet",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:26 GMT",
+  "etag": "\"497652c93927855ee8ba108aad62c194\"",
+  "file": {
+    "path": "game-assets/supports/art/30093.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 79781,
+    "mimeType": "image/png",
+    "sha256": "ea8b2fae6f80f4eb733bbac9c0f41e06acaa4d39af3dd5cfa6e5362b2185272c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30093.png",
+    "sourceAssetId": "umamusume/supports/full/small/30093.png",
+    "sourceId": "gametora-media"
+  }
+}

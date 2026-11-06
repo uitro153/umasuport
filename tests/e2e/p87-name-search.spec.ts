@@ -1,0 +1,27 @@
+import { expect, test } from '@playwright/test';
+test('사용자 검색은 캐릭터·카드·스킬 이름만 사용하고 DB ID로는 찾지 않는다', async ({ page }) => {
+  test.setTimeout(90000);
+  await page.goto('/'); await page.getByTestId('p86-edit-parentA').click();
+  const gallery = page.getByRole('dialog', { name: '부모 A 선택', exact: true });
+  const characterSearch = gallery.getByLabel('캐릭터·의상·별칭 검색', { exact: true });
+  await characterSearch.fill('100101'); await expect(gallery.locator('.candidate-button')).toHaveCount(0);
+  await characterSearch.fill('스페셜 위크'); await expect(gallery.getByTestId('ref-candidate-100101')).toBeVisible();
+  await gallery.getByTestId('ref-candidate-100101').click();
+  await page.getByTestId('p86-toggle-lineage').click();
+  await expect(page.getByTestId('p873-mob')).toHaveCount(24);
+  await expect(page.locator('[data-testid^="p86-edit-ancestor"]')).toHaveCount(0);
+  await page.getByRole('button', { name: '스킬·서포트 분석', exact: true }).click();
+  await page.getByRole('button', { name: '서포트 1 선택', exact: true }).click();
+  const cards = page.getByRole('dialog', { name: '서포트 1 선택', exact: true }); const cardSearch = cards.getByLabel('서포트 카드명 검색', { exact: true });
+  await cardSearch.fill('30010'); await expect(cards.getByTestId('support-candidate-30010')).toHaveCount(0);
+  await cardSearch.fill('파인 모션'); await expect(cards.getByTestId('support-candidate-30010')).toBeVisible();
+  await cards.getByTestId('support-candidate-30010').click();
+  const priorities = page.getByTestId('p6-priority-settings').first(); const skillSearch = priorities.getByLabel('우선순위 스킬명 검색', { exact: true });
+  await skillSearch.fill('201601'); await expect(priorities.getByTestId('p6-skill-201601')).toHaveCount(0);
+  await skillSearch.fill('터다지기'); await expect(priorities.getByTestId('p6-skill-201601')).toBeVisible();
+  await page.getByLabel('한국 출시 미확인 스킬 연구 검토 포함', { exact: true }).check();
+  await page.locator('#skills-list-view').selectOption('all');
+  await page.locator('#skills-search').fill('200012'); await expect(page.getByTestId('skill-result-200012')).toHaveCount(0);
+  await page.locator('#skills-search').fill('시계(우) 방향'); await expect(page.getByTestId('skill-result-200012')).toBeVisible();
+  await expect(page.locator('body')).not.toContainText(/이름·ID|별칭·ID|스킬 이름·ID|ID로 구분/);
+});

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30126.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30126-yamanin-zephyr",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:32 GMT",
+  "etag": "\"ee1d98c13741e409969e5c909044bff3\"",
+  "file": {
+    "path": "game-assets/supports/art/30126.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 90202,
+    "mimeType": "image/png",
+    "sha256": "ba8600d35b9b2d050dc0ef98f0dd30a986ed85aa96762afdbe1cc217c6f39077",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30126.png",
+    "sourceAssetId": "umamusume/supports/full/small/30126.png",
+    "sourceId": "gametora-media"
+  }
+}

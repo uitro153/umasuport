@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10143.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10143-victoire-pisa",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:49 GMT",
+  "etag": "\"d589ac43c48e75ba464051b85c5b80c1\"",
+  "file": {
+    "path": "game-assets/supports/art/10143.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 66931,
+    "mimeType": "image/png",
+    "sha256": "c0880f5fd3f3cfd5c83872c41d74c54b7c09642737bbdfdaa0e9a1b1982fece8",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10143.png",
+    "sourceAssetId": "umamusume/supports/full/small/10143.png",
+    "sourceId": "gametora-media"
+  }
+}

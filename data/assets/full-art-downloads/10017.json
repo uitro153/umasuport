@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10017.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10017-gold-city",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:26 GMT",
+  "etag": "\"434a7f08937e2908cc128f1381312832\"",
+  "file": {
+    "path": "game-assets/supports/art/10017.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 73317,
+    "mimeType": "image/png",
+    "sha256": "223882f233286fc1f9ccb6754c70c367a8026b9c08e89665b18fc55c671ae1a0",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10017.png",
+    "sourceAssetId": "umamusume/supports/full/small/10017.png",
+    "sourceId": "gametora-media"
+  }
+}

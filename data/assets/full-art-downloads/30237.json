@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30237.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30237-curren-chan",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:53 GMT",
+  "etag": "\"85134b11b57774f49809a2d675fa2ce7\"",
+  "file": {
+    "path": "game-assets/supports/art/30237.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 80080,
+    "mimeType": "image/png",
+    "sha256": "9cf4a033c924b5021825847d6de533f38ce922dd7b947fbebdbe46cb65d1f6f3",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30237.png",
+    "sourceAssetId": "umamusume/supports/full/small/30237.png",
+    "sourceId": "gametora-media"
+  }
+}

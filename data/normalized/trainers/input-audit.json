@@ -1,0 +1,266 @@
+{
+  "bytes": 17207453,
+  "sha256": "99d9e98c6704149ace186655dda2b5c30abf979b64e4788b9254afd61b2b2781",
+  "counts": {
+    "people": 172,
+    "costumes": 272,
+    "supports": 405,
+    "skills": 1852,
+    "conditions": 0,
+    "events": 10359,
+    "commonEvents": 2331,
+    "distinctEventPayloads": 4904
+  },
+  "duplicates": {
+    "umamusume": [],
+    "cards": [],
+    "skills": []
+  },
+  "issues": [],
+  "missingNames": {
+    "umamusume": {
+      "ko": 0,
+      "ja": 0
+    },
+    "cards": {
+      "ko": 0,
+      "ja": 0
+    },
+    "skills": {
+      "ko": 110,
+      "ja": 0
+    }
+  },
+  "missingSkillConditions": 1475,
+  "emptySkillEffects": 0,
+  "groupSupports": [
+    {
+      "id": 220,
+      "name": {
+        "ko": "팀<시리우스>",
+        "ja": "チーム＜シリウス＞"
+      }
+    },
+    {
+      "id": 235,
+      "name": {
+        "ko": "옥좌에 모인 자들",
+        "ja": "玉座に集いし者たち"
+      }
+    },
+    {
+      "id": 315,
+      "name": {
+        "ko": "시조이자 인도하는 자",
+        "ja": "祖にして導く者"
+      }
+    },
+    {
+      "id": 401,
+      "name": {
+        "ko": "계속 새겨나가는 자들",
+        "ja": "刻み続ける者たち"
+      }
+    },
+    {
+      "id": 519,
+      "name": {
+        "ko": "전설을 구현한 자",
+        "ja": "伝説の体現者"
+      }
+    }
+  ],
+  "fieldPresence": {
+    "umamusume": {
+      "name": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "imageSrc": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "cards": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "id": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      }
+    },
+    "cards": {
+      "star": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "name": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "targetID": {
+        "absent": 0,
+        "null": 5,
+        "blank": 0
+      },
+      "imageSrc": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "type": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "supportType": {
+        "absent": 0,
+        "null": 0,
+        "blank": 272
+      },
+      "playable": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "limited": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "status": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "bonus": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "uniqueSkillsIds": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "trainingSkillsIds": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "hasSkillsIds": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "events": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "id": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "trainingObjects": {
+        "absent": 0,
+        "null": 20,
+        "blank": 0
+      },
+      "baseSkillsIds": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "awakeningSkillsIds": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "originalEffect": {
+        "absent": 2,
+        "null": 151,
+        "blank": 0
+      },
+      "bonusEffectTable": {
+        "absent": 3,
+        "null": 148,
+        "blank": 0
+      },
+      "hiddenTitle": {
+        "absent": 3,
+        "null": 204,
+        "blank": 0
+      },
+      "specialSkillsIds": {
+        "absent": 3,
+        "null": 0,
+        "blank": 0
+      },
+      "evolutionSkillsIds": {
+        "absent": 89,
+        "null": 0,
+        "blank": 0
+      },
+      "skills": {
+        "absent": 609,
+        "null": 0,
+        "blank": 0
+      },
+      "targetIDs": {
+        "absent": 675,
+        "null": 0,
+        "blank": 0
+      }
+    },
+    "skills": {
+      "name": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "targetIDs": {
+        "absent": 1581,
+        "null": 0,
+        "blank": 0
+      },
+      "effect": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "imageSrc": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "tags": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "condition": {
+        "absent": 2,
+        "null": 7,
+        "blank": 1466
+      },
+      "id": {
+        "absent": 0,
+        "null": 0,
+        "blank": 0
+      },
+      "evolutionConditions": {
+        "absent": 570,
+        "null": 0,
+        "blank": 0
+      }
+    }
+  }
+}

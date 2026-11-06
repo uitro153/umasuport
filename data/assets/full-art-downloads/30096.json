@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30096.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30096-kawakami-princess",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:26 GMT",
+  "etag": "\"471cb1d85d822311c5ad7197654f0b8a\"",
+  "file": {
+    "path": "game-assets/supports/art/30096.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 80048,
+    "mimeType": "image/png",
+    "sha256": "9a1cdf655464ce02df915c6654eacd659f59cb8805fc5bc25fd9c174cb832f44",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30096.png",
+    "sourceAssetId": "umamusume/supports/full/small/30096.png",
+    "sourceId": "gametora-media"
+  }
+}

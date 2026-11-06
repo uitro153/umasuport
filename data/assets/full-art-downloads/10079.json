@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10079.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10079-daiichi-ruby",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:38 GMT",
+  "etag": "\"f18430aa6ed3fe83833c52bd54b947dd\"",
+  "file": {
+    "path": "game-assets/supports/art/10079.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 58874,
+    "mimeType": "image/png",
+    "sha256": "6e6df0ddbf4a15563725b0d6e85ac887b85074fc05164b13aa54f2b69ff32650",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10079.png",
+    "sourceAssetId": "umamusume/supports/full/small/10079.png",
+    "sourceId": "gametora-media"
+  }
+}

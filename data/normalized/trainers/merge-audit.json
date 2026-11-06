@@ -1,0 +1,18 @@
+{
+  "sourceId": "trainers-2026-10-30",
+  "labelChanges": 168,
+  "skillLabels": 164,
+  "supportLabels": 2,
+  "personLabels": 1,
+  "preservedKrApplicationsSha256": "0f9d5dc6a9b58f4733ebe661b07a9fac097289fdd6a89a53c08d09e6dba27c6f",
+  "preservedEffectAndCostSha256": "45d16e6b89109844cec6b7de4446d653fe69e559f8ea87e6bfff88d02f1b9997",
+  "preservedLineageApplications": true,
+  "newEventNarratives": 3027,
+  "commonEventNarratives": 1469,
+  "newSourceUnspecifiedEventRoutes": 1060,
+  "newUniqueSourceUnspecifiedEventPairs": 4,
+  "newKrConfirmedHintRoutes": 0,
+  "newKrConfirmedEventRoutes": 0,
+  "newGoldLowerRelations": 0,
+  "unresolvedQuotedRewards": 978
+}

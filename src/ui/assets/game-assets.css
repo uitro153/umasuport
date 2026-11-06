@@ -1,0 +1,25 @@
+.game-asset{display:inline-flex;flex:none;align-items:center;justify-content:center;overflow:hidden;background:var(--theme-bg-edf2f4,#edf2f4);border:1px solid var(--theme-line-d8e2e5,#d8e2e5);border-radius:8px;vertical-align:middle}
+.game-asset img{display:block;width:100%;height:100%;object-fit:contain}
+.game-asset-costume{width:64px;height:64px;aspect-ratio:1}
+.game-asset-support{width:64px;height:86px}
+.game-asset-fallback{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3px;color:var(--theme-fg-5b6d78,#5b6d78);font-size:10px;line-height:1.45;text-align:center;overflow-wrap:anywhere}
+.game-asset-fallback small{font-size:10px}
+.game-asset-costume .game-asset-fallback>span{font-size:11px}
+.reference-slot .game-asset-costume{width:74px;height:74px}
+.candidate-button .game-asset-costume{width:62px;height:62px}
+.lineage-node-card .game-asset-costume{width:52px;height:52px}
+.lineage-node-card .lineage-character-button{display:flex;align-items:center;gap:10px;text-align:left}
+.lineage-character-copy{display:flex;flex-direction:column;gap:6px;min-width:0;overflow-wrap:anywhere}
+.lineage-character-copy strong{font-size:13px}
+.lineage-character-copy small{font-size:11px;color:var(--muted,var(--theme-fg-526575,#526575))}
+.p85-node-heading{display:flex;align-items:center;gap:12px;margin:14px 0}
+.p85-node-heading>div{min-width:0;overflow-wrap:anywhere}
+.p85-node-heading h3{margin:0 0 5px}
+.p85-node-heading p{margin:0;color:var(--muted,var(--theme-fg-526575,#526575))}
+.p85-planning-editor{margin-top:20px;padding-top:18px;border-top:1px solid var(--line,var(--theme-line-dce4e8,#dce4e8))}
+.p85-planning-editor .panel{margin:16px 0}
+.p85-planning-editor .p7-lineage-panel{scroll-margin-top:16px}
+.p85-plan-intro{color:var(--muted,var(--theme-fg-526575,#526575));line-height:1.7}
+.p85-instance-action{font-size:12px;padding:6px 10px;margin-top:8px}
+.p85-tournament-history{font-size:12px;color:var(--muted,var(--theme-fg-526575,#526575));margin-top:6px}
+@media(max-width:600px){.game-asset-costume{width:56px;height:56px}.reference-slot .game-asset-costume{width:64px;height:64px}.game-asset-support{width:58px;height:78px}.p85-node-heading{align-items:flex-start}}

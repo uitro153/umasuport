@@ -1,0 +1,1857 @@
+[
+  {
+    "skillId": "114301211",
+    "trainersId": "1675",
+    "nameKo": "어두운 밤의 등불",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "120411",
+    "trainersId": "1676",
+    "nameKo": "벚꽃 눈보라치는 스프린트 버스트",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204312",
+    "trainersId": "1677",
+    "nameKo": "압도하는 기세",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "104103111",
+    "trainersId": "1678",
+    "nameKo": "초속×신뢰=초돌진!!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "104103211",
+    "trainersId": "1679",
+    "nameKo": "맹진, 벚꽃 눈보라와 같이",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "110821",
+    "trainersId": "1680",
+    "nameKo": "반짝이고 화려한 애로 라인",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "108202111",
+    "trainersId": "1681",
+    "nameKo": "유려한 급추격",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "108202211",
+    "trainersId": "1682",
+    "nameKo": "봄바람, 창공을 달리다",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204322",
+    "trainersId": "1683",
+    "nameKo": "아훔의 호흡",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204262",
+    "trainersId": "1684",
+    "nameKo": "별의 반짝임",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "109802221",
+    "trainersId": "1685",
+    "nameKo": "운수가 풀리는 드럼 롤",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101301",
+    "trainersId": "1686",
+    "nameKo": "피어나는 화려한 존재",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "113001111",
+    "trainersId": "1687",
+    "nameKo": "보랏빛 향기 피어오르니",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "113001211",
+    "trainersId": "1688",
+    "nameKo": "안개를 걷어내는 화려한 존재",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204272",
+    "trainersId": "1689",
+    "nameKo": "급선회",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204282",
+    "trainersId": "1690",
+    "nameKo": "맹렬한 푸시",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204271",
+    "trainersId": "1691",
+    "nameKo": "장인의 스티어링",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204311",
+    "trainersId": "1692",
+    "nameKo": "압도",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "101181",
+    "trainersId": "1693",
+    "nameKo": "아득히 먼 far north",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "111801111",
+    "trainersId": "1694",
+    "nameKo": "설백빙자",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "111801211",
+    "trainersId": "1695",
+    "nameKo": "비할 바 없는 눈꽃",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "110941",
+    "trainersId": "1696",
+    "nameKo": "황혼의 혈맹",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "109402111",
+    "trainersId": "1698",
+    "nameKo": "기합의 337 박자!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "109402211",
+    "trainersId": "1699",
+    "nameKo": " '최강'의 불꽃",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "100503111",
+    "trainersId": "1701",
+    "nameKo": "울려라, 우레와 같은 갈채여",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "100503211",
+    "trainersId": "1702",
+    "nameKo": "광휘를 발하는 건 하얀 왕",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204362",
+    "trainersId": "1703",
+    "nameKo": " 화려한 싸움",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204372",
+    "trainersId": "1704",
+    "nameKo": "흐름에 맡긴 채",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204351",
+    "trainersId": "1705",
+    "nameKo": "일기당천",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204342",
+    "trainersId": "1706",
+    "nameKo": "탄력을 받아서",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "203401",
+    "trainersId": "1707",
+    "nameKo": "비룡승운",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "112001121",
+    "trainersId": "1708",
+    "nameKo": "기광일신! ",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204352",
+    "trainersId": "1709",
+    "nameKo": "용기를 내어",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204332",
+    "trainersId": "1713",
+    "nameKo": "성실한 주행",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204331",
+    "trainersId": "1714",
+    "nameKo": "꾸준함은 힘이 된다",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "101361",
+    "trainersId": "1715",
+    "nameKo": "무구한 기도・홀리 라이트",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204453",
+    "trainersId": "1716",
+    "nameKo": "성녀의 도전",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "204452",
+    "trainersId": "1717",
+    "nameKo": "성녀의 시련",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "203321",
+    "trainersId": "1718",
+    "nameKo": "내려앉는 날개",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "113601111",
+    "trainersId": "1719",
+    "nameKo": "각성한 성녀",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "113601211",
+    "trainersId": "1720",
+    "nameKo": "하늘이 내려준 은총",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "120251",
+    "trainersId": "1721",
+    "nameKo": "망설여질 때도, 초라해질 때도",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204432",
+    "trainersId": "1722",
+    "nameKo": "그림자보다 빠르게",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204442",
+    "trainersId": "1723",
+    "nameKo": "꼬리 쫓기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204431",
+    "trainersId": "1724",
+    "nameKo": "절진",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "102503111",
+    "trainersId": "1725",
+    "nameKo": "초현실 체험",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "102503211",
+    "trainersId": "1726",
+    "nameKo": "이 세상 것이 아닌 듯한",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "111161",
+    "trainersId": "1727",
+    "nameKo": "시들지 않는 Cattleya",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "111602111",
+    "trainersId": "1728",
+    "nameKo": "...자, 춤춰 볼까요",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "111602211",
+    "trainersId": "1729",
+    "nameKo": "최강 숙녀의 긍지",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204462",
+    "trainersId": "1730",
+    "nameKo": "이제 나의 길로!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204171",
+    "trainersId": "1731",
+    "nameKo": "원기 발랄",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204382",
+    "trainersId": "1733",
+    "nameKo": "빛을 발휘하여",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "203561",
+    "trainersId": "1734",
+    "nameKo": "목숨을 바쳐서",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204381",
+    "trainersId": "1735",
+    "nameKo": "광휘 찬연",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "100301311",
+    "trainersId": "1736",
+    "nameKo": "황제를 뛰어넘어",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "100101311",
+    "trainersId": "1737",
+    "nameKo": "강습의 런 ",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101341",
+    "trainersId": "1738",
+    "nameKo": "언젠가 당신에게 피어날 플로라",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "113401111",
+    "trainersId": "1739",
+    "nameKo": "흐드러지게 피는 꽃길",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "113401211",
+    "trainersId": "1740",
+    "nameKo": "마음을 묶어, 앞으로",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "210391",
+    "trainersId": "1749",
+    "nameKo": "최고의 감사를!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "414011",
+    "trainersId": "1751",
+    "nameKo": "딱딱하게, 음식 나왔습니다!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "414041",
+    "trainersId": "1752",
+    "nameKo": "물털기 묘기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "414031",
+    "trainersId": "1753",
+    "nameKo": "면의 극의, 찾아냈다",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "414021",
+    "trainersId": "1755",
+    "nameKo": "차분히 준비한 한 그릇",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "120771",
+    "trainersId": "1756",
+    "nameKo": "전력 한 그릇, 전해드릴게요!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "107703111",
+    "trainersId": "1757",
+    "nameKo": "김이 오르는 승부의 길",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "107703211",
+    "trainersId": "1758",
+    "nameKo": "자, 개점이에요",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204392",
+    "trainersId": "1759",
+    "nameKo": "능숙한 숨돌리기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204472",
+    "trainersId": "1760",
+    "nameKo": "분발하는 마음",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "203641",
+    "trainersId": "1761",
+    "nameKo": "서광",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204391",
+    "trainersId": "1762",
+    "nameKo": "유유자적",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "111701121",
+    "trainersId": "1763",
+    "nameKo": "개선가를 위한 프레파라시옹",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "120221",
+    "trainersId": "1764",
+    "nameKo": "유려한 일직선 질주! 라멘의 길",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "102203111",
+    "trainersId": "1765",
+    "nameKo": "면 추가 한 그릇, 주문 받았습니다♪",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "102203211",
+    "trainersId": "1766",
+    "nameKo": "최고로 뜨끈뜨끈하게! 나왔습니다!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101451",
+    "trainersId": "1767",
+    "nameKo": "으뜸 택틱스",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "114501111",
+    "trainersId": "1768",
+    "nameKo": "교묘한 갬빗",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "114501211",
+    "trainersId": "1769",
+    "nameKo": "강습 트릭",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "120741",
+    "trainersId": "1770",
+    "nameKo": "잔잔한 저녁의 리트리트・메모리",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "107403111",
+    "trainersId": "1771",
+    "nameKo": "해변의 술래잡기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "107403211",
+    "trainersId": "1772",
+    "nameKo": "훈풍이 전해주는 루드베키아",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "120201",
+    "trainersId": "1773",
+    "nameKo": "바닷바람에 느긋하게 몸을 맡기고",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204562",
+    "trainersId": "1774",
+    "nameKo": "승부 감각",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204541",
+    "trainersId": "1775",
+    "nameKo": "선봉장",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "102003111",
+    "trainersId": "1776",
+    "nameKo": "빈둥빈둥 de 바캉스♪",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "102003211",
+    "trainersId": "1777",
+    "nameKo": "여름바람 프론트 러너",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204482",
+    "trainersId": "1778",
+    "nameKo": "붓 가는 대로",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204492",
+    "trainersId": "1779",
+    "nameKo": "포인트맨",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204481",
+    "trainersId": "1780",
+    "nameKo": "레이스 메이커",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204502",
+    "trainersId": "1781",
+    "nameKo": "더블 액셀",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204501",
+    "trainersId": "1782",
+    "nameKo": " 일석이조",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "107002121",
+    "trainersId": "1784",
+    "nameKo": "모든 것을 불태우는 별",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "100201311",
+    "trainersId": "1785",
+    "nameKo": "나만의 세계",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204542",
+    "trainersId": "1786",
+    "nameKo": "선도자",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204552",
+    "trainersId": "1787",
+    "nameKo": "비장의 수법",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "111131",
+    "trainersId": "1788",
+    "nameKo": "물가의 Venus Time♡",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204412",
+    "trainersId": "1789",
+    "nameKo": "걱정 없음",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "111302111",
+    "trainersId": "1790",
+    "nameKo": "너무 사랑받아서 진짜 미안♡",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "111302211",
+    "trainersId": "1791",
+    "nameKo": "숨길 생각도 없는 재능",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "105003221",
+    "trainersId": "1792",
+    "nameKo": "불굴의 Rebellion",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101411",
+    "trainersId": "1793",
+    "nameKo": "빛나라! 터져라! 초신성 폭발! ",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204512",
+    "trainersId": "1794",
+    "nameKo": "존재감",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204511",
+    "trainersId": "1795",
+    "nameKo": "초연",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "114101111",
+    "trainersId": "1796",
+    "nameKo": "성분광천",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "114101211",
+    "trainersId": "1797",
+    "nameKo": "천의의 저편",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "114101221",
+    "trainersId": "1798",
+    "nameKo": "영원의 하늘 끝",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204522",
+    "trainersId": "1799",
+    "nameKo": "해류의 틈새를 포착해서",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204632",
+    "trainersId": "1800",
+    "nameKo": "펼쳐지는 풍경",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204642",
+    "trainersId": "1801",
+    "nameKo": "나의 발걸음",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204521",
+    "trainersId": "1802",
+    "nameKo": "당기입단",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204572",
+    "trainersId": "1803",
+    "nameKo": "그저 그 너머로",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204702",
+    "trainersId": "1804",
+    "nameKo": "뚫고 나가는 달리기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204532",
+    "trainersId": "1805",
+    "nameKo": "화려한 파고들기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204701",
+    "trainersId": "1806",
+    "nameKo": "소질의 증명",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204531",
+    "trainersId": "1807",
+    "nameKo": "청려고아",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204571",
+    "trainersId": "1808",
+    "nameKo": "순진무구",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "110431",
+    "trainersId": "1809",
+    "nameKo": "최고의 공포! 장난 계획인 거다♪",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "104302111",
+    "trainersId": "1810",
+    "nameKo": "Rascal・Romp! ",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "104302211",
+    "trainersId": "1811",
+    "nameKo": "악당의 대탈주",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "111271",
+    "trainersId": "1812",
+    "nameKo": "강심철벽 가디언",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "112702111",
+    "trainersId": "1813",
+    "nameKo": "형사의 정석, 무섭게 압박하기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "112702211",
+    "trainersId": "1814",
+    "nameKo": "마무리로 가츠동",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204661",
+    "trainersId": "1815",
+    "nameKo": "열려라 풍혈!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204662",
+    "trainersId": "1816",
+    "nameKo": "모래먼지를 넘어서",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204671",
+    "trainersId": "1817",
+    "nameKo": "견인과결",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204682",
+    "trainersId": "1818",
+    "nameKo": "활기찬 폭발",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204672",
+    "trainersId": "1819",
+    "nameKo": "지금이 기회",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "101491",
+    "trainersId": "1820",
+    "nameKo": "세차게 피어나다",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204692",
+    "trainersId": "1821",
+    "nameKo": "마주서기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204691",
+    "trainersId": "1822",
+    "nameKo": "검발노장",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "114901111",
+    "trainersId": "1823",
+    "nameKo": "묘기・내리덮치기",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "114901211",
+    "trainersId": "1824",
+    "nameKo": "가까이 오면 베겠다!",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204711",
+    "trainersId": "1825",
+    "nameKo": "우렁찬 함성 한 번",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "106902221",
+    "trainersId": "1827",
+    "nameKo": "벚꽃 피는 때는 지금…! ",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204712",
+    "trainersId": "1828",
+    "nameKo": "기세를 올려서",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "101401311",
+    "trainersId": "1829",
+    "nameKo": "괴조는 날아간다",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101441",
+    "trainersId": "1830",
+    "nameKo": "에파누이스망의 대호령",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101803111",
+    "trainersId": "1834",
+    "nameKo": " '목표'에 걸맞게 되기 위해",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101803211",
+    "trainersId": "1835",
+    "nameKo": "숭고한 아마란투스",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204792",
+    "trainersId": "1837",
+    "nameKo": "놀고 싶은 기분",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "101703111",
+    "trainersId": "1838",
+    "nameKo": "큰 소망은 반짝임이 되어",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "101703211",
+    "trainersId": "1839",
+    "nameKo": "열렬 준엄",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204722",
+    "trainersId": "1840",
+    "nameKo": "겁먹지 않고",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204721",
+    "trainersId": "1841",
+    "nameKo": "꿋꿋하게 앞으로",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "111081",
+    "trainersId": "1842",
+    "nameKo": "그리하여 깃든 피는 깨어나고",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204802",
+    "trainersId": "1843",
+    "nameKo": "규격 외",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204801",
+    "trainersId": "1844",
+    "nameKo": "발산개세",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "110802111",
+    "trainersId": "1845",
+    "nameKo": "마족의 시간, 다가왔노라",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "110802211",
+    "trainersId": "1846",
+    "nameKo": "먹어치우고, 먹어치워도",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204812",
+    "trainersId": "1847",
+    "nameKo": "호를 그리며",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204811",
+    "trainersId": "1848",
+    "nameKo": "나선의 엑스퍼트",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "210402",
+    "trainersId": "1850",
+    "nameKo": "저편에서 부르는 소리",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "210401",
+    "trainersId": "1851",
+    "nameKo": "이름에 걸맞은 꿈",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese"
+    ]
+  },
+  {
+    "skillId": "120091",
+    "trainersId": "1852",
+    "nameKo": "궁극의 활솜씨",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204892",
+    "trainersId": "1853",
+    "nameKo": "마음먹은 대로",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "100903111",
+    "trainersId": "1854",
+    "nameKo": "신의 시대에도 듣지 못한 이 위업",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "100903211",
+    "trainersId": "1855",
+    "nameKo": "봐 주시길, 다홍빛 질풍",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "native-or-evolution-owner-agreement"
+    ]
+  },
+  {
+    "skillId": "204732",
+    "trainersId": "1856",
+    "nameKo": "소홀함 없음",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204742",
+    "trainersId": "1857",
+    "nameKo": "직감력",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204752",
+    "trainersId": "1858",
+    "nameKo": "주도권",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204731",
+    "trainersId": "1860",
+    "nameKo": "기지",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204741",
+    "trainersId": "1861",
+    "nameKo": "희대의 재치",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  },
+  {
+    "skillId": "204751",
+    "trainersId": "1862",
+    "nameKo": "어드밴티지",
+    "sourceId": "trainers-2026-10-30",
+    "status": "cross-dataset-identity-verified-translation-not-official",
+    "evidence": [
+      "exact-normalized-Japanese",
+      "independent-U-tools-ID-and-Japanese",
+      "icon-family-and-rarity-consistent-with-exact-bilingual-seeds"
+    ]
+  }
+]

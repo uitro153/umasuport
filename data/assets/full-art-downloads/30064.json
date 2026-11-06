@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30064.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30064-tamamo-cross",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:20 GMT",
+  "etag": "\"f8e84769c0ba0cbe9d9357ad93af1301\"",
+  "file": {
+    "path": "game-assets/supports/art/30064.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 89942,
+    "mimeType": "image/png",
+    "sha256": "da0a0610ebf2a0d1c80114554a218ce053eeef98dfa58779704993b8b39417d6",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30064.png",
+    "sourceAssetId": "umamusume/supports/full/small/30064.png",
+    "sourceId": "gametora-media"
+  }
+}

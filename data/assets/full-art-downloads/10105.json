@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10105.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10105-cheval-grand",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:43 GMT",
+  "etag": "\"63d655ce30f607891f2d1579f455ff1f\"",
+  "file": {
+    "path": "game-assets/supports/art/10105.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 54305,
+    "mimeType": "image/png",
+    "sha256": "1a7e8a80946c62cfddc487e95571569b24420d5d7ef33be96ded2034248f2be4",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10105.png",
+    "sourceAssetId": "umamusume/supports/full/small/10105.png",
+    "sourceId": "gametora-media"
+  }
+}

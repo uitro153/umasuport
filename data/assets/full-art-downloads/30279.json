@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30279.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30279-fenomeno",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:02 GMT",
+  "etag": "\"492237e491d22128f17e4ec3c03fdf44\"",
+  "file": {
+    "path": "game-assets/supports/art/30279.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84060,
+    "mimeType": "image/png",
+    "sha256": "80bf6834d9b874301373279d6ff4da99274d64b20a6920999f0a5f69cd31de4d",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30279.png",
+    "sourceAssetId": "umamusume/supports/full/small/30279.png",
+    "sourceId": "gametora-media"
+  }
+}

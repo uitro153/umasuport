@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30171.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30171-haru-urara",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:41 GMT",
+  "etag": "\"01fc92925329f7a49545edb833bdcd4e\"",
+  "file": {
+    "path": "game-assets/supports/art/30171.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 75101,
+    "mimeType": "image/png",
+    "sha256": "76d16bee79f3fc4b681005e475f869051a0f2e43b8137aa2bdc01cd38e69fa7a",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30171.png",
+    "sourceAssetId": "umamusume/supports/full/small/30171.png",
+    "sourceId": "gametora-media"
+  }
+}

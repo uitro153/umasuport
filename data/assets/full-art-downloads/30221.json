@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30221.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30221-satono-diamond",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:50 GMT",
+  "etag": "\"31962a0691e4228908d90a05bb259e56\"",
+  "file": {
+    "path": "game-assets/supports/art/30221.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 69768,
+    "mimeType": "image/png",
+    "sha256": "e65bc8b34b76a7d1a1b7eb796c4799d5d62720a7d9a1f23636ee7be5d275047b",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30221.png",
+    "sourceAssetId": "umamusume/supports/full/small/30221.png",
+    "sourceId": "gametora-media"
+  }
+}

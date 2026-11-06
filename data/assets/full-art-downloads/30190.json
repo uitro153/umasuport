@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30190.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30190-duramente",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:44 GMT",
+  "etag": "\"ba5c777fffe517abd07c39ca5c68c584\"",
+  "file": {
+    "path": "game-assets/supports/art/30190.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 73968,
+    "mimeType": "image/png",
+    "sha256": "11dfc2d91463e1c4876b5d6d809af9139d3bcc71ee86a0cf9e216f986e67dc67",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30190.png",
+    "sourceAssetId": "umamusume/supports/full/small/30190.png",
+    "sourceId": "gametora-media"
+  }
+}

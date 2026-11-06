@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20020.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20020-king-halo",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:53 GMT",
+  "etag": "\"104a6e4a6db3c41a1567d472fde6b313\"",
+  "file": {
+    "path": "game-assets/supports/art/20020.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 67466,
+    "mimeType": "image/png",
+    "sha256": "fcc0876a3167f72fd16df60fa6561383a856f9db6410957b6630df4f59897ab1",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20020.png",
+    "sourceAssetId": "umamusume/supports/full/small/20020.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30157.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30157-manhattan-cafe",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:38 GMT",
+  "etag": "\"f5c1ae315be78d9e02a64965ce243d44\"",
+  "file": {
+    "path": "game-assets/supports/art/30157.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83855,
+    "mimeType": "image/png",
+    "sha256": "3dbb6d76ae6ce7d660332844441ffb043f7db053b9cdb7db2f937a4a9ec824b5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30157.png",
+    "sourceAssetId": "umamusume/supports/full/small/30157.png",
+    "sourceId": "gametora-media"
+  }
+}

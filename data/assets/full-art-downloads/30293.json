@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30293.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30293-daring-tact",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:05 GMT",
+  "etag": "\"5d985812205a130d82e22fc717bb2ac5\"",
+  "file": {
+    "path": "game-assets/supports/art/30293.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84870,
+    "mimeType": "image/png",
+    "sha256": "8c4acab052cb30abb84d6a94c5cb70791edccb2d6fb8d83694b3e12768bee491",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30293.png",
+    "sourceAssetId": "umamusume/supports/full/small/30293.png",
+    "sourceId": "gametora-media"
+  }
+}

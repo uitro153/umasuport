@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10075.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10075-admire-vega",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:37 GMT",
+  "etag": "\"fac864f8ef350c026c0985eb8fbe9dc9\"",
+  "file": {
+    "path": "game-assets/supports/art/10075.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 54062,
+    "mimeType": "image/png",
+    "sha256": "6c13c4c912ed68fdec76bdfeb0bdd79570048cd1012cd1315bed18b6d095621a",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10075.png",
+    "sourceAssetId": "umamusume/supports/full/small/10075.png",
+    "sourceId": "gametora-media"
+  }
+}

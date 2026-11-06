@@ -1,0 +1,173 @@
+{
+  "version": "ver.4.9.1",
+  "versionDate": "2025-07-08",
+  "workbookSha256": "22a2e0b7892f58c4c132d2f706b7eefecf95a7a2ac48b2361c99fffae81191d8",
+  "sheetCounts": [
+    {
+      "name": "main",
+      "cells": 555,
+      "formulas": 206
+    },
+    {
+      "name": "sim1",
+      "cells": 8136,
+      "formulas": 1761
+    },
+    {
+      "name": "sim2",
+      "cells": 12558,
+      "formulas": 2092
+    },
+    {
+      "name": "db",
+      "cells": 1909,
+      "formulas": 443
+    },
+    {
+      "name": "レース場db",
+      "cells": 3526,
+      "formulas": 44
+    },
+    {
+      "name": "text",
+      "cells": 94,
+      "formulas": 0
+    },
+    {
+      "name": "test",
+      "cells": 61,
+      "formulas": 11
+    }
+  ],
+  "titleCell": {
+    "sheet": "main",
+    "cell": "B2",
+    "value": "ウマ娘スキルシミュレーターver.4.9.1",
+    "formula": null
+  },
+  "versionCells": {
+    "sheet": "text",
+    "version": {
+      "cell": "A20",
+      "value": "ver.4.9.1",
+      "formula": null
+    },
+    "date": {
+      "cell": "C20",
+      "value": "45846.0",
+      "formula": null
+    },
+    "changes": {
+      "cell": "D20",
+      "value": "目標速度が最低速度を下回る不具合、測定基準地点に入力エラーがある場合v-tグラフが表示されない不具合の修正",
+      "formula": null
+    }
+  },
+  "sourceInputs": [
+    {
+      "sheet": "main",
+      "cell": "C10",
+      "value": "1850.0",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "G10",
+      "value": "1700.0",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "K10",
+      "value": "1600.0",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "D14",
+      "value": "S",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "H14",
+      "value": "A",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "L14",
+      "value": "絶好調",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "D16",
+      "value": "先行",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "I16",
+      "value": "最大",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "C20",
+      "value": "阪神",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "G20",
+      "value": "芝2200m(内)",
+      "formula": null
+    },
+    {
+      "sheet": "main",
+      "cell": "K20",
+      "value": "稍重",
+      "formula": null
+    }
+  ],
+  "outputCells": [
+    {
+      "sheet": "main",
+      "cell": "L26",
+      "value": "0",
+      "formula": "round(('sim1'!M91-'sim1'!M90+'sim1'!M93)*S21/2.5,3)"
+    },
+    {
+      "sheet": "main",
+      "cell": "R26",
+      "value": "0.00m",
+      "formula": "text(round(('sim1'!M91-'sim1'!M90+'sim1'!M93)*S21,2),\"0.00\")&\"m\""
+    },
+    {
+      "sheet": "main",
+      "cell": "L31",
+      "value": "106.243s",
+      "formula": "text(round('sim1'!M90,3),\"0.000\")&\"s\""
+    },
+    {
+      "sheet": "main",
+      "cell": "O31",
+      "value": "106.243s",
+      "formula": "text(round('sim1'!M91,3),\"0.000\")&\"s\""
+    },
+    {
+      "sheet": "main",
+      "cell": "R31",
+      "value": "0.000s",
+      "formula": "text(round('sim1'!M91-'sim1'!M90,3),\"0.000\")&\"s\""
+    }
+  ],
+  "status": "read-only-formula-and-cached-value-inspection-not-a-new-simulation",
+  "currentKrPatchVerified": false,
+  "warnings": [
+    "Version date predates the 2026-11-05 target. Do not certify current KR behavior from version number alone.",
+    "No workbook cell was changed and no new simulation was executed.",
+    "Cached values are not sample-based activation/effectiveness rates."
+  ]
+}

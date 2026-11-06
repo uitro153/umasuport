@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10093.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10093-wonder-acute",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:40 GMT",
+  "etag": "\"0a79001434ae1b5719073644af5d7896\"",
+  "file": {
+    "path": "game-assets/supports/art/10093.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 65511,
+    "mimeType": "image/png",
+    "sha256": "6b5f8b741f3c4dbc31ecacc0984ab2dc180d67faf49396af96537b6c52b07f63",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10093.png",
+    "sourceAssetId": "umamusume/supports/full/small/10093.png",
+    "sourceId": "gametora-media"
+  }
+}

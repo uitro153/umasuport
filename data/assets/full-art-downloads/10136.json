@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10136.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10136-durandal",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:48 GMT",
+  "etag": "\"c32dd62094c17731c6c77a5782f65bcd\"",
+  "file": {
+    "path": "game-assets/supports/art/10136.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 63880,
+    "mimeType": "image/png",
+    "sha256": "007b7efc69ab92070115a13be34507e996cee0f41543a2827ca67a7227567562",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10136.png",
+    "sourceAssetId": "umamusume/supports/full/small/10136.png",
+    "sourceId": "gametora-media"
+  }
+}

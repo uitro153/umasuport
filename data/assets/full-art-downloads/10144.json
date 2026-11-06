@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10144.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10144-marche-lorraine",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:49 GMT",
+  "etag": "\"18621d3cf214bf1b14f412892fc9ea3e\"",
+  "file": {
+    "path": "game-assets/supports/art/10144.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 56202,
+    "mimeType": "image/png",
+    "sha256": "1d7e71e44cd984aa2c4d82829025c4f2d920874b617364bd988cb2db90b1bb63",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10144.png",
+    "sourceAssetId": "umamusume/supports/full/small/10144.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10126.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10126-curren-bouquetdor",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:46 GMT",
+  "etag": "\"6251dd015075d6adddd674d63c590943\"",
+  "file": {
+    "path": "game-assets/supports/art/10126.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 66365,
+    "mimeType": "image/png",
+    "sha256": "ada65374ee7520167fbbb0d1801cd93e7dfece9f2a11a60d849a04c53d8c7807",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10126.png",
+    "sourceAssetId": "umamusume/supports/full/small/10126.png",
+    "sourceId": "gametora-media"
+  }
+}

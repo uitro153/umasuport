@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30298.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30298-tap-dance-city",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:06 GMT",
+  "etag": "\"744b69ff288974a364e88b4e9712fbea\"",
+  "file": {
+    "path": "game-assets/supports/art/30298.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81817,
+    "mimeType": "image/png",
+    "sha256": "2c2d96ef8daf1e2b13f8dfd1214a936ec8564762acf5dc0393d3c6fca1fe833c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30298.png",
+    "sourceAssetId": "umamusume/supports/full/small/30298.png",
+    "sourceId": "gametora-media"
+  }
+}

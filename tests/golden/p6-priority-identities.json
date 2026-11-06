@@ -1,0 +1,3762 @@
+{
+  "sourceSnapshotId": "p3-2026-11-05-fb68e3e10518d286-trainers-a3cff1e14c86",
+  "sourceDescription": "Actual unmodified P3 skill/relationship extraction for P6 identity tests. No invented game rows.",
+  "skills": [
+    {
+      "skillId": "10071",
+      "nameJa": "波乱注意砲！",
+      "nameKo": "파란주의포!",
+      "nameEn": "Warning Shot!",
+      "displayName": "파란주의포!",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 3,
+      "cost": null,
+      "descriptionKo": "레이스 중간 부근에서 후방에 있으면 롱 스퍼트를 걸어 속도가 계속해서 약간 상승한다",
+      "descriptionJa": "レース中間付近で後方だとロングスパートをかけて速度をわずかに上げ続ける",
+      "descriptionEn": "Slightly increase velocity with a long spurt starting halfway through the race.",
+      "iconId": 20013,
+      "conditionGroups": [
+        {
+          "condition": "distance_rate>=50&distance_rate<=60&order_rate>50",
+          "precondition": null,
+          "baseTime": 60000,
+          "effects": [
+            {
+              "type": 27,
+              "value": 1500,
+              "raw": {
+                "type": 27,
+                "value": 1500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 60000,
+            "condition": "distance_rate>=50&distance_rate<=60&order_rate>50",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          100701
+        ],
+        "condition_groups": [
+          {
+            "base_time": 60000,
+            "condition": "distance_rate>=50&distance_rate<=60&order_rate>50",
+            "effects": [
+              {
+                "type": 27,
+                "value": 1500
+              }
+            ]
+          }
+        ],
+        "desc_en": "Slightly increase velocity with a long spurt starting halfway through the race.",
+        "desc_ko": "레이스 중간 부근에서 후방에 있으면 롱 스퍼트를 걸어 속도가 계속해서 약간 상승한다",
+        "desc_tw": "在競賽中間附近若位於隊列後方將進行長距離衝刺使速度略微持續上升",
+        "endesc": "If you're in the second half of the pack halfway through the race, your speed will slightly increase",
+        "enname": "Warning Shot!",
+        "gene_version": {
+          "activation": 1,
+          "condition_groups": [
+            {
+              "base_time": 36000,
+              "condition": "distance_rate>=50&distance_rate<=60&order_rate>50",
+              "effects": [
+                {
+                  "type": 27,
+                  "value": 500
+                }
+              ]
+            }
+          ],
+          "cost": 200,
+          "desc_en": "Very slightly increase velocity steadily with a long spurt starting halfway through the race.",
+          "desc_ko": "레이스 중간 부근에서 후방에 있으면 롱 스퍼트를 걸어 속도가 계속해서 아주 조금 상승한다",
+          "desc_tw": "在競賽中間附近若位於隊列後方將進行長距離衝刺使速度些微持續上升",
+          "iconid": 20011,
+          "id": 900071,
+          "inherited": true,
+          "name_en": "Anchors Aweigh!",
+          "name_ko": "불침함, 출항!",
+          "name_tw": "不沉戰艦起錨！",
+          "parent_skills": [
+            100071,
+            10071
+          ],
+          "rarity": 1,
+          "tid": "5"
+        },
+        "iconid": 20013,
+        "id": 10071,
+        "jpdesc": "レース中間付近で後方だとロングスパートをかけて速度をわずかに上げ続ける",
+        "jpname": "波乱注意砲！",
+        "loc": {
+          "en": {
+            "char": [
+              100701
+            ]
+          },
+          "ko": {
+            "char": [
+              100701
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              100701
+            ]
+          }
+        },
+        "name_en": "Warning Shot!",
+        "name_ko": "파란주의포!",
+        "name_tw": "波瀾注意砲！",
+        "rarity": 3,
+        "tid": "4",
+        "type": [
+          "nac"
+        ]
+      }
+    },
+    {
+      "skillId": "100011",
+      "nameJa": "シューティングスター",
+      "nameKo": "슈팅 스타",
+      "nameEn": "Shooting Star",
+      "displayName": "슈팅 스타",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 5,
+      "cost": null,
+      "descriptionKo": "레이스 종반에 전방에서 상대를 추월하면 기세를 몰아 앞으로 나가면서 추가로 가속력이 아주 조금 상승한다",
+      "descriptionJa": "レース終盤以降に追い抜いて中団以前につけると前に出続けて加速力をちょっと上げ続ける",
+      "descriptionEn": "Ride the momentum to surge ahead and very slightly increase acceleration after passing another runner toward the front late-race.",
+      "iconId": 20013,
+      "conditionGroups": [
+        {
+          "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+          "precondition": null,
+          "baseTime": 60000,
+          "effects": [
+            {
+              "type": 22,
+              "value": 3500,
+              "raw": {
+                "type": 22,
+                "value": 3500
+              }
+            },
+            {
+              "type": 31,
+              "value": 1000,
+              "raw": {
+                "type": 31,
+                "value": 1000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 60000,
+            "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+            "effects": [
+              {
+                "type": 22,
+                "value": 3500
+              },
+              {
+                "type": 31,
+                "value": 1000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          100101
+        ],
+        "condition_groups": [
+          {
+            "base_time": 60000,
+            "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+            "effects": [
+              {
+                "type": 22,
+                "value": 3500
+              },
+              {
+                "type": 31,
+                "value": 1000
+              }
+            ]
+          }
+        ],
+        "desc_en": "Ride the momentum to surge ahead and very slightly increase acceleration after passing another runner toward the front late-race.",
+        "desc_ko": "레이스 종반에 전방에서 상대를 추월하면 기세를 몰아 앞으로 나가면서 추가로 가속력이 아주 조금 상승한다",
+        "desc_tw": "在競賽後期若於隊列前方追過對手會順勢向前邁進加速力會些微上升",
+        "endesc": "If you're not in the back of the pack and overtake someone during the Final Leg or beyond, you will get a speed boost and your acceleration will slightly increase",
+        "enname": "Shooting Star",
+        "gene_version": {
+          "activation": 1,
+          "condition_groups": [
+            {
+              "base_time": 36000,
+              "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+              "effects": [
+                {
+                  "type": 22,
+                  "value": 1500
+                },
+                {
+                  "type": 31,
+                  "value": 500
+                }
+              ]
+            }
+          ],
+          "cost": 200,
+          "desc_en": "After passing another runner toward the front late-race, slightly surge ahead, and very minimally increase acceleration.",
+          "desc_ko": "레이스 종반에 전방에서 상대를 추월하면 약간 앞으로 나가면서 가속력이 매우 조금 상승한다",
+          "desc_tw": "在競賽後期若於隊列前方追過對手會略微向前邁進加速力會微微上升",
+          "iconid": 20011,
+          "id": 900011,
+          "inherited": true,
+          "name_en": "Shooting Star",
+          "name_ko": "슈팅 스타",
+          "name_tw": "逐夢之星",
+          "parent_skills": [
+            100011
+          ],
+          "rarity": 1,
+          "tid": "B"
+        },
+        "iconid": 20013,
+        "id": 100011,
+        "jpdesc": "レース終盤以降に追い抜いて中団以前につけると前に出続けて加速力をちょっと上げ続ける",
+        "jpname": "シューティングスター",
+        "loc": {
+          "en": {
+            "char": [
+              100101
+            ],
+            "condition_groups": [
+              {
+                "base_time": 50000,
+                "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                "effects": [
+                  {
+                    "type": 22,
+                    "value": 3500
+                  },
+                  {
+                    "type": 31,
+                    "value": 1000
+                  }
+                ]
+              }
+            ],
+            "gene_version": {
+              "condition_groups": [
+                {
+                  "base_time": 30000,
+                  "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                  "effects": [
+                    {
+                      "type": 22,
+                      "value": 1500
+                    },
+                    {
+                      "type": 31,
+                      "value": 500
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "ko": {
+            "char": [
+              100101
+            ],
+            "condition_groups": [
+              {
+                "base_time": 50000,
+                "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                "effects": [
+                  {
+                    "type": 22,
+                    "value": 3500
+                  },
+                  {
+                    "type": 31,
+                    "value": 1000
+                  }
+                ]
+              }
+            ],
+            "gene_version": {
+              "condition_groups": [
+                {
+                  "base_time": 30000,
+                  "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                  "effects": [
+                    {
+                      "type": 22,
+                      "value": 1500
+                    },
+                    {
+                      "type": 31,
+                      "value": 500
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "zh_tw": {
+            "char": [
+              100101
+            ],
+            "condition_groups": [
+              {
+                "base_time": 50000,
+                "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                "effects": [
+                  {
+                    "type": 22,
+                    "value": 3500
+                  },
+                  {
+                    "type": 31,
+                    "value": 1000
+                  }
+                ]
+              }
+            ],
+            "gene_version": {
+              "condition_groups": [
+                {
+                  "base_time": 30000,
+                  "condition": "phase>=2&order>=1&order_rate<=50&change_order_onetime<0",
+                  "effects": [
+                    {
+                      "type": 22,
+                      "value": 1500
+                    },
+                    {
+                      "type": 31,
+                      "value": 500
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "name_en": "Shooting Star",
+        "name_ko": "슈팅 스타",
+        "name_tw": "逐夢之星",
+        "rarity": 5,
+        "tid": "A",
+        "type": [
+          "l_2",
+          "l_3",
+          "nac"
+        ]
+      }
+    },
+    {
+      "skillId": "200011",
+      "nameJa": "右回り◎",
+      "nameKo": "시계(우) 방향◎",
+      "nameEn": "Right-Handed ◎",
+      "displayName": "시계(우) 방향◎",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 110,
+      "descriptionKo": "시계(우회전) 방향 코스에 강해진다",
+      "descriptionJa": "右回りコースならスピードが上がる",
+      "descriptionEn": "Increase performance on right-handed tracks.",
+      "iconId": 10011,
+      "conditionGroups": [
+        {
+          "condition": "rotation==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 600000,
+              "raw": {
+                "type": 1,
+                "value": 600000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 600000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 600000
+              }
+            ]
+          }
+        ],
+        "cost": 110,
+        "desc_en": "Increase performance on right-handed tracks.",
+        "desc_ko": "시계(우회전) 방향 코스에 강해진다",
+        "desc_tw": "變得擅長順時針賽道",
+        "endesc": "Your Speed stat is increased by 60 on clockwise tracks",
+        "enname": "Right Turns ◎",
+        "iconid": 10011,
+        "id": 200011,
+        "jpdesc": "右回りコースならスピードが上がる",
+        "jpname": "右回り◎",
+        "name_en": "Right-Handed ◎",
+        "name_ko": "시계(우) 방향◎",
+        "name_tw": "順時針◎",
+        "rarity": 1,
+        "tid": "1e",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200012,
+          200013,
+          200014
+        ]
+      }
+    },
+    {
+      "skillId": "200012",
+      "nameJa": "右回り○",
+      "nameKo": "시계(우) 방향○",
+      "nameEn": "Right-Handed ○",
+      "displayName": "시계(우) 방향○",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 90,
+      "descriptionKo": "시계(우회전) 방향 코스에 다소 강해진다",
+      "descriptionJa": "右回りコースならスピードが少し上がる",
+      "descriptionEn": "Moderately increase performance on right-handed tracks.",
+      "iconId": 10011,
+      "conditionGroups": [
+        {
+          "condition": "rotation==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 400000,
+              "raw": {
+                "type": 1,
+                "value": 400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          105602,
+          102201,
+          106701,
+          105802,
+          106703,
+          106803,
+          111901,
+          102303,
+          111101,
+          112701,
+          110902,
+          111301,
+          110602,
+          100503,
+          107403,
+          114901
+        ],
+        "char_e": [
+          100502,
+          102002,
+          104701,
+          104702,
+          110702,
+          101703
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 400000
+              }
+            ]
+          }
+        ],
+        "cost": 90,
+        "desc_en": "Moderately increase performance on right-handed tracks.",
+        "desc_ko": "시계(우회전) 방향 코스에 다소 강해진다",
+        "desc_tw": "變得稍微擅長順時針賽道",
+        "endesc": "Your Speed stat is increased by 40 on clockwise tracks",
+        "enname": "Right Turns ○",
+        "iconid": 10011,
+        "id": 200012,
+        "jpdesc": "右回りコースならスピードが少し上がる",
+        "jpname": "右回り○",
+        "loc": {
+          "en": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701
+            ],
+            "sup_e": [
+              [
+                30065,
+                20016
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                20037,
+                20053
+              ],
+              [
+                10028,
+                10072,
+                10076
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802,
+              106703,
+              106803,
+              111901,
+              102303,
+              111101,
+              112701
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701,
+              104702,
+              110702
+            ],
+            "sup_e": [
+              [
+                30065,
+                30163,
+                20016,
+                20058
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30037,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                30167,
+                30168,
+                30175,
+                30204,
+                30230,
+                30246,
+                20037,
+                20053,
+                20057,
+                20059,
+                20079
+              ],
+              [
+                10028,
+                10072,
+                10076,
+                10119
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              105602,
+              102201,
+              106701,
+              105802,
+              106703,
+              106803,
+              111901,
+              102303,
+              111101,
+              112701
+            ],
+            "char_e": [
+              100502,
+              102002,
+              104701,
+              104702,
+              110702
+            ],
+            "sup_e": [
+              [
+                30065,
+                30163,
+                20016,
+                20058
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30010,
+                30037,
+                30044,
+                30069,
+                30087,
+                30105,
+                30123,
+                30167,
+                30168,
+                30175,
+                30204,
+                30230,
+                30246,
+                20037,
+                20053,
+                20057,
+                20059,
+                20079
+              ],
+              [
+                10028,
+                10072,
+                10076,
+                10119
+              ]
+            ]
+          }
+        },
+        "name_en": "Right-Handed ○",
+        "name_ko": "시계(우) 방향○",
+        "name_tw": "順時針○",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30065,
+            30163,
+            20016,
+            20058
+          ],
+          []
+        ],
+        "sup_hint": [
+          [
+            30010,
+            30037,
+            30044,
+            30069,
+            30087,
+            30105,
+            30123,
+            30167,
+            30168,
+            30175,
+            30204,
+            30230,
+            30246,
+            30261,
+            30281,
+            30286,
+            30311,
+            20037,
+            20053,
+            20057,
+            20059,
+            20079
+          ],
+          [
+            10028,
+            10072,
+            10076,
+            10119,
+            10131,
+            10146
+          ]
+        ],
+        "tid": "1f",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200011,
+          200013,
+          200014
+        ]
+      }
+    },
+    {
+      "skillId": "200014",
+      "nameJa": "右回りの鬼",
+      "nameKo": "시계 방향의 귀신",
+      "nameEn": "Right-Handed Demon",
+      "displayName": "시계 방향의 귀신",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 2,
+      "cost": 130,
+      "descriptionKo": "시계(우회전) 방향 코스에 강해져서 스피드와 파워가 상승한다",
+      "descriptionJa": "右回りコースならスピードとパワーが上がる",
+      "descriptionEn": "Increase proficiency in right-handed tracks, increasing Speed and Power.",
+      "iconId": 10012,
+      "conditionGroups": [
+        {
+          "condition": "rotation==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 1,
+              "value": 600000,
+              "raw": {
+                "type": 1,
+                "value": 600000
+              }
+            },
+            {
+              "type": 3,
+              "value": 600000,
+              "raw": {
+                "type": 3,
+                "value": 600000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 600000
+              },
+              {
+                "type": 3,
+                "value": 600000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "char": [
+          106701,
+          111901
+        ],
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "rotation==1",
+            "effects": [
+              {
+                "type": 1,
+                "value": 600000
+              },
+              {
+                "type": 3,
+                "value": 600000
+              }
+            ]
+          }
+        ],
+        "cost": 130,
+        "desc_en": "Increase proficiency in right-handed tracks, increasing Speed and Power.",
+        "desc_ko": "시계(우회전) 방향 코스에 강해져서 스피드와 파워가 상승한다",
+        "desc_tw": "變得擅長順時針賽道速度和力量上升",
+        "endesc": "Your Speed and Power stats are increased by 60 on clockwise tracks",
+        "enname": "Clockwise Demon",
+        "evo": [
+          {
+            "card_id": 106701,
+            "evos": [
+              106701211
+            ]
+          },
+          {
+            "card_id": 111901,
+            "evos": [
+              111901111
+            ]
+          }
+        ],
+        "iconid": 10012,
+        "id": 200014,
+        "jpdesc": "右回りコースならスピードとパワーが上がる",
+        "jpname": "右回りの鬼",
+        "loc": {
+          "en": {
+            "char": [
+              106701
+            ]
+          },
+          "ko": {
+            "char": [
+              106701,
+              111901
+            ],
+            "sup_e": [
+              [
+                30163
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              106701,
+              111901
+            ],
+            "sup_e": [
+              [
+                30163
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Right-Handed Demon",
+        "name_ko": "시계 방향의 귀신",
+        "name_tw": "順時針之鬼",
+        "rarity": 2,
+        "sup_e": [
+          [
+            30163
+          ],
+          []
+        ],
+        "tid": "8C",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200011,
+          200012,
+          200013
+        ]
+      }
+    },
+    {
+      "skillId": "200431",
+      "nameJa": "コンセントレーション",
+      "nameKo": "컨센트레이션",
+      "nameEn": "Concentration",
+      "displayName": "컨센트레이션",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 2,
+      "cost": 140,
+      "descriptionKo": "스타트가 능숙해져 출발 지연 시간이 줄어든다",
+      "descriptionJa": "スタートが得意になり出遅れる時間が少なくなる",
+      "descriptionEn": "Decrease time lost to slow starts.",
+      "iconId": 20062,
+      "conditionGroups": [
+        {
+          "condition": "always==1",
+          "precondition": null,
+          "baseTime": 0,
+          "effects": [
+            {
+              "type": 10,
+              "value": 4000,
+              "raw": {
+                "type": 10,
+                "value": 4000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 0,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 10,
+                "value": 4000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          100201,
+          102602,
+          103102,
+          104603,
+          114501
+        ],
+        "condition_groups": [
+          {
+            "base_time": 0,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 10,
+                "value": 4000
+              }
+            ]
+          }
+        ],
+        "cost": 140,
+        "desc_en": "Decrease time lost to slow starts.",
+        "desc_ko": "스타트가 능숙해져 출발 지연 시간이 줄어든다",
+        "desc_tw": "變得擅長起跑使延遲時間變少",
+        "endesc": "Your Start Reaction Time is improved",
+        "enname": "Concentration",
+        "evo": [
+          {
+            "card_id": 100201,
+            "evos": [
+              100201111
+            ]
+          },
+          {
+            "card_id": 102602,
+            "evos": [
+              102602211
+            ]
+          },
+          {
+            "card_id": 103102,
+            "evos": [
+              103102111
+            ]
+          },
+          {
+            "card_id": 104603,
+            "evos": [
+              104603111
+            ]
+          },
+          {
+            "card_id": 114501,
+            "evos": [
+              114501111
+            ]
+          }
+        ],
+        "iconid": 20062,
+        "id": 200431,
+        "jpdesc": "スタートが得意になり出遅れる時間が少なくなる",
+        "jpname": "コンセントレーション",
+        "loc": {
+          "en": {
+            "char": [
+              100201,
+              102602
+            ],
+            "sup_e": [
+              [
+                30021,
+                30062
+              ],
+              []
+            ]
+          },
+          "ko": {
+            "char": [
+              100201,
+              102602,
+              103102,
+              104603
+            ],
+            "sup_e": [
+              [
+                30021,
+                30062,
+                30149,
+                30237
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              100201,
+              102602,
+              103102,
+              104603
+            ],
+            "sup_e": [
+              [
+                30021,
+                30062,
+                30149,
+                30237
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Concentration",
+        "name_ko": "컨센트레이션",
+        "name_tw": "全神貫注",
+        "rarity": 2,
+        "sce_e": [
+          3
+        ],
+        "sup_e": [
+          [
+            30021,
+            30062,
+            30149,
+            30237,
+            30298
+          ],
+          []
+        ],
+        "tid": "2V",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200432,
+          200433
+        ]
+      }
+    },
+    {
+      "skillId": "200432",
+      "nameJa": "集中力",
+      "nameKo": "집중력",
+      "nameEn": "Focus",
+      "displayName": "집중력",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 140,
+      "descriptionKo": "스타트가 능숙해져 출발 지연 시간이 약간 줄어든다",
+      "descriptionJa": "スタートが得意になり出遅れる時間がわずかに少なくなる",
+      "descriptionEn": "Slightly decrease time lost to slow starts.",
+      "iconId": 20061,
+      "conditionGroups": [
+        {
+          "condition": "always==1",
+          "precondition": null,
+          "baseTime": 0,
+          "effects": [
+            {
+              "type": 10,
+              "value": 9000,
+              "raw": {
+                "type": 10,
+                "value": 9000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 0,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 10,
+                "value": 9000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          100201,
+          100401,
+          102402,
+          103701,
+          102602,
+          106801,
+          101303,
+          103102,
+          104603,
+          114501,
+          106601
+        ],
+        "condition_groups": [
+          {
+            "base_time": 0,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 10,
+                "value": 9000
+              }
+            ]
+          }
+        ],
+        "cost": 140,
+        "desc_en": "Slightly decrease time lost to slow starts.",
+        "desc_ko": "스타트가 능숙해져 출발 지연 시간이 약간 줄어든다",
+        "desc_tw": "變得擅長起跑使延遲時間略微變少",
+        "endesc": "Your Start Reaction Time is slightly improved",
+        "enname": "Focus",
+        "iconid": 20061,
+        "id": 200432,
+        "jpdesc": "スタートが得意になり出遅れる時間がわずかに少なくなる",
+        "jpname": "集中力",
+        "loc": {
+          "en": {
+            "char": [
+              100201,
+              100401,
+              102402,
+              103701,
+              102602,
+              106801,
+              101303
+            ],
+            "sup_e": [
+              [
+                30002,
+                30017,
+                30021,
+                30066,
+                30085,
+                30107,
+                30121,
+                20007,
+                20009
+              ],
+              [
+                10021,
+                10032
+              ]
+            ],
+            "sup_hint": [
+              [
+                30002,
+                30024,
+                30028,
+                30062,
+                30076,
+                30107,
+                30121
+              ],
+              [
+                10002,
+                10005,
+                10055
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              100201,
+              100401,
+              102402,
+              103701,
+              102602,
+              106801,
+              101303,
+              103102,
+              104603,
+              106601
+            ],
+            "sup_e": [
+              [
+                30002,
+                30017,
+                30021,
+                30059,
+                30066,
+                30085,
+                30107,
+                30121,
+                30141,
+                20007,
+                20009
+              ],
+              [
+                10021,
+                10032
+              ]
+            ],
+            "sup_hint": [
+              [
+                30002,
+                30024,
+                30028,
+                30062,
+                30076,
+                30107,
+                30121,
+                30134,
+                30148,
+                30149,
+                30185,
+                30189,
+                30205,
+                30235,
+                30237,
+                20071
+              ],
+              [
+                10002,
+                10005,
+                10055,
+                10088,
+                10100,
+                10102
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              100201,
+              100401,
+              102402,
+              103701,
+              102602,
+              106801,
+              101303,
+              103102,
+              104603,
+              106601
+            ],
+            "sup_e": [
+              [
+                30002,
+                30017,
+                30021,
+                30066,
+                30085,
+                30107,
+                30121,
+                30141,
+                20007,
+                20009
+              ],
+              [
+                10021,
+                10032
+              ]
+            ],
+            "sup_hint": [
+              [
+                30002,
+                30024,
+                30028,
+                30062,
+                30076,
+                30107,
+                30121,
+                30134,
+                30148,
+                30149,
+                30185,
+                30189,
+                30205,
+                30235,
+                30237,
+                20071
+              ],
+              [
+                10002,
+                10005,
+                10055,
+                10088,
+                10100,
+                10102
+              ]
+            ]
+          }
+        },
+        "name_en": "Focus",
+        "name_ko": "집중력",
+        "name_tw": "集中力",
+        "rarity": 1,
+        "sce_e": [
+          3
+        ],
+        "sup_e": [
+          [
+            30002,
+            30017,
+            30021,
+            30059,
+            30066,
+            30085,
+            30107,
+            30121,
+            30141,
+            30277,
+            20007,
+            20009
+          ],
+          [
+            10021,
+            10032
+          ]
+        ],
+        "sup_hint": [
+          [
+            30002,
+            30024,
+            30028,
+            30062,
+            30076,
+            30107,
+            30121,
+            30134,
+            30148,
+            30149,
+            30185,
+            30189,
+            30205,
+            30235,
+            30237,
+            30288,
+            30298,
+            20071
+          ],
+          [
+            10002,
+            10005,
+            10055,
+            10088,
+            10100,
+            10102
+          ]
+        ],
+        "tid": "2W",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200431,
+          200433
+        ]
+      }
+    },
+    {
+      "skillId": "200433",
+      "nameJa": "ゲート難",
+      "nameKo": "게이트 난동",
+      "nameEn": "Gatekept",
+      "displayName": "게이트 난동",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 70,
+      "descriptionKo": "스타트가 서툴러져 출발 지연 시간이 다소 늘어난다",
+      "descriptionJa": "スタートが苦手になり出遅れる時間が少し増える",
+      "descriptionEn": "Moderately increase time lost to slow starts.",
+      "iconId": 20064,
+      "conditionGroups": [
+        {
+          "condition": "always==1",
+          "precondition": null,
+          "baseTime": 0,
+          "effects": [
+            {
+              "type": 10,
+              "value": 15000,
+              "raw": {
+                "type": 10,
+                "value": 15000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 0,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 10,
+                "value": 15000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char_e": [
+          100702,
+          100703,
+          100701
+        ],
+        "condition_groups": [
+          {
+            "base_time": 0,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 10,
+                "value": 15000
+              }
+            ]
+          }
+        ],
+        "cost": 70,
+        "desc_en": "Moderately increase time lost to slow starts.",
+        "desc_ko": "스타트가 서툴러져 출발 지연 시간이 다소 늘어난다",
+        "desc_tw": "變得不擅長起跑延遲時間稍微變多",
+        "endesc": "Your Start Reaction Time is slightly worsened",
+        "enname": "Gate Trouble",
+        "iconid": 20064,
+        "id": 200433,
+        "jpdesc": "スタートが苦手になり出遅れる時間が少し増える",
+        "jpname": "ゲート難",
+        "loc": {
+          "en": {
+            "char_e": [
+              100702,
+              100701
+            ]
+          },
+          "ko": {
+            "char_e": [
+              100702,
+              100703,
+              100701
+            ]
+          },
+          "zh_tw": {
+            "char_e": [
+              100702,
+              100703,
+              100701
+            ]
+          }
+        },
+        "name_en": "Gatekept",
+        "name_ko": "게이트 난동",
+        "name_tw": "閘門障礙",
+        "rarity": 1,
+        "tid": "2X",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          200431,
+          200432
+        ]
+      }
+    },
+    {
+      "skillId": "200451",
+      "nameJa": "注目の踊り子",
+      "nameKo": "주목 받는 댄서",
+      "nameEn": "Center Stage",
+      "displayName": "주목 받는 댄서",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 2,
+      "cost": 120,
+      "descriptionKo": "레이스 초반에 코스를 많이 능숙하게 잡는다",
+      "descriptionJa": "レース序盤のどこかでコース取りがすごくうまくなる",
+      "descriptionEn": "Greatly increase navigation early-race.",
+      "iconId": 20052,
+      "conditionGroups": [
+        {
+          "condition": "phase_random==0",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 28,
+              "value": 450,
+              "raw": {
+                "type": 28,
+                "value": 450
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "phase_random==0",
+            "effects": [
+              {
+                "type": 28,
+                "value": 450
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          104601,
+          105202
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "phase_random==0",
+            "effects": [
+              {
+                "type": 28,
+                "value": 450
+              }
+            ]
+          }
+        ],
+        "cost": 120,
+        "desc_en": "Greatly increase navigation early-race.",
+        "desc_ko": "레이스 초반에 코스를 많이 능숙하게 잡는다",
+        "desc_tw": "在競賽初期變得大幅擅長爭搶賽道",
+        "endesc": "At a random point in the Opening Leg, your lane movement speed will increase",
+        "enname": "Star of the Show",
+        "evo": [
+          {
+            "card_id": 104601,
+            "evos": [
+              104601111,
+              104601121
+            ]
+          },
+          {
+            "card_id": 105202,
+            "evos": [
+              105202111,
+              105202121
+            ]
+          }
+        ],
+        "iconid": 20052,
+        "id": 200451,
+        "jpdesc": "レース序盤のどこかでコース取りがすごくうまくなる",
+        "jpname": "注目の踊り子",
+        "loc": {
+          "en": {
+            "char": [
+              104601,
+              105202
+            ],
+            "sup_e": [
+              [
+                30017,
+                30039
+              ],
+              []
+            ]
+          },
+          "ko": {
+            "char": [
+              104601,
+              105202
+            ],
+            "sup_e": [
+              [
+                30017,
+                30039
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              104601,
+              105202
+            ],
+            "sup_e": [
+              [
+                30017,
+                30039
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Center Stage",
+        "name_ko": "주목 받는 댄서",
+        "name_tw": "矚目的舞者",
+        "rarity": 2,
+        "sce_e": [
+          6
+        ],
+        "sup_e": [
+          [
+            30017,
+            30039
+          ],
+          []
+        ],
+        "tid": "30",
+        "type": [
+          "l_0",
+          "nac"
+        ],
+        "versions": [
+          200452
+        ]
+      }
+    },
+    {
+      "skillId": "200452",
+      "nameJa": "ポジションセンス",
+      "nameKo": "포지션 센스",
+      "nameEn": "Prudent Positioning",
+      "displayName": "포지션 센스",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 120,
+      "descriptionKo": "레이스 초반에 코스를 능숙하게 잡는다",
+      "descriptionJa": "レース序盤のどこかでコース取りがうまくなる",
+      "descriptionEn": "Increase navigation early-race.",
+      "iconId": 20051,
+      "conditionGroups": [
+        {
+          "condition": "phase_random==0",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 28,
+              "value": 350,
+              "raw": {
+                "type": 28,
+                "value": 350
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "phase_random==0",
+            "effects": [
+              {
+                "type": 28,
+                "value": 350
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          100301,
+          100302,
+          104601,
+          105202,
+          108001,
+          108702,
+          104603,
+          103103,
+          108002
+        ],
+        "char_e": [
+          101302,
+          106801,
+          104602,
+          106802,
+          106803,
+          102003
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "phase_random==0",
+            "effects": [
+              {
+                "type": 28,
+                "value": 350
+              }
+            ]
+          }
+        ],
+        "cost": 120,
+        "desc_en": "Increase navigation early-race.",
+        "desc_ko": "레이스 초반에 코스를 능숙하게 잡는다",
+        "desc_tw": "在競賽初期變得擅長爭搶賽道",
+        "endesc": "At a random point in the Opening Leg, your lane movement speed will slightly increase",
+        "enname": "Position Sense",
+        "iconid": 20051,
+        "id": 200452,
+        "jpdesc": "レース序盤のどこかでコース取りがうまくなる",
+        "jpname": "ポジションセンス",
+        "loc": {
+          "en": {
+            "char": [
+              100301,
+              100302,
+              104601,
+              105202
+            ],
+            "char_e": [
+              101302,
+              106801,
+              104602,
+              106802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30067
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30003,
+                30045,
+                30065,
+                30111,
+                30121,
+                20023,
+                20028,
+                20046,
+                20047
+              ],
+              [
+                10003,
+                10050,
+                10059
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              100301,
+              100302,
+              104601,
+              105202,
+              108001,
+              108702,
+              104603,
+              103103
+            ],
+            "char_e": [
+              101302,
+              106801,
+              104602,
+              106802,
+              106803
+            ],
+            "sup_e": [
+              [
+                30017,
+                30067
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30003,
+                30045,
+                30058,
+                30065,
+                30111,
+                30121,
+                30140,
+                30167,
+                30179,
+                30210,
+                30252,
+                20023,
+                20028,
+                20046,
+                20047,
+                20070
+              ],
+              [
+                10003,
+                10050,
+                10059,
+                10097
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              100301,
+              100302,
+              104601,
+              105202,
+              108001,
+              108702,
+              104603
+            ],
+            "char_e": [
+              101302,
+              106801,
+              104602,
+              106802,
+              106803
+            ],
+            "sup_e": [
+              [
+                30017,
+                30067
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30003,
+                30045,
+                30065,
+                30111,
+                30121,
+                30140,
+                30167,
+                30179,
+                30210,
+                30252,
+                20023,
+                20028,
+                20046,
+                20047,
+                20070
+              ],
+              [
+                10003,
+                10050,
+                10059,
+                10097
+              ]
+            ]
+          }
+        },
+        "name_en": "Prudent Positioning",
+        "name_ko": "포지션 센스",
+        "name_tw": "取位天賦",
+        "rarity": 1,
+        "sce_e": [
+          4,
+          6
+        ],
+        "sup_e": [
+          [
+            30017,
+            30067,
+            30277
+          ],
+          []
+        ],
+        "sup_hint": [
+          [
+            30003,
+            30045,
+            30058,
+            30065,
+            30111,
+            30121,
+            30140,
+            30167,
+            30179,
+            30210,
+            30252,
+            30267,
+            30277,
+            30307,
+            20023,
+            20028,
+            20046,
+            20047,
+            20070
+          ],
+          [
+            10003,
+            10050,
+            10059,
+            10097,
+            10135,
+            10145
+          ]
+        ],
+        "tid": "31",
+        "type": [
+          "l_0",
+          "nac"
+        ],
+        "versions": [
+          200451
+        ]
+      }
+    },
+    {
+      "skillId": "201261",
+      "nameJa": "シックスセンス",
+      "nameKo": "식스센스",
+      "nameEn": "Sixth Sense",
+      "displayName": "식스센스",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 2,
+      "cost": 110,
+      "descriptionKo": "레이스 초반에 앞이 막히거나 경합하면 코스를 능숙하게 잡고 경기장 한복판으로 이동한다＜작전・도주＞",
+      "descriptionJa": "レース序盤に前が詰まるか短い間競り合うとコース取りがうまくなりバ場の真ん中に向かって移動する＜作戦・逃げ＞",
+      "descriptionEn": "Avoid becoming surrounded early-race. (Front Runner)",
+      "iconId": 20052,
+      "conditionGroups": [
+        {
+          "condition": "running_style==1&phase==0&blocked_front_continuetime>=1@running_style==1&phase==0&blocked_side_continuetime>=1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 28,
+              "value": 350,
+              "raw": {
+                "type": 28,
+                "value": 350
+              }
+            },
+            {
+              "type": 35,
+              "value": 5000,
+              "raw": {
+                "type": 35,
+                "value": 5000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==1&phase==0&blocked_front_continuetime>=1@running_style==1&phase==0&blocked_side_continuetime>=1",
+            "effects": [
+              {
+                "type": 28,
+                "value": 350
+              },
+              {
+                "type": 35,
+                "value": 5000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "running_style==1&phase==0&blocked_front_continuetime>=1@running_style==1&phase==0&blocked_side_continuetime>=1",
+            "effects": [
+              {
+                "type": 28,
+                "value": 350
+              },
+              {
+                "type": 35,
+                "value": 5000
+              }
+            ]
+          }
+        ],
+        "cost": 110,
+        "desc_en": "Avoid becoming surrounded early-race. (Front Runner)",
+        "desc_ko": "레이스 초반에 앞이 막히거나 경합하면 코스를 능숙하게 잡고 경기장 한복판으로 이동한다＜작전・도주＞",
+        "desc_tw": "在競賽初期當前方被阻擋或與對手競爭時變得擅長爭搶賽道並朝場地正中央移動＜作戰．領頭＞",
+        "endesc": "Runner・Become harder to box in during Opening Leg",
+        "enname": "Sixth Sense",
+        "evo": [],
+        "iconid": 20052,
+        "id": 201261,
+        "jpdesc": "レース序盤に前が詰まるか短い間競り合うとコース取りがうまくなりバ場の真ん中に向かって移動する＜作戦・逃げ＞",
+        "jpname": "シックスセンス",
+        "loc": {
+          "en": {
+            "sup_e": [
+              [
+                30040
+              ],
+              []
+            ]
+          },
+          "ko": {
+            "sup_e": [
+              [
+                30040
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "sup_e": [
+              [
+                30040
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Sixth Sense",
+        "name_ko": "식스센스",
+        "name_tw": "第六感",
+        "rarity": 2,
+        "sce_e": [
+          8
+        ],
+        "sup_e": [
+          [
+            30040
+          ],
+          []
+        ],
+        "tid": "6D",
+        "type": [
+          "run",
+          "l_0"
+        ],
+        "versions": [
+          201262
+        ]
+      }
+    },
+    {
+      "skillId": "201262",
+      "nameJa": "危険回避",
+      "nameKo": "위험 회피",
+      "nameEn": "Dodging Danger",
+      "displayName": "위험 회피",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 110,
+      "descriptionKo": "레이스 초반에 앞이 막히거나 경합하면 코스를 다소 능숙하게 잡고 경기장 한복판으로 이동한다＜작전・도주＞",
+      "descriptionJa": "レース序盤に前が詰まるか短い間競り合うとコース取りが少しうまくなりバ場の真ん中に向かって移動する＜作戦・逃げ＞",
+      "descriptionEn": "Moderately avoid becoming surrounded early-race. (Front Runner)",
+      "iconId": 20051,
+      "conditionGroups": [
+        {
+          "condition": "running_style==1&phase==0&blocked_front_continuetime>=1@running_style==1&phase==0&blocked_side_continuetime>=1",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 28,
+              "value": 250,
+              "raw": {
+                "type": 28,
+                "value": 250
+              }
+            },
+            {
+              "type": 35,
+              "value": 5000,
+              "raw": {
+                "type": 35,
+                "value": 5000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==1&phase==0&blocked_front_continuetime>=1@running_style==1&phase==0&blocked_side_continuetime>=1",
+            "effects": [
+              {
+                "type": 28,
+                "value": 250
+              },
+              {
+                "type": 35,
+                "value": 5000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          106802,
+          102403,
+          113701
+        ],
+        "char_e": [
+          103101,
+          103102,
+          110701,
+          108001,
+          110402,
+          108702,
+          110702,
+          103103,
+          108002
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "running_style==1&phase==0&blocked_front_continuetime>=1@running_style==1&phase==0&blocked_side_continuetime>=1",
+            "effects": [
+              {
+                "type": 28,
+                "value": 250
+              },
+              {
+                "type": 35,
+                "value": 5000
+              }
+            ]
+          }
+        ],
+        "cost": 110,
+        "desc_en": "Moderately avoid becoming surrounded early-race. (Front Runner)",
+        "desc_ko": "레이스 초반에 앞이 막히거나 경합하면 코스를 다소 능숙하게 잡고 경기장 한복판으로 이동한다＜작전・도주＞",
+        "desc_tw": "在競賽初期當前方被阻擋或與對手競爭時變得稍微擅長爭搶賽道並朝場地正中央移動＜作戰．領頭＞",
+        "endesc": "Runner・Become a bit harder to surround in Opening Leg",
+        "enname": "Danger Avoidance",
+        "iconid": 20051,
+        "id": 201262,
+        "jpdesc": "レース序盤に前が詰まるか短い間競り合うとコース取りが少しうまくなりバ場の真ん中に向かって移動する＜作戦・逃げ＞",
+        "jpname": "危険回避",
+        "loc": {
+          "en": {
+            "char": [
+              106802
+            ],
+            "char_e": [
+              103101
+            ],
+            "sup_e": [
+              [
+                30008,
+                30040
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30028
+              ],
+              [
+                10055
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              106802,
+              102403
+            ],
+            "char_e": [
+              103101,
+              103102,
+              110701,
+              108001,
+              110402,
+              108702,
+              110702,
+              103103
+            ],
+            "sup_e": [
+              [
+                30008,
+                30040,
+                30149,
+                20062
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30028,
+                30148,
+                30204,
+                30227,
+                20055,
+                20075
+              ],
+              [
+                10055,
+                10087
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              106802,
+              102403
+            ],
+            "char_e": [
+              103101,
+              103102,
+              110701,
+              108001,
+              110402,
+              108702,
+              110702
+            ],
+            "sup_e": [
+              [
+                30008,
+                30040,
+                30149,
+                20062
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30028,
+                30148,
+                30204,
+                30227,
+                20055,
+                20075
+              ],
+              [
+                10055,
+                10087
+              ]
+            ]
+          }
+        },
+        "name_en": "Dodging Danger",
+        "name_ko": "위험 회피",
+        "name_tw": "迴避危險",
+        "rarity": 1,
+        "sce_e": [
+          8
+        ],
+        "sup_e": [
+          [
+            30008,
+            30040,
+            30149,
+            30296,
+            20062
+          ],
+          []
+        ],
+        "sup_hint": [
+          [
+            30028,
+            30148,
+            30204,
+            30227,
+            30288,
+            30298,
+            30316,
+            20055,
+            20075
+          ],
+          [
+            10055,
+            10087,
+            10148
+          ]
+        ],
+        "tid": "5h",
+        "type": [
+          "run",
+          "l_0"
+        ],
+        "versions": [
+          201261
+        ]
+      }
+    },
+    {
+      "skillId": "201331",
+      "nameJa": "技巧派",
+      "nameKo": "기교파",
+      "nameEn": "Technician",
+      "displayName": "기교파",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 2,
+      "cost": 120,
+      "descriptionKo": "좌우로 이동할 때 가속력이 다소 상승한다 ＜작전・선행＞",
+      "descriptionJa": "左右に移動すると加速力が少し上がる＜作戦・先行＞",
+      "descriptionEn": "Moderately increase ability to navigate smoothly. (Pace Chaser)",
+      "iconId": 20042,
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&is_move_lane==1@running_style==2&is_move_lane==2",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 3000,
+              "raw": {
+                "type": 31,
+                "value": 3000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&is_move_lane==1@running_style==2&is_move_lane==2",
+            "effects": [
+              {
+                "type": 31,
+                "value": 3000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          100301,
+          110301
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "running_style==2&is_move_lane==1@running_style==2&is_move_lane==2",
+            "effects": [
+              {
+                "type": 31,
+                "value": 3000
+              }
+            ]
+          }
+        ],
+        "cost": 120,
+        "desc_en": "Moderately increase ability to navigate smoothly. (Pace Chaser)",
+        "desc_ko": "좌우로 이동할 때 가속력이 다소 상승한다 ＜작전・선행＞",
+        "desc_tw": "左右移動時加速力稍微上升＜作戰．前列＞",
+        "endesc": "Leader・When you move right or left, your acceleration will slightly increase",
+        "enname": "Technician",
+        "evo": [
+          {
+            "card_id": 100301,
+            "evos": [
+              100301111
+            ]
+          },
+          {
+            "card_id": 110301,
+            "evos": [
+              110301111
+            ]
+          }
+        ],
+        "iconid": 20042,
+        "id": 201331,
+        "jpdesc": "左右に移動すると加速力が少し上がる＜作戦・先行＞",
+        "jpname": "技巧派",
+        "loc": {
+          "en": {
+            "char": [
+              100301
+            ]
+          },
+          "ko": {
+            "char": [
+              100301
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              100301
+            ]
+          }
+        },
+        "name_en": "Technician",
+        "name_ko": "기교파",
+        "name_tw": "技巧派",
+        "rarity": 2,
+        "tid": "5s",
+        "type": [
+          "ldr"
+        ],
+        "versions": [
+          201332
+        ]
+      }
+    },
+    {
+      "skillId": "201332",
+      "nameJa": "巧みなステップ",
+      "nameKo": "교묘한 스텝",
+      "nameEn": "Shrewd Step",
+      "displayName": "교묘한 스텝",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 120,
+      "descriptionKo": "좌우로 이동할 때 가속력이 약간 상승한다 ＜작전・선행＞",
+      "descriptionJa": "左右に移動すると加速力がわずかに上がる＜作戦・先行＞",
+      "descriptionEn": "Slightly increase ability to navigate smoothly. (Pace Chaser)",
+      "iconId": 20041,
+      "conditionGroups": [
+        {
+          "condition": "running_style==2&is_move_lane==1@running_style==2&is_move_lane==2",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "running_style==2&is_move_lane==1@running_style==2&is_move_lane==2",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          100301,
+          102402,
+          100502,
+          109901,
+          110301
+        ],
+        "char_e": [
+          106302,
+          106301
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "running_style==2&is_move_lane==1@running_style==2&is_move_lane==2",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        ],
+        "cost": 120,
+        "desc_en": "Slightly increase ability to navigate smoothly. (Pace Chaser)",
+        "desc_ko": "좌우로 이동할 때 가속력이 약간 상승한다 ＜작전・선행＞",
+        "desc_tw": "左右移動時加速力略微上升＜作戰．前列＞",
+        "endesc": "Leader・When you move right or left, your acceleration will slightly increase",
+        "enname": "Clever Step",
+        "iconid": 20041,
+        "id": 201332,
+        "jpdesc": "左右に移動すると加速力がわずかに上がる＜作戦・先行＞",
+        "jpname": "巧みなステップ",
+        "loc": {
+          "en": {
+            "char": [
+              100301,
+              102402,
+              100502,
+              109901
+            ],
+            "sup_e": [
+              [
+                20038,
+                20044
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30003,
+                30065,
+                20028,
+                20047
+              ],
+              [
+                10003,
+                10059
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              100301,
+              102402,
+              100502,
+              109901
+            ],
+            "char_e": [
+              106301
+            ],
+            "sup_e": [
+              [
+                20038,
+                20044
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30003,
+                30058,
+                30065,
+                30140,
+                30231,
+                20028,
+                20047,
+                20079
+              ],
+              [
+                10003,
+                10059
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              100301,
+              102402,
+              100502,
+              109901
+            ],
+            "char_e": [
+              106301
+            ],
+            "sup_e": [
+              [
+                20038,
+                20044
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30003,
+                30065,
+                30140,
+                30231,
+                20028,
+                20047,
+                20079
+              ],
+              [
+                10003,
+                10059
+              ]
+            ]
+          }
+        },
+        "name_en": "Shrewd Step",
+        "name_ko": "교묘한 스텝",
+        "name_tw": "靈巧步伐",
+        "rarity": 1,
+        "sup_e": [
+          [
+            20038,
+            20044
+          ],
+          []
+        ],
+        "sup_hint": [
+          [
+            30003,
+            30058,
+            30065,
+            30140,
+            30231,
+            30299,
+            20028,
+            20047,
+            20079,
+            20092
+          ],
+          [
+            10003,
+            10059
+          ]
+        ],
+        "tid": "5t",
+        "type": [
+          "ldr"
+        ],
+        "versions": [
+          201331
+        ]
+      }
+    },
+    {
+      "skillId": "201601",
+      "nameJa": "地固め",
+      "nameKo": "터다지기",
+      "nameEn": "Groundwork",
+      "displayName": "터다지기",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 100,
+      "descriptionKo": "레이스 초반에 스킬을 많이 발동하면 가속력이 약간 상승한다",
+      "descriptionJa": "レース序盤にスキルを3回発動すると加速力がわずかに上がる",
+      "descriptionEn": "Slightly increase acceleration after activating many skills early-race.",
+      "iconId": 20041,
+      "conditionGroups": [
+        {
+          "condition": "activate_count_start>=3",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 2000,
+              "raw": {
+                "type": 31,
+                "value": 2000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          102602,
+          108701,
+          106802,
+          103102,
+          106402,
+          108001,
+          106502,
+          102403,
+          109001,
+          110902,
+          108002,
+          112402
+        ],
+        "char_e": [
+          104102,
+          110401,
+          100202,
+          112001,
+          110402,
+          109802
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 2000
+              }
+            ]
+          }
+        ],
+        "cost": 100,
+        "desc_en": "Slightly increase acceleration after activating many skills early-race.",
+        "desc_ko": "레이스 초반에 스킬을 많이 발동하면 가속력이 약간 상승한다",
+        "desc_tw": "在競賽初期若發動多個技能加速力會略微上升",
+        "endesc": "Slightly increase acceleration when many skills are activated during the Opening Leg",
+        "enname": "Groundwork",
+        "iconid": 20041,
+        "id": 201601,
+        "jpdesc": "レース序盤にスキルを3回発動すると加速力がわずかに上がる",
+        "jpname": "地固め",
+        "loc": {
+          "en": {
+            "char": [
+              102602,
+              108701,
+              106802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083
+              ],
+              []
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                20004,
+                20048,
+                20050
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025
+              ]
+            ]
+          },
+          "ko": {
+            "char": [
+              102602,
+              108701,
+              106802,
+              103102,
+              106402,
+              108001,
+              106502,
+              102403,
+              109001
+            ],
+            "char_e": [
+              104102,
+              110401,
+              100202,
+              112001,
+              110402,
+              109802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083,
+                30135,
+                30241
+              ],
+              [
+                10091
+              ]
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                30141,
+                30154,
+                30184,
+                30208,
+                30210,
+                30211,
+                30218,
+                30237,
+                30238,
+                30249,
+                30252,
+                30253,
+                20004,
+                20048,
+                20050,
+                20055
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025,
+                10087,
+                10125
+              ]
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              102602,
+              108701,
+              106802,
+              103102,
+              106402,
+              108001,
+              106502,
+              102403,
+              109001
+            ],
+            "char_e": [
+              104102,
+              110401,
+              100202,
+              112001,
+              110402,
+              109802
+            ],
+            "sup_e": [
+              [
+                30017,
+                30083,
+                30135,
+                30241
+              ],
+              [
+                10091
+              ]
+            ],
+            "sup_hint": [
+              [
+                30004,
+                30024,
+                30057,
+                30107,
+                30115,
+                30141,
+                30154,
+                30184,
+                30208,
+                30210,
+                30211,
+                30218,
+                30237,
+                30238,
+                30249,
+                30252,
+                30253,
+                20004,
+                20048,
+                20050,
+                20055
+              ],
+              [
+                10005,
+                10006,
+                10013,
+                10025,
+                10087,
+                10125
+              ]
+            ]
+          }
+        },
+        "name_en": "Groundwork",
+        "name_ko": "터다지기",
+        "name_tw": "打好基礎",
+        "rarity": 1,
+        "sup_e": [
+          [
+            30017,
+            30083,
+            30135,
+            30241
+          ],
+          [
+            10091
+          ]
+        ],
+        "sup_hint": [
+          [
+            30004,
+            30024,
+            30057,
+            30107,
+            30115,
+            30141,
+            30154,
+            30184,
+            30208,
+            30210,
+            30211,
+            30218,
+            30237,
+            30238,
+            30249,
+            30252,
+            30253,
+            30264,
+            30277,
+            30284,
+            30288,
+            30289,
+            30307,
+            30322,
+            20004,
+            20048,
+            20050,
+            20055
+          ],
+          [
+            10005,
+            10006,
+            10013,
+            10025,
+            10087,
+            10125,
+            10132,
+            10140,
+            10145
+          ]
+        ],
+        "tid": "6h",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          201602
+        ]
+      }
+    },
+    {
+      "skillId": "201602",
+      "nameJa": "盤石の構え",
+      "nameKo": "만반의 준비",
+      "nameEn": "Solid Preparation",
+      "displayName": "만반의 준비",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 2,
+      "cost": 180,
+      "descriptionKo": "레이스 초반에 스킬을 많이 발동하면 가속력이 상승한다",
+      "descriptionJa": "レース序盤にスキルを3回発動すると加速力が上がる",
+      "descriptionEn": "Increase acceleration when many skills activate early-race.",
+      "iconId": 20042,
+      "conditionGroups": [
+        {
+          "condition": "activate_count_start>=3",
+          "precondition": null,
+          "baseTime": 30000,
+          "effects": [
+            {
+              "type": 31,
+              "value": 4000,
+              "raw": {
+                "type": 31,
+                "value": 4000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 4000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "char": [
+          108001,
+          109001,
+          108002
+        ],
+        "condition_groups": [
+          {
+            "base_time": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "type": 31,
+                "value": 4000
+              }
+            ]
+          }
+        ],
+        "cost": 180,
+        "desc_en": "Increase acceleration when many skills activate early-race.",
+        "desc_ko": "레이스 초반에 스킬을 많이 발동하면 가속력이 상승한다",
+        "desc_tw": "在競賽初期若發動多個技能加速力會上升",
+        "endesc": "If you've activated at least 3 skills during the Opening Leg, your acceleration will increase",
+        "enname": "Unshakable Stance",
+        "evo": [
+          {
+            "card_id": 108001,
+            "evos": [
+              108001111
+            ]
+          },
+          {
+            "card_id": 109001,
+            "evos": [
+              109001211
+            ]
+          },
+          {
+            "card_id": 108002,
+            "evos": [
+              108002111
+            ]
+          }
+        ],
+        "iconid": 20042,
+        "id": 201602,
+        "jpdesc": "レース序盤にスキルを3回発動すると加速力が上がる",
+        "jpname": "盤石の構え",
+        "loc": {
+          "ko": {
+            "char": [
+              108001,
+              109001
+            ],
+            "sup_e": [
+              [
+                30141
+              ],
+              []
+            ]
+          },
+          "zh_tw": {
+            "char": [
+              108001,
+              109001
+            ],
+            "sup_e": [
+              [
+                30141
+              ],
+              []
+            ]
+          }
+        },
+        "name_en": "Solid Preparation",
+        "name_ko": "만반의 준비",
+        "name_tw": "磐石的架式",
+        "rarity": 2,
+        "sup_e": [
+          [
+            30141
+          ],
+          []
+        ],
+        "tid": "gS",
+        "type": [
+          "nac"
+        ],
+        "unreleased": [
+          "en"
+        ],
+        "versions": [
+          201601
+        ]
+      }
+    },
+    {
+      "skillId": "204251",
+      "nameJa": "隠れた閃光",
+      "nameKo": null,
+      "nameEn": "Hidden Flash",
+      "displayName": "隠れた閃光",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": null,
+      "descriptionKo": null,
+      "descriptionJa": "勝利のために影で息を潜めるライバルに花を持たせ根性が少し下がる",
+      "descriptionEn": "Your Guts stat is decreased by 40",
+      "iconId": 10044,
+      "conditionGroups": [
+        {
+          "condition": "always==1",
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 4,
+              "value": -400000,
+              "raw": {
+                "type": 4,
+                "value": -400000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 4,
+                "value": -400000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "always==1",
+            "effects": [
+              {
+                "type": 4,
+                "value": -400000
+              }
+            ]
+          }
+        ],
+        "endesc": "Your Guts stat is decreased by 40",
+        "enname": "Hidden Flash",
+        "iconid": 10044,
+        "id": 204251,
+        "jpdesc": "勝利のために影で息を潜めるライバルに花を持たせ根性が少し下がる",
+        "jpname": "隠れた閃光",
+        "rarity": 1,
+        "tid": "wd",
+        "type": [
+          "nac"
+        ],
+        "unreleased": [
+          "ko",
+          "zh_tw",
+          "en"
+        ]
+      }
+    },
+    {
+      "skillId": "900011",
+      "nameJa": "シューティングスター",
+      "nameKo": "슈팅 스타",
+      "nameEn": "Shooting Star",
+      "displayName": "슈팅 스타",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": 200,
+      "descriptionKo": "레이스 종반에 전방에서 상대를 추월하면 약간 앞으로 나가면서 가속력이 매우 조금 상승한다",
+      "descriptionJa": null,
+      "descriptionEn": "After passing another runner toward the front late-race, slightly surge ahead, and very minimally increase acceleration.",
+      "iconId": 20011,
+      "conditionGroups": [
+        {
+          "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+          "precondition": null,
+          "baseTime": 36000,
+          "effects": [
+            {
+              "type": 22,
+              "value": 1500,
+              "raw": {
+                "type": 22,
+                "value": 1500
+              }
+            },
+            {
+              "type": 31,
+              "value": 500,
+              "raw": {
+                "type": 31,
+                "value": 500
+              }
+            }
+          ],
+          "raw": {
+            "base_time": 36000,
+            "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+            "effects": [
+              {
+                "type": 22,
+                "value": 1500
+              },
+              {
+                "type": 31,
+                "value": 500
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 1,
+        "condition_groups": [
+          {
+            "base_time": 36000,
+            "condition": "phase>=2&order>=1&order_rate<=70&change_order_onetime<0",
+            "effects": [
+              {
+                "type": 22,
+                "value": 1500
+              },
+              {
+                "type": 31,
+                "value": 500
+              }
+            ]
+          }
+        ],
+        "cost": 200,
+        "desc_en": "After passing another runner toward the front late-race, slightly surge ahead, and very minimally increase acceleration.",
+        "desc_ko": "레이스 종반에 전방에서 상대를 추월하면 약간 앞으로 나가면서 가속력이 매우 조금 상승한다",
+        "desc_tw": "在競賽後期若於隊列前方追過對手會略微向前邁進加速力會微微上升",
+        "iconid": 20011,
+        "id": 900011,
+        "inherited": true,
+        "name_en": "Shooting Star",
+        "name_ko": "슈팅 스타",
+        "name_tw": "逐夢之星",
+        "parent_skills": [
+          100011
+        ],
+        "rarity": 1,
+        "tid": "B"
+      }
+    },
+    {
+      "skillId": "1000011",
+      "nameJa": "カーニバルボーナス",
+      "nameKo": "카니발 보너스",
+      "nameEn": "Carnival Bonus",
+      "displayName": "카니발 보너스",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": null,
+      "descriptionKo": "레이싱 카니발에서 획득하는 카니발 Pt에 보너스가 붙는다(+{0}%) 이 스킬은 이벤트가 종료되면 소멸한다",
+      "descriptionJa": "レーシングカーニバルで獲得するカーニバルptにボーナスが付く（＋{0}％）このスキルはイベント終了時に消滅する",
+      "descriptionEn": "Increase attributes by +{0}％ in the Racing Carnival. {1}％ chance to also raise runner's mood to Great. This skill will disappear when the event ends.",
+      "iconId": 1010011,
+      "conditionGroups": [
+        {
+          "condition": null,
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 501,
+              "value": 10000,
+              "raw": {
+                "type": 501,
+                "value": 10000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "",
+            "effects": [
+              {
+                "type": 501,
+                "value": 10000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "",
+            "effects": [
+              {
+                "type": 501,
+                "value": 10000
+              }
+            ]
+          }
+        ],
+        "desc_en": "Increase attributes by +{0}％ in the Racing Carnival. {1}％ chance to also raise runner's mood to Great. This skill will disappear when the event ends.",
+        "desc_ko": "레이싱 카니발에서 획득하는 카니발 Pt에 보너스가 붙는다(+{0}%) 이 스킬은 이벤트가 종료되면 소멸한다",
+        "desc_tw": "競速狂歡節中能獲得的狂歡節Pt將額外加成（+{0}％）此技能於活動結束後會自動消失",
+        "endesc": "Bonus points will be added to the carnival points obtained. This skill will disappear at the end of the event.",
+        "enname": "Carnival Bonus (obsolete)",
+        "iconid": 1010011,
+        "id": 1000011,
+        "jpdesc": "レーシングカーニバルで獲得するカーニバルptにボーナスが付く（＋{0}％）このスキルはイベント終了時に消滅する",
+        "jpname": "カーニバルボーナス",
+        "name_en": "Carnival Bonus",
+        "name_ko": "카니발 보너스",
+        "name_tw": "狂歡節加成",
+        "rarity": 1,
+        "tid": "8b",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          1000012,
+          1000013,
+          1000014,
+          1000015,
+          1000016,
+          1000017
+        ]
+      }
+    },
+    {
+      "skillId": "1000012",
+      "nameJa": "カーニバルボーナス",
+      "nameKo": "카니발 보너스",
+      "nameEn": "Carnival Bonus",
+      "displayName": "카니발 보너스",
+      "translationStatus": "source-translation-unverified",
+      "rarity": 1,
+      "cost": null,
+      "descriptionKo": "레이싱 카니발에서 기초능력 +{0}％, 추가로 {1}％의 확률로 컨디션이 최상이 된다 이 스킬은 이벤트 종료 시에 소멸한다",
+      "descriptionJa": "レーシングカーニバルで基礎能力+{0}％、さらに{1}％の確率で絶好調になるこのスキルはイベント終了時に消滅する",
+      "descriptionEn": "Increase attributes by +{0}％ in the Racing Carnival. {1}％ chance to also raise runner's mood to Great. This skill will disappear when the event ends.",
+      "iconId": 1010011,
+      "conditionGroups": [
+        {
+          "condition": null,
+          "precondition": null,
+          "baseTime": -1,
+          "effects": [
+            {
+              "type": 502,
+              "value": 10000,
+              "raw": {
+                "type": 502,
+                "value": 10000
+              }
+            },
+            {
+              "type": 503,
+              "value": 10000,
+              "raw": {
+                "type": 503,
+                "value": 10000
+              }
+            }
+          ],
+          "raw": {
+            "base_time": -1,
+            "condition": "",
+            "effects": [
+              {
+                "type": 502,
+                "value": 10000
+              },
+              {
+                "type": 503,
+                "value": 10000
+              }
+            ]
+          }
+        }
+      ],
+      "sourceIds": [
+        "gt_current"
+      ],
+      "raw": {
+        "activation": 0,
+        "condition_groups": [
+          {
+            "base_time": -1,
+            "condition": "",
+            "effects": [
+              {
+                "type": 502,
+                "value": 10000
+              },
+              {
+                "type": 503,
+                "value": 10000
+              }
+            ]
+          }
+        ],
+        "desc_en": "Increase attributes by +{0}％ in the Racing Carnival. {1}％ chance to also raise runner's mood to Great. This skill will disappear when the event ends.",
+        "desc_ko": "레이싱 카니발에서 기초능력 +{0}％, 추가로 {1}％의 확률로 컨디션이 최상이 된다 이 스킬은 이벤트 종료 시에 소멸한다",
+        "desc_tw": "於競速狂歡節基礎能力+{0}％且有{1}％的機率變成幹勁絕佳狀態此技能於活動結束時消失",
+        "endesc": "Your stats will be raised by x％ and there is a y％ chance for your motivation to be raised to Perfect during carnival races. This skill will disappear at the end of the event.",
+        "enname": "Carnival Bonus (obsolete)",
+        "iconid": 1010011,
+        "id": 1000012,
+        "jpdesc": "レーシングカーニバルで基礎能力+{0}％、さらに{1}％の確率で絶好調になるこのスキルはイベント終了時に消滅する",
+        "jpname": "カーニバルボーナス",
+        "name_en": "Carnival Bonus",
+        "name_ko": "카니발 보너스",
+        "name_tw": "狂歡節加成",
+        "rarity": 1,
+        "tid": "8Y",
+        "type": [
+          "nac"
+        ],
+        "versions": [
+          1000011,
+          1000013,
+          1000014,
+          1000015,
+          1000016,
+          1000017
+        ]
+      }
+    }
+  ],
+  "skillRelations": [
+    {
+      "skillId": "100011",
+      "relatedSkillId": "900011",
+      "relation": "inherited_version",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200011",
+      "relatedSkillId": "200012",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200011",
+      "relatedSkillId": "200014",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200012",
+      "relatedSkillId": "200011",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200012",
+      "relatedSkillId": "200014",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200431",
+      "relatedSkillId": "200432",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200431",
+      "relatedSkillId": "200433",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200432",
+      "relatedSkillId": "200431",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200432",
+      "relatedSkillId": "200433",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200433",
+      "relatedSkillId": "200431",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200433",
+      "relatedSkillId": "200432",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200451",
+      "relatedSkillId": "200452",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200452",
+      "relatedSkillId": "200451",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "201262",
+      "relatedSkillId": "201261",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "201331",
+      "relatedSkillId": "201332",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "201332",
+      "relatedSkillId": "201331",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "201601",
+      "relatedSkillId": "201602",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "201261",
+      "relatedSkillId": "201262",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "1000011",
+      "relatedSkillId": "1000012",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200014",
+      "relatedSkillId": "200011",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200014",
+      "relatedSkillId": "200012",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "1000012",
+      "relatedSkillId": "1000011",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "201602",
+      "relatedSkillId": "201601",
+      "relation": "variant",
+      "sourceIds": [
+        "ut"
+      ],
+      "evidence": "supplied-source"
+    },
+    {
+      "skillId": "200011",
+      "relatedSkillId": "200012",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    },
+    {
+      "skillId": "200014",
+      "relatedSkillId": "200011",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    },
+    {
+      "skillId": "200431",
+      "relatedSkillId": "200432",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    },
+    {
+      "skillId": "200451",
+      "relatedSkillId": "200452",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    },
+    {
+      "skillId": "201261",
+      "relatedSkillId": "201262",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    },
+    {
+      "skillId": "201331",
+      "relatedSkillId": "201332",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    },
+    {
+      "skillId": "201602",
+      "relatedSkillId": "201601",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    },
+    {
+      "skillId": "1000012",
+      "relatedSkillId": "1000011",
+      "relation": "lower_skill",
+      "sourceIds": [
+        "tsuyu"
+      ],
+      "evidence": "explicit-lowerSkillId"
+    }
+  ]
+}

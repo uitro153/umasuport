@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20040.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20040-mejiro-ryan",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:56 GMT",
+  "etag": "\"08002a928bd854a53dc8ea87143367ab\"",
+  "file": {
+    "path": "game-assets/supports/art/20040.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 74934,
+    "mimeType": "image/png",
+    "sha256": "6585062492b43fb7669682d499c7d7eb68cd344468517d33fe733f90267b7eb7",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20040.png",
+    "sourceAssetId": "umamusume/supports/full/small/20040.png",
+    "sourceId": "gametora-media"
+  }
+}

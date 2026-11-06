@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20083.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20083-mejiro-ramonu",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:05 GMT",
+  "etag": "\"1c2348f8a60c8cd80c51a8c9290d4372\"",
+  "file": {
+    "path": "game-assets/supports/art/20083.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 68531,
+    "mimeType": "image/png",
+    "sha256": "1d3ffe93f25bed787f815a00b3ac1b66dba8d3cbd1fba64671997db81e283ad0",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20083.png",
+    "sourceAssetId": "umamusume/supports/full/small/20083.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10145.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10145-kiseki",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Thu, 30 Jul 2026 10:25:47 GMT",
+  "etag": "\"647c6b1c6072890aa280c2680e615b88\"",
+  "file": {
+    "path": "game-assets/supports/art/10145.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 53171,
+    "mimeType": "image/png",
+    "sha256": "7411a4e03d67c981ba7ba098c93ddfd0897d02d647715fd7fbadc623e231b98c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10145.png",
+    "sourceAssetId": "umamusume/supports/full/small/10145.png",
+    "sourceId": "gametora-media"
+  }
+}

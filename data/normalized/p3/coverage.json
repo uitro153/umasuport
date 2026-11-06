@@ -1,0 +1,31 @@
+{
+  "asOf": "2026-11-05",
+  "status": "partial",
+  "skills": 2223,
+  "supports": 566,
+  "krSkillRevisions": 1563,
+  "skillRelations": 2510,
+  "supportSkills": 15147,
+  "supportEvents": 2430,
+  "courses": 138,
+  "tournaments": 44,
+  "jpReferenceTournaments": 50,
+  "scenarios": 15,
+  "researchRows": 17785,
+  "unresolvedRoutes": 0,
+  "ambiguousCourses": [],
+  "koSkillMissing": 228,
+  "koSupportMissing": 6,
+  "supportKrObserved": 469,
+  "supportKrForecast": 97,
+  "supportsWithHint": 532,
+  "supportsWithEvent": 566,
+  "supportsWithOwnedEvent": 564,
+  "downloaded": 193,
+  "downloadFailures": [],
+  "predictionShape": [
+    "char_cards",
+    "scenarios",
+    "support_cards"
+  ]
+}

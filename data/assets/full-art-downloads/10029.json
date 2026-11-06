@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10029.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10029-biwa-hayahide",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:29 GMT",
+  "etag": "\"9169168d1764bbb15f835aca577cad41\"",
+  "file": {
+    "path": "game-assets/supports/art/10029.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 62852,
+    "mimeType": "image/png",
+    "sha256": "cc8df9b62044182cdbbfc51d1efad9d7a368b33c7b2c416c7ebb6d0b32cd25eb",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10029.png",
+    "sourceAssetId": "umamusume/supports/full/small/10029.png",
+    "sourceId": "gametora-media"
+  }
+}

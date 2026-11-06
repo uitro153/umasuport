@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30080.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30080-sasami-anshinzawa",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:23 GMT",
+  "etag": "\"9ea0b935c62806f35c8396200cf2b9c9\"",
+  "file": {
+    "path": "game-assets/supports/art/30080.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83632,
+    "mimeType": "image/png",
+    "sha256": "dbe8e724535fb3568a5b4763fa9c27098bd90912146cf5da235912b6795af849",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30080.png",
+    "sourceAssetId": "umamusume/supports/full/small/30080.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20004.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20004-air-groove",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:50 GMT",
+  "etag": "\"2fc605ee9bb49e488fe4b3d3c96e75aa\"",
+  "file": {
+    "path": "game-assets/supports/art/20004.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 77421,
+    "mimeType": "image/png",
+    "sha256": "9b4346762dee9a1260f4125d8ae421601d326444e92b84f492c299e0b32827b1",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20004.png",
+    "sourceAssetId": "umamusume/supports/full/small/20004.png",
+    "sourceId": "gametora-media"
+  }
+}

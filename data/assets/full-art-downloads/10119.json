@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10119.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10119-dream-journey",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:45 GMT",
+  "etag": "\"22589696d6e49461025648b1c7cf874f\"",
+  "file": {
+    "path": "game-assets/supports/art/10119.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 67450,
+    "mimeType": "image/png",
+    "sha256": "0215ac1b6ded5925d0278c654cc617302676e8ec7b863f48031fe0d6abe09c4f",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10119.png",
+    "sourceAssetId": "umamusume/supports/full/small/10119.png",
+    "sourceId": "gametora-media"
+  }
+}

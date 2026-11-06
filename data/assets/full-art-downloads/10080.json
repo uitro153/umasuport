@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10080.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10080-ksmiracle",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:38 GMT",
+  "etag": "\"f21834c21f081e5920e637680a9c6442\"",
+  "file": {
+    "path": "game-assets/supports/art/10080.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 65406,
+    "mimeType": "image/png",
+    "sha256": "c621fc6436afbda2ba559f4e4d26f33b19391285977af3e7671008c08f464eaa",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10080.png",
+    "sourceAssetId": "umamusume/supports/full/small/10080.png",
+    "sourceId": "gametora-media"
+  }
+}

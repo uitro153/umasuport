@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20081.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20081-north-flight",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:04 GMT",
+  "etag": "\"78ee8af6837015deab3e4453ee3ad555\"",
+  "file": {
+    "path": "game-assets/supports/art/20081.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 80015,
+    "mimeType": "image/png",
+    "sha256": "0984372eea07cc3e224ec6b40570001ab9365c406b17d2e20b9311959ab36589",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20081.png",
+    "sourceAssetId": "umamusume/supports/full/small/20081.png",
+    "sourceId": "gametora-media"
+  }
+}

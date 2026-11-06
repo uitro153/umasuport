@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10071.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10071-sirius-symboli",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:36 GMT",
+  "etag": "\"512c8255ca961c2783872dc6f744a2bc\"",
+  "file": {
+    "path": "game-assets/supports/art/10071.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 60202,
+    "mimeType": "image/png",
+    "sha256": "a0b06f69ba3c2c86453812bb71c19badfc1864f0560c70f5b6ee83065d822343",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10071.png",
+    "sourceAssetId": "umamusume/supports/full/small/10071.png",
+    "sourceId": "gametora-media"
+  }
+}

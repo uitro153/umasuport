@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30244.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30244-mejiro-bright",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:55 GMT",
+  "etag": "\"a2656fb5ccc3cf85ed6caf228dda6954\"",
+  "file": {
+    "path": "game-assets/supports/art/30244.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 84344,
+    "mimeType": "image/png",
+    "sha256": "c584ca8fe5bdc28f6f8f99e477bd0b1c7648d6eb14c009d7f475f95cd34fa7c6",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30244.png",
+    "sourceAssetId": "umamusume/supports/full/small/30244.png",
+    "sourceId": "gametora-media"
+  }
+}

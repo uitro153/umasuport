@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30006.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30006-grass-wonder",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:09 GMT",
+  "etag": "\"3299ab4b05b1138544bee5571eda245b\"",
+  "file": {
+    "path": "game-assets/supports/art/30006.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 73476,
+    "mimeType": "image/png",
+    "sha256": "fd46ff75db238abe9fb66b8fd8907422976e940e0176118817d07542aee3764e",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30006.png",
+    "sourceAssetId": "umamusume/supports/full/small/30006.png",
+    "sourceId": "gametora-media"
+  }
+}

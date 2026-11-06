@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30243.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30243-gran-alegria",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:55 GMT",
+  "etag": "\"7bd2495fb79839b8bef9f4946b10da42\"",
+  "file": {
+    "path": "game-assets/supports/art/30243.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 90945,
+    "mimeType": "image/png",
+    "sha256": "45540b8127a83f2f708074723c7f9b1e57e4b03bfb1d0fd25c8ce1251fe6012b",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30243.png",
+    "sourceAssetId": "umamusume/supports/full/small/30243.png",
+    "sourceId": "gametora-media"
+  }
+}

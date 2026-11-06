@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10094.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10094-mei-satake",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:41 GMT",
+  "etag": "\"a4addcb594b8a7f666b7ebfd97687a5d\"",
+  "file": {
+    "path": "game-assets/supports/art/10094.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 70666,
+    "mimeType": "image/png",
+    "sha256": "88d4b3b14b3b881619ed9b10a2b9e6a609c822ac41067bbf706a3498cdef1916",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10094.png",
+    "sourceAssetId": "umamusume/supports/full/small/10094.png",
+    "sourceId": "gametora-media"
+  }
+}

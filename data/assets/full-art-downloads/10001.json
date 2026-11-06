@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10001.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10001-special-week",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:23 GMT",
+  "etag": "\"edd7773307dbd8dd539fe217d23379e2\"",
+  "file": {
+    "path": "game-assets/supports/art/10001.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 67040,
+    "mimeType": "image/png",
+    "sha256": "938c2c11057346f2d3cfe0ca2ee21b9ca20751505482a2442eb87ddb01ac011a",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10001.png",
+    "sourceAssetId": "umamusume/supports/full/small/10001.png",
+    "sourceId": "gametora-media"
+  }
+}

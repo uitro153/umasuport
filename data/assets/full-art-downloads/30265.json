@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30265.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30265-admire-groove",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:59 GMT",
+  "etag": "\"b5812bbcf4c0cbb4871d8f9881a31318\"",
+  "file": {
+    "path": "game-assets/supports/art/30265.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 82915,
+    "mimeType": "image/png",
+    "sha256": "37c89f128ba6d94af9f14c8a4eae577f8aba2fbd786e1510a4c01ae18a37c860",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30265.png",
+    "sourceAssetId": "umamusume/supports/full/small/30265.png",
+    "sourceId": "gametora-media"
+  }
+}

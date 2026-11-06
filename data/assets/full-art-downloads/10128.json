@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10128.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10128-tucker-bryne",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:47 GMT",
+  "etag": "\"8b92bb40c18ddeac73447332bacac0a1\"",
+  "file": {
+    "path": "game-assets/supports/art/10128.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 70386,
+    "mimeType": "image/png",
+    "sha256": "d747b2f05e44c4d2e52f94f03e6c26cdef8f52b28fb424e5c00065a835f23abf",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10128.png",
+    "sourceAssetId": "umamusume/supports/full/small/10128.png",
+    "sourceId": "gametora-media"
+  }
+}

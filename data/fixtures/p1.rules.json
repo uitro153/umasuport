@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "ruleId": "fixture-pair-sum-and-red-stars-v1",
+  "snapshotId": "fixture-p1-2026-11-05",
+  "kind": "fixture",
+  "sourceIds": [
+    "source_fixture_p1"
+  ],
+  "affinity": {
+    "terms": [
+      {
+        "termId": "target-parent-a",
+        "label": "대상 ↔ 부모 A",
+        "slotA": "target",
+        "slotB": "parentA",
+        "weight": 1
+      },
+      {
+        "termId": "target-parent-b",
+        "label": "대상 ↔ 부모 B",
+        "slotA": "target",
+        "slotB": "parentB",
+        "weight": 1
+      },
+      {
+        "termId": "parent-pair",
+        "label": "부모 A ↔ 부모 B",
+        "slotA": "parentA",
+        "slotB": "parentB",
+        "weight": 1
+      },
+      {
+        "termId": "target-grand-a1",
+        "label": "대상 ↔ 조부 A1",
+        "slotA": "target",
+        "slotB": "grandA1",
+        "weight": 1
+      },
+      {
+        "termId": "target-grand-a2",
+        "label": "대상 ↔ 조부 A2",
+        "slotA": "target",
+        "slotB": "grandA2",
+        "weight": 1
+      },
+      {
+        "termId": "target-grand-b1",
+        "label": "대상 ↔ 조부 B1",
+        "slotA": "target",
+        "slotB": "grandB1",
+        "weight": 1
+      },
+      {
+        "termId": "target-grand-b2",
+        "label": "대상 ↔ 조부 B2",
+        "slotA": "target",
+        "slotB": "grandB2",
+        "weight": 1
+      },
+      {
+        "termId": "parent-a-grand-a1",
+        "label": "부모 A ↔ 조부 A1",
+        "slotA": "parentA",
+        "slotB": "grandA1",
+        "weight": 1
+      },
+      {
+        "termId": "parent-a-grand-a2",
+        "label": "부모 A ↔ 조부 A2",
+        "slotA": "parentA",
+        "slotB": "grandA2",
+        "weight": 1
+      },
+      {
+        "termId": "parent-b-grand-b1",
+        "label": "부모 B ↔ 조부 B1",
+        "slotA": "parentB",
+        "slotB": "grandB1",
+        "weight": 1
+      },
+      {
+        "termId": "parent-b-grand-b2",
+        "label": "부모 B ↔ 조부 B2",
+        "slotA": "parentB",
+        "slotB": "grandB2",
+        "weight": 1
+      }
+    ],
+    "forbiddenSameBasePairs": [
+      [
+        "target",
+        "parentA"
+      ],
+      [
+        "target",
+        "parentB"
+      ],
+      [
+        "parentA",
+        "parentB"
+      ]
+    ]
+  },
+  "aptitude": {
+    "starSteps": [
+      {
+        "minStars": 0,
+        "gradeSteps": 0
+      },
+      {
+        "minStars": 1,
+        "gradeSteps": 1
+      },
+      {
+        "minStars": 4,
+        "gradeSteps": 2
+      },
+      {
+        "minStars": 7,
+        "gradeSteps": 3
+      },
+      {
+        "minStars": 10,
+        "gradeSteps": 4
+      },
+      {
+        "minStars": 13,
+        "gradeSteps": 5
+      },
+      {
+        "minStars": 16,
+        "gradeSteps": 6
+      }
+    ],
+    "initialCap": "A"
+  }
+}

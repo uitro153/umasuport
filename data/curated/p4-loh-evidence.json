@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-11-05",
+  "coverage": "one-official-KR-LoH-event-not-complete-history",
+  "events": [{
+    "eventId": "kr-loh-2026-09",
+    "name": "한국2026년9월 리그 오브 히어로스",
+    "format": "loh",
+    "server": "KR",
+    "startAt": "2026-09-12T12:00:00+09:00",
+    "endAt": "2026-09-21T11:59:00+09:00",
+    "mainStageEndAt": "2026-09-18T11:59:00+09:00",
+    "dateStatus": "confirmed",
+    "courseId": "11103",
+    "conditions": { "distance": 2000, "surface": 2, "direction": 1, "season": 1, "weather": null, "ground": null },
+    "raceTime": "night",
+    "entrants": 12,
+    "weatherPolicy": "random-per-five-main-stage-races",
+    "sourceUrl": "https://kakaogames.oqupie.com/portals/1576/articles/65213",
+    "additionalSourceUrl": "https://pf.kakao.com/_DzxjIb/posts",
+    "evidence": "official-help-and-official-channel-context-2026",
+    "yearEvidence": "Official channel post list gives2026-09-09 immediately below the LoH announcement. Individual-post URL could not be resolved; official help itself states month/day/weekdays only.",
+    "publishedOn": "2026-09-09",
+    "yearEvidenceUrl": "https://pf.kakao.com/_DzxjIb/posts",
+    "individualPostUrl": null,
+    "conflictingSecondary": {
+      "url": "https://swallow91.tistory.com/592",
+      "publishedOn": "2026-08-27",
+      "claimedStartDate": "2026-09-15",
+      "claimedEndDate": "2026-09-24",
+      "resolution": "Use official9/12 main-stage start; keep the older secondary schedule as discrepancy evidence, not a forecast override."
+    },
+    "limitations": ["Official page exact update date unavailable; checked2026-11-05 is a retrieval date, not content update date.", "Do not treat12-runner order conditions as Champions Meeting9-runner conditions.", "Random weather/ground green skills remain conditional/unverified, never assured."]
+  }]
+}

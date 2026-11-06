@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30031.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30031-yukino-bijin",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:14 GMT",
+  "etag": "\"1696a2aa282c01f4ef534dea38f945c9\"",
+  "file": {
+    "path": "game-assets/supports/art/30031.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 75918,
+    "mimeType": "image/png",
+    "sha256": "6abc61c16f4a06edbcae362173d6a9305b38fcaf6119580637d071d5adfdd350",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30031.png",
+    "sourceAssetId": "umamusume/supports/full/small/30031.png",
+    "sourceId": "gametora-media"
+  }
+}

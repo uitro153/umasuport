@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10004.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10004-maruzensky",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:24 GMT",
+  "etag": "\"f785395635971c35ffd23674713ece93\"",
+  "file": {
+    "path": "game-assets/supports/art/10004.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 71142,
+    "mimeType": "image/png",
+    "sha256": "09805e736262c47f0ee47990adb56f15ae46326fbb50a3bcfd9bc1eaf05acb1b",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10004.png",
+    "sourceAssetId": "umamusume/supports/full/small/10004.png",
+    "sourceId": "gametora-media"
+  }
+}

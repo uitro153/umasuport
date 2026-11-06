@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10113.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10113-gentildonna",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:44 GMT",
+  "etag": "\"3e557a03b1445c7740072c28a27003f1\"",
+  "file": {
+    "path": "game-assets/supports/art/10113.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 62745,
+    "mimeType": "image/png",
+    "sha256": "5273100573ebd8ee3152b72b97b33be51533781c8b9d609e1dd43961a2de560e",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10113.png",
+    "sourceAssetId": "umamusume/supports/full/small/10113.png",
+    "sourceId": "gametora-media"
+  }
+}

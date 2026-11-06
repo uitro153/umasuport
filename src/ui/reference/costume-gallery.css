@@ -1,0 +1,27 @@
+.character-picker.p86-costume-picker{width:min(1080px,calc(100% - 32px));height:min(850px,90dvh);max-height:90dvh;overflow:hidden;display:flex;flex-direction:column}
+.character-picker.p86-costume-picker:not([open]){display:none}
+.p86-costume-picker .picker-header{padding:20px 24px 12px;flex:none;gap:12px}
+.p86-costume-picker .picker-header h2{font-size:20px;margin:0}
+.p86-costume-picker .picker-search{flex:none;padding:0 24px}
+.p86-costume-picker .picker-note{padding:10px 24px;font-size:12px;line-height:1.6;flex:none}
+.p86-costume-scroll{overflow:auto;overscroll-behavior:contain;min-height:0;padding:16px 22px 24px;scrollbar-gutter:stable}
+.candidate-list.p86-costume-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin:0;padding:0;align-items:start}
+.candidate-list.p86-costume-grid>li{border:0;position:relative;min-width:0;border-radius:12px;overflow:visible}
+.p86-costume-grid .p86-costume-choice{display:flex;flex-direction:column;gap:8px;justify-content:flex-start;align-items:center;text-align:center;width:100%;padding:12px 7px;min-height:211px;border:1px solid transparent;border-radius:12px;background:var(--theme-bg-f7faf7,#f7faf7);position:relative;color:var(--theme-fg-253e34,#253e34);cursor:pointer;font-family:inherit}
+.p86-costume-grid .candidate-button.p86-costume-choice:hover{background:var(--theme-bg-edf5ed,#edf5ed);border-color:var(--theme-line-bdd6c6,#bdd6c6)}
+.p86-costume-grid .candidate-button.p86-costume-choice:focus-visible{outline-offset:1px}
+.p86-costume-grid .game-asset-costume{width:min(100%,112px);height:auto;aspect-ratio:1;background:var(--theme-bg-edf3ef,#edf3ef);border:0;border-radius:9px}
+.p86-costume-grid .candidate-text{display:block;min-width:0;width:100%}
+.p86-costume-grid .candidate-text>strong{display:block;font-size:13px;line-height:1.45;overflow-wrap:anywhere;font-weight:700}
+.p86-costume-grid .candidate-text>small{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;font-size:11px;line-height:1.5;margin-top:4px;min-height:33px;color:var(--theme-fg-65776e,#65776e)}
+.p86-costume-grid .candidate-score{font-size:11px;line-height:1.4;color:var(--theme-fg-25604c,#25604c);font-weight:600}
+.p86-costume-availability{font-size:10px;color:var(--theme-fg-89651c,#89651c);background:var(--theme-bg-fff1ce,#fff1ce);padding:3px 6px;border-radius:4px}
+.p86-costume-info{position:absolute;right:2px;top:2px;width:44px;height:44px;border:0;border-radius:50%;background:#ffffffdd;color:var(--theme-fg-476052,#476052);font-size:21px;cursor:pointer;display:grid;place-items:center;opacity:.9}
+.p86-costume-info:hover,.p86-costume-info:focus-visible{opacity:1;background:var(--theme-bg-e8f3eb,#e8f3eb);color:var(--theme-fg-214e3d,#214e3d)}
+.p86-clear-picture{width:112px;max-width:100%;aspect-ratio:1;display:grid;place-items:center;font-size:68px;font-weight:300;color:var(--theme-fg-7b9184,#7b9184);border:1px dashed var(--theme-line-bacdc0,#bacdc0);border-radius:9px}
+.p86-costume-clear strong{font-size:13px}.p86-costume-clear small{font-size:11px;color:var(--theme-fg-65776e,#65776e)}
+.p86-costume-detail{display:grid;grid-template-columns:96px minmax(0,1fr) auto;align-items:start;gap:15px;padding:15px;margin-bottom:16px;background:var(--theme-bg-edf5f0,#edf5f0);border:1px solid var(--theme-line-c6dacf,#c6dacf);border-radius:12px}
+.p86-costume-detail>.game-asset-costume{width:96px;height:96px}.p86-costume-detail h3{font-size:15px;line-height:1.5;margin:0 0 4px}.p86-costume-detail p{font-size:12px;line-height:1.6;margin:4px 0;overflow-wrap:anywhere}.p86-costume-detail details{font-size:11px;margin-top:8px}.p86-costume-detail summary{min-height:32px;cursor:pointer}.p86-costume-detail>.btn{min-height:44px;font-size:11px}
+@media(max-width:1100px){.candidate-list.p86-costume-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}
+@media(max-width:820px){.candidate-list.p86-costume-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}.p86-costume-scroll{padding:12px 16px 20px}.p86-costume-picker .picker-header,.p86-costume-picker .picker-search,.p86-costume-picker .picker-note{padding-left:18px;padding-right:18px}}
+@media(max-width:540px){.character-picker.p86-costume-picker{width:calc(100% - 16px);height:94dvh;max-height:94dvh;border-radius:14px}.p86-costume-picker .picker-header{padding:16px 14px 12px}.p86-costume-picker .picker-search{padding:0 14px}.p86-costume-picker .picker-note{padding:10px 14px;font-size:11px}.p86-costume-scroll{padding:12px 12px 20px}.candidate-list.p86-costume-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.p86-costume-grid .candidate-button.p86-costume-choice{padding:12px 7px;min-height:211px}.p86-costume-detail{grid-template-columns:68px minmax(0,1fr);gap:10px;padding:12px}.p86-costume-detail>.game-asset-costume{width:68px;height:68px}.p86-costume-detail>.btn{grid-column:1/-1;width:100%}}

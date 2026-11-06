@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10148.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10148-samson-big",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Mon, 31 Aug 2026 20:24:17 GMT",
+  "etag": "\"d6fc0751292dcad3da8e82c909e3a11a\"",
+  "file": {
+    "path": "game-assets/supports/art/10148.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 61411,
+    "mimeType": "image/png",
+    "sha256": "c185d1e3bcedc2f34c00392cfaccdedf798ada0d67ffc6079b342e62836988b4",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10148.png",
+    "sourceAssetId": "umamusume/supports/full/small/10148.png",
+    "sourceId": "gametora-media"
+  }
+}

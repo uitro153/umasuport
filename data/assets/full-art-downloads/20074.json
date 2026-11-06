@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20074.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20074-yaeno-muteki",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:03 GMT",
+  "etag": "\"e286f563739ec9ea38060055a495b67e\"",
+  "file": {
+    "path": "game-assets/supports/art/20074.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 76083,
+    "mimeType": "image/png",
+    "sha256": "3421f33db716860a131d463d9ca3c582f4f2d686ddc1ac05d0c5ae250ffbed7a",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20074.png",
+    "sourceAssetId": "umamusume/supports/full/small/20074.png",
+    "sourceId": "gametora-media"
+  }
+}

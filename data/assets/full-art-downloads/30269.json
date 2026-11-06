@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30269.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30269-dantsu-flame",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:00 GMT",
+  "etag": "\"cf9a1c9885e2d4f466e341acf6522a42\"",
+  "file": {
+    "path": "game-assets/supports/art/30269.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 86840,
+    "mimeType": "image/png",
+    "sha256": "f0d35f148d3fced3cdc7cb0ddf947a1c9817adc306f43a96e967f4ae20136966",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30269.png",
+    "sourceAssetId": "umamusume/supports/full/small/30269.png",
+    "sourceId": "gametora-media"
+  }
+}

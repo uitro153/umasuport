@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30041.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30041-mejiro-dober",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:16 GMT",
+  "etag": "\"72d6ea7970acda425f8b59bbb0c7a0c0\"",
+  "file": {
+    "path": "game-assets/supports/art/30041.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 76338,
+    "mimeType": "image/png",
+    "sha256": "79ce7a440d056f5b4972b0e0855b9d1a620f8b52d30309c96ba2b6c0f315cec4",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30041.png",
+    "sourceAssetId": "umamusume/supports/full/small/30041.png",
+    "sourceId": "gametora-media"
+  }
+}

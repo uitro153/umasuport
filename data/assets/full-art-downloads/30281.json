@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30281.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30281-inari-one",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:02 GMT",
+  "etag": "\"a1835473aa2da63209b03a00963ef2f0\"",
+  "file": {
+    "path": "game-assets/supports/art/30281.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 82805,
+    "mimeType": "image/png",
+    "sha256": "56c3e7aac77c06ea5c8b2bf963b4574d27046d829da694214a72c93b3ac1fab2",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30281.png",
+    "sourceAssetId": "umamusume/supports/full/small/30281.png",
+    "sourceId": "gametora-media"
+  }
+}

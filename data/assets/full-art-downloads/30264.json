@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30264.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30264-stay-gold",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:59 GMT",
+  "etag": "\"837929db2fe722166ce003a65d9944cc\"",
+  "file": {
+    "path": "game-assets/supports/art/30264.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 89261,
+    "mimeType": "image/png",
+    "sha256": "d5d182a34e01d626d0420df88edb261107120f602f27eddfeffa41d2b6cc53e5",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30264.png",
+    "sourceAssetId": "umamusume/supports/full/small/30264.png",
+    "sourceId": "gametora-media"
+  }
+}

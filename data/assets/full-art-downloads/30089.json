@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30089.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30089-marvelous-sunday",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:25 GMT",
+  "etag": "\"7427a97481ff6c6597bfb0878a9e7e27\"",
+  "file": {
+    "path": "game-assets/supports/art/30089.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 78663,
+    "mimeType": "image/png",
+    "sha256": "d8e479d5fbccb562b3ab41f4558d692a4778a77557463e0ef859c29080dc2527",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30089.png",
+    "sourceAssetId": "umamusume/supports/full/small/30089.png",
+    "sourceId": "gametora-media"
+  }
+}

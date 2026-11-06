@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30043.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30043-nakayama-festa",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:16 GMT",
+  "etag": "\"2e6d3ef656320616d608fdd8e8c7fc3b\"",
+  "file": {
+    "path": "game-assets/supports/art/30043.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 71535,
+    "mimeType": "image/png",
+    "sha256": "34362f38d6032bdada81c744dd3054ddc39e9e3f4261f9be778dcc91e016695d",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30043.png",
+    "sourceAssetId": "umamusume/supports/full/small/30043.png",
+    "sourceId": "gametora-media"
+  }
+}

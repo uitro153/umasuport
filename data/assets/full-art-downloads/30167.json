@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30167.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30167-fine-motion",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:40 GMT",
+  "etag": "\"2fdbda63bf58ab45d19c61855ec0060a\"",
+  "file": {
+    "path": "game-assets/supports/art/30167.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 79998,
+    "mimeType": "image/png",
+    "sha256": "3818b0927193fa46b50b18b5990b1fcff005a72187499c037062b210af35f889",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30167.png",
+    "sourceAssetId": "umamusume/supports/full/small/30167.png",
+    "sourceId": "gametora-media"
+  }
+}

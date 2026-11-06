@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30172.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30172-mejiro-mcqueen",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:41 GMT",
+  "etag": "\"d1868f66a0a6286011a04c8334dbda99\"",
+  "file": {
+    "path": "game-assets/supports/art/30172.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83973,
+    "mimeType": "image/png",
+    "sha256": "87c4e88b482eb49d538c41aa8df8bfdf05e7b401ebc65b03f49de5d1a4eed19d",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30172.png",
+    "sourceAssetId": "umamusume/supports/full/small/30172.png",
+    "sourceId": "gametora-media"
+  }
+}

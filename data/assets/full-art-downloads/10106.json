@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10106.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10106-neo-universe",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:43 GMT",
+  "etag": "\"86e95c09a3faa90763adc0fe4ca302b7\"",
+  "file": {
+    "path": "game-assets/supports/art/10106.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 64384,
+    "mimeType": "image/png",
+    "sha256": "96d1a8eb40a8b4229b732ffdd67aacdc36a102f75be3ba7d8d1c63d4e2bcb345",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10106.png",
+    "sourceAssetId": "umamusume/supports/full/small/10106.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10064.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10064-hishi-akebono",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:35 GMT",
+  "etag": "\"df9a3c748160265375ab170a42d5bbb2\"",
+  "file": {
+    "path": "game-assets/supports/art/10064.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 63924,
+    "mimeType": "image/png",
+    "sha256": "11960716ea8e690b2f0c8182ef3ebcc3dd2112edd568f26607b8ad498baa0601",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10064.png",
+    "sourceAssetId": "umamusume/supports/full/small/10064.png",
+    "sourceId": "gametora-media"
+  }
+}

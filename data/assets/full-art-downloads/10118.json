@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10118.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10118-buena-vista",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:45 GMT",
+  "etag": "\"967833ad2157ee9d55f0dec7d1c4e61f\"",
+  "file": {
+    "path": "game-assets/supports/art/10118.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 61288,
+    "mimeType": "image/png",
+    "sha256": "fdab930c3d3f512638eb3095853780bb07d70ca0e45df9522fe2fa0bf29e143f",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10118.png",
+    "sourceAssetId": "umamusume/supports/full/small/10118.png",
+    "sourceId": "gametora-media"
+  }
+}

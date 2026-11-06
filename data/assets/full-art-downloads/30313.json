@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30313.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30313-rulership",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Mon, 24 Aug 2026 11:35:35 GMT",
+  "etag": "\"93329aa8bdfa10b68fe5cca78bad0efc\"",
+  "file": {
+    "path": "game-assets/supports/art/30313.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 90909,
+    "mimeType": "image/png",
+    "sha256": "2fc784ccd4a21b872eb3920678b3dad32a1984fe68ed20045d2862166dd217df",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30313.png",
+    "sourceAssetId": "umamusume/supports/full/small/30313.png",
+    "sourceId": "gametora-media"
+  }
+}

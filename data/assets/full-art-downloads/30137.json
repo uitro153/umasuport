@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30137.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30137-ancestors-guides",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:25:34 GMT",
+  "etag": "\"f9594fccf469577dbc2fa7fede3be7bc\"",
+  "file": {
+    "path": "game-assets/supports/art/30137.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 81189,
+    "mimeType": "image/png",
+    "sha256": "a003c818fec55627f4fa922dd3076ab3b9126b477002e7ab9a3022ecded1657e",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30137.png",
+    "sourceAssetId": "umamusume/supports/full/small/30137.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10069.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10069-mejiro-ardan",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:36 GMT",
+  "etag": "\"e59bdf2c7b8d630b1e41c614d1e6bc74\"",
+  "file": {
+    "path": "game-assets/supports/art/10069.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 57635,
+    "mimeType": "image/png",
+    "sha256": "efa7e677028412617b9c549147bae5284d504692b8facc0606595e6e30d85675",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10069.png",
+    "sourceAssetId": "umamusume/supports/full/small/10069.png",
+    "sourceId": "gametora-media"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20045.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20045-smart-falcon",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:57 GMT",
+  "etag": "\"3ce393e100be303a9f9d84fdd2bd3ec9\"",
+  "file": {
+    "path": "game-assets/supports/art/20045.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 74358,
+    "mimeType": "image/png",
+    "sha256": "c1c7f744eabea6aab75f94f9fcf22587125653d8df72a1460d13967c33d716e7",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20045.png",
+    "sourceAssetId": "umamusume/supports/full/small/20045.png",
+    "sourceId": "gametora-media"
+  }
+}

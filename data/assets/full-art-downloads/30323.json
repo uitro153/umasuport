@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30323.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30323-azuma",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Mon, 26 Oct 2026 02:46:22 GMT",
+  "etag": "\"638743325bafc43556281b438af6aadc\"",
+  "file": {
+    "path": "game-assets/supports/art/30323.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 86645,
+    "mimeType": "image/png",
+    "sha256": "ad4f439f4cf45bbf3b5d213bd7f7facd5f0243e3171041fad969e25b294d9bd4",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30323.png",
+    "sourceAssetId": "umamusume/supports/full/small/30323.png",
+    "sourceId": "gametora-media"
+  }
+}

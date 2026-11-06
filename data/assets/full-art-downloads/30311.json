@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30311.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30311-efforia",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Mon, 24 Aug 2026 11:35:34 GMT",
+  "etag": "\"1a0a52b246e1d65c998262a0171f7e63\"",
+  "file": {
+    "path": "game-assets/supports/art/30311.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 83634,
+    "mimeType": "image/png",
+    "sha256": "5437231c2dac55cfe4418a8d142e6c47dc5b30bc945e1da45dadcaed3fda7834",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30311.png",
+    "sourceAssetId": "umamusume/supports/full/small/30311.png",
+    "sourceId": "gametora-media"
+  }
+}

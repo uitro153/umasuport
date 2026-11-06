@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/10137.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/10137-sakura-chitose-o",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:48 GMT",
+  "etag": "\"049ec6d3d4e9db4fd26d991b2bedade4\"",
+  "file": {
+    "path": "game-assets/supports/art/10137.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 63796,
+    "mimeType": "image/png",
+    "sha256": "9dd2450ca2e917f9881b9a63ba34b4df1e5cc3172c80fda0d616aa55f36cf407",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/10137.png",
+    "sourceAssetId": "umamusume/supports/full/small/10137.png",
+    "sourceId": "gametora-media"
+  }
+}

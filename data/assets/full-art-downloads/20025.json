@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/20025.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/20025-ikuno-dictus",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:24:54 GMT",
+  "etag": "\"0a0e55b977cefbd0aeb39f71995f7392\"",
+  "file": {
+    "path": "game-assets/supports/art/20025.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 73428,
+    "mimeType": "image/png",
+    "sha256": "c667493b0c9f46332993a7421e0dac87b54740c75fcf6772de2ce0d90dda5b6c",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/20025.png",
+    "sourceAssetId": "umamusume/supports/full/small/20025.png",
+    "sourceId": "gametora-media"
+  }
+}

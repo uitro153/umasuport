@@ -1,0 +1,19 @@
+{
+  "url": "https://media.gametora.com/umamusume/supports/full/small/30299.png",
+  "sourcePage": "https://gametora.com/umamusume/supports/30299-agnes-tachyon",
+  "checkedOn": "2026-11-05",
+  "status": 200,
+  "lastModified": "Fri, 15 May 2026 01:26:06 GMT",
+  "etag": "\"66527843c225c9557c8690b109ffa14d\"",
+  "file": {
+    "path": "game-assets/supports/art/30299.png",
+    "width": 300,
+    "height": 400,
+    "bytes": 75514,
+    "mimeType": "image/png",
+    "sha256": "3daed2e190e7f19504534b2d7a84733b4233dc0a53740a048b0de56dd74100c1",
+    "sourceUrl": "https://media.gametora.com/umamusume/supports/full/small/30299.png",
+    "sourceAssetId": "umamusume/supports/full/small/30299.png",
+    "sourceId": "gametora-media"
+  }
+}
